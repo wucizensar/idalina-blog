@@ -21,7 +21,7 @@ Klasör: `yazilar/<slug>/`
 ## Kurallar
 - Tahmin yok. Bilgi eksikse yazma, Editör Notları'nda "Eksik / doğrulanmalı" altına yaz.
 - İç bağlantı: yalnızca sitemap'te birebir bulunan adres ve marka-profili Bölüm 5'teki kısıtlar. Bağlantıları sitemap'e karşı bir betikle kontrol et ve sonucu Editör Notları'na yaz.
-- Dış kaynak: yalnızca resmi/birincil kaynak; her adresi WebFetch (veya web-fetch alt ajanı) ile açarak doğrula. Açılamayanı kullanma ya da "doğrulanamadı" diye işaretle. Hafızadan adres yazma.
+- Dış kaynak: yalnızca resmi/birincil kaynak; her adresi WebFetch (veya web-fetch alt ajanı) ile açarak doğrula. Açılamayanı kullanma ya da "doğrulanamadı" diye işaretle. Hafızadan adres yazma. Editör Notları'ndaki dış kaynak tablosunda, metinde o kaynağa dayanan her iddia için sayfadan birebir alıntı (özgün dilde, tırnak içinde) ver; alıntısı olmayan iddia metne girmez.
 - Title/meta karakter sayılarını betikle say (Python `len`), tahmin yazma.
 - Kelime sayısını betikle say ve Editör Notları'na yaz (tablolar hariç).
 - Bitirmeden önce iki kontrol listesini tek tek uygula: şablon Bölüm 10 ve doğal yazım skill'inin 12 maddesi (ikisi de marka-profili Bölüm 3A'ya göre okunur). Sonucu Editör Notları'nın sonuna "Kontrol listesi" olarak ekle (her madde ✓ / ✗ + açıklama).
