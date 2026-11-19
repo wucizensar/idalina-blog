@@ -57,7 +57,7 @@ Zeytinyağı bu sosta yoğurdun ekşiliğini yumuşatır ve dokusunu ipeksi hale
 
 ## 6. Hardallı Sos
 
-Hardallı sos, hardalın sirke ya da limon suyuyla çırpılıp zeytinyağının yavaşça eklendiği, kıvamı en kalıcı temel sostur. Hardal bir bağlayıcı gibi çalışır ve yağ ile asidin hemen ayrışmasını önler. Marul, göbek, karışık yeşillik, haşlanmış patates ve yeşil fasulye salatasıyla iyi gider.
+Hardallı sos, hardalın sirke ya da limon suyuyla çırpılıp zeytinyağının yavaşça eklendiği, kıvamı kalıcı bir temel sostur. Hardal bir bağlayıcı gibi çalışır ve yağ ile asidin hemen ayrışmasını önler. Marul, göbek, karışık yeşillik, haşlanmış patates ve yeşil fasulye salatasıyla iyi gider.
 
 Bu sosta zeytinyağı hardalın keskinliğini taşıyan ve kıvamı veren ana malzemedir. Yağ ince bir akışla, sürekli çırparak eklendiğinde sos koyulaşır ve yapraklara tutunur. Sirke yerine limon suyu kullanıldığında sos daha hafif ve taze bir tat alır. Hardallı sosa bal eklemek, onu listenin bir sonraki sosuna dönüştürür.
 
@@ -106,13 +106,13 @@ Tablodaki öneriler bir başlangıç noktasıdır. Aynı salata yoğun bir yağl
 
 Salata sosu birkaç malzemeden oluştuğu için küçük ayrıntılar sonucu doğrudan değiştirir. Aşağıdaki noktalar hem tadı hem de güvenliği ilgilendirir.
 
-- **Tuzu önce asitte çöz:** Tuz yağda çözünmez. Önce limon suyu ya da sirkeyle karıştırılır, zeytinyağı sonra eklenir.
-- **Emülsiyon için yağı azar azar ekle:** Yağ ince bir akışla, sürekli çırparak ya da kapaklı bir kavanozda çalkalanarak eklenir. Hardal ve bal kıvamı kalıcı yapar.
-- **Sosu servisten hemen önce dök:** Yeşil yapraklar sosla buluştuktan sonra kısa sürede söner. Kısır ve piyaz gibi tahıllı ve baklagilli salatalar ise sosu bekledikçe emer.
-- **Önce az dök, sonra tamamla:** Salatanın dibinde sos birikmemelidir. Sos yaprakları ince bir katmanla kaplayacak kadar kullanılır.
-- **Sarımsaklı ve taze otlu sosu o gün hazırla:** Taze sarımsak ve taze otla yapılan sos kullanılacak kadar hazırlanır, yağ içinde ve oda sıcaklığında bekletilmez. Evde çeşnili yağ yapımının risklerini [çeşnili zeytinyağı](/blog/icerik/cesnili-zeytinyagi-aci-biberli-zerdecalli-zeytinyagi) yazısı da anlatır.
-- **Buzdolabından çıkan sosu yeniden çırp:** Zeytinyağı soğukta koyulaşıp bulanıklaşabilir. Sos bir süre oda sıcaklığında bekletilip yeniden çırpılır.
-- **Yağı ışıktan ve ısıdan uzak tut:** Sos için kullanılan şişe ocak başında değil, serin ve karanlık bir dolapta, kapağı kapalı saklanır.
+- **Tuzun önce asitte çözülmesi:** Tuz yağda çözünmez. Önce limon suyu ya da sirkeyle karıştırılır, zeytinyağı sonra eklenir.
+- **Emülsiyon için yağın azar azar eklenmesi:** Yağ ince bir akışla, sürekli çırparak ya da kapaklı bir kavanozda çalkalanarak eklenir. Hardal ve bal kıvamı kalıcı yapar.
+- **Sosun servisten hemen önce dökülmesi:** Yeşil yapraklar sosla buluştuktan sonra kısa sürede söner. Kısır ve piyaz gibi tahıllı ve baklagilli salatalar ise sosu bekledikçe emer.
+- **Sosun önce az dökülüp sonra tamamlanması:** Salatanın dibinde sos birikmemelidir. Sos yaprakları ince bir katmanla kaplayacak kadar kullanılır.
+- **Sarımsaklı ve taze otlu sosun o gün hazırlanması:** Taze sarımsak ve taze otla yapılan sos kullanılacak kadar hazırlanır, yağ içinde ve oda sıcaklığında bekletilmez. Evde çeşnili yağ yapımının risklerini [çeşnili zeytinyağı](/blog/icerik/cesnili-zeytinyagi-aci-biberli-zerdecalli-zeytinyagi) yazısı da anlatır.
+- **Buzdolabından çıkan sosun yeniden çırpılması:** Zeytinyağı soğukta koyulaşıp bulanıklaşabilir. Sos bir süre oda sıcaklığında bekletilip yeniden çırpılır.
+- **Yağın ışıktan ve ısıdan uzak tutulması:** Sos için kullanılan şişe ocak başında değil, serin ve karanlık bir dolapta, kapağı kapalı saklanır.
 
 > **Sarımsaklı ve otlu yağlarda saklama**
 > [ABD Hastalık Kontrol ve Önleme Merkezleri (CDC)](https://www.cdc.gov/botulism/prevention/index.html), doğranmış sarımsaklı yağı botulizm kaynakları arasında sayar. Kurum, sarımsak ya da otla hazırlanan ev yapımı yağların buzdolabında saklanmasını ve 4 gün sonra atılmasını önerir.
@@ -182,7 +182,7 @@ Salata sosu,Zeytinyağlı salata sosu,Limonlu salata sosu,Nar ekşili sos,Ballı
 | Uzun kuyruk varyasyonlar | zeytinyağlı salata sosu, limonlu salata sosu, nar ekşili sos, ballı hardallı sos, yoğurtlu salata sosu, salata için hangi zeytinyağı, salata sosu neden ayrışır, salata sosu önceden hazırlanır mı |
 | Kapak görseli alt metni | Zeytinyağıyla hazırlanmış limonlu, nar ekşili ve yoğurtlu salata sosları kaseler içinde |
 | Şema | BlogPosting + BreadcrumbList Ticimax tarafından otomatik ekleniyor (Article eklenmedi, marka-profili Bölüm 1). FAQPage JSON-LD `sss.html` sonunda, 5 soru, bağlantısız düz metin |
-| Kelime sayısı | 1.966 (H1-Kaynaklar arası, tablolar hariç, Etiketler hariç; betikle sayıldı). Kaynaklar hariç 1.947. 10 madde: 80-97 kelime arası (her biri 80-110 aralığında) |
+| Kelime sayısı | 1.967 (H1-Kaynaklar arası, tablolar hariç, Etiketler hariç; betikle sayıldı). Kaynaklar hariç 1.947. 10 madde: 80-97 kelime arası (her biri 80-110 aralığında) |
 | Etiketler | Salata sosu,Zeytinyağlı salata sosu,Limonlu salata sosu,Nar ekşili sos,Ballı hardallı sos,Yoğurtlu sos,Salata için zeytinyağı,Erken hasat zeytinyağı,Zeytinyağlı tarifler (9 etiket; sitedeki mevcut etiket listesi iletilmediği için hepsi yeni sayılmalı) |
 | S.S.S. tasarım kaynağı | marka-profili Bölüm 6.8 (soru `<h3>`; `font-weight:700` ve `line-height:1.4` profildeki not gereği eklendi) |
 
@@ -257,6 +257,11 @@ Türkçe resmi kaynak (Tarım ve Orman Bakanlığı) sarımsaklı/otlu yağ sakl
 | 3. "Kısacası / Sonuç olarak / Özetle" yok | Yayın metninde betikle kontrol: 0 |
 | 4. Süre/saklama/miktar sayıları yalnızca resmi kaynaktan | 3:1 oranı ve kaşık ölçüleri kaldırıldı; kalan sayılar CDC/WHO kaynaklı |
 
+### Revizyon 2 (yönetmen notu, 19.11.2026)
+
+- Kontrol listesi etiketleri emir kipinden ("sen" hitabı) ad biçimine çevrildi (ör. "Tuzun önce asitte çözülmesi:"), metnin üçüncü şahıs anlatımıyla tutarlı.
+- Hardallı sos: kaynaksız üstünlük "kıvamı en kalıcı" → "kıvamı kalıcı bir temel sostur".
+
 ### Kontrol listesi
 
 **Şablon Bölüm 10 (marka-profili 3A'ya göre)**
@@ -301,7 +306,7 @@ Türkçe resmi kaynak (Tarım ve Orman Bakanlığı) sarımsaklı/otlu yağ sakl
 | 5 | Üçlü / "değil, …" yapısı | ✓ | Tahinli sosta tek "ana gövde değil, … son dokunuş" karşıtlığı |
 | 6 | Art arda bağlaçla başlayan cümle | ✓ | Yok |
 | 7 | -mAktAdIr, "tarafından", "sahip olmak", "olarak" | ✓ | Betik: hepsi 0; edilgen yalnızca kalıp ve öznesiz tarif cümlelerinde (3A #3) |
-| 8 | Sen/siz tutarlılığı | ✓ | Gövde üçüncü şahıs; yalnızca meta açıklamada "Sosunuz … seçin" (meta eylem çağrısı kuralı) |
+| 8 | Sen/siz tutarlılığı | ✓ | Gövde üçüncü şahıs, kontrol listesi etiketleri ad biçiminde (revizyon 2); yalnızca meta açıklamada "Sosunuz … seçin" (meta eylem çağrısı kuralı) |
 | 9 | TDK sayı/kesme/şapka | ✓ | Şapkalı harf 0; "1 yaşından", "%" kullanılmadı |
 | 10 | Gereksiz başlık/kalın/liste | ✓ | Kalınlar yalnızca yapısal (3A #5) |
 | 11 | Somut ayrıntı (doğrulanmış kaynaktan) | ✓ / not | CDC 4 gün, 1 yaş sınırı, ürün tat profilleri; markaya ait sos verisi yok, "somut veri eksik" notu düşüldü |
