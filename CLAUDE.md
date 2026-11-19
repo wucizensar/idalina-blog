@@ -18,6 +18,13 @@ Klasör: `yazilar/<slug>/`
 | `yazi.html` | CKEditor'e yapıştırılacak gövde. H1 hariç, giriş paragrafından Etiketler öncesine kadar; yalnızca marka-profili Bölüm 6'daki satır içi stiller. S.S.S. görsel bloğu dahil, `<script>` hariç |
 | `sss.html` | S.S.S. bloğu (6.8) + FAQPage JSON-LD. Soru/cevaplar `yazi.md` ve `yazi.html` ile birebir aynı |
 
+### Claude Docs teslimi (kullanıcıya giden biçim)
+Yönetmen yazıyı onayladığında son hali **Claude Docs belgesi** olarak da teslim edilir (kullanıcı Word olarak indirir):
+- Araç: Claude Docs bağlayıcısı (mcp__Claude_Docs__*; yüklü değilse ToolSearch ile "Claude_Docs" ara). Docs skill'i listeleniyorsa önce onu yükle, yoksa guide(topic.index) çağır ve oradaki doğum/doldurma kurallarına uy.
+- Belge adı: H1, birebir. Tek sekme: başlık, byline (asof · me), sonra iki bölüm, her biri ayrı update çağrısıyla: (1) yayın metni (H1 hariç, Etiketler dahil), (2) "## Editör Notları (yayınlanmayacak)".
+- Kaynak dalındaki güncel yazi.md; metin değiştirilmez. Belge bağlantısı yönetmene gönderilir.
+- Onaydan sonra revizyon gelirse hem dal hem belge güncellenir (belgede yeni belge açılmaz, aynı belge düzenlenir).
+
 ## Kurallar
 - Tahmin yok. Bilgi eksikse yazma, Editör Notları'nda "Eksik / doğrulanmalı" altına yaz.
 - İç bağlantı: yalnızca sitemap'te birebir bulunan adres ve marka-profili Bölüm 5'teki kısıtlar. Bağlantıları sitemap'e karşı bir betikle kontrol et ve sonucu Editör Notları'na yaz.
