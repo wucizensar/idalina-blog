@@ -1,6 +1,6 @@
 # Akdeniz Diyeti: Ne Yenir, Ne Sınırlanır? Zeytinyağı ve Zeytinle Kurulan Haftalık Örnek Menü
 
-Akdeniz diyeti, Akdeniz havzasının geleneksel beslenme alışkanlıklarından türetilen, sebze, meyve, tam tahıl, baklagil ve zeytinyağını öne çıkaran, hayvansal ürünleri ve şekerli yiyecekleri ise ölçülü tutan bir beslenme düzenidir. Belirli bir kalori hedefi ya da yasaklı besin listesi yoktur. Hangi besinin sofraya ne sıklıkla geleceğini gösteren bir çerçevedir. Bu çerçevenin en bilinen gösterimi, Akdeniz Diyeti Vakfı'nın (Mediterranean Diet Foundation) öncülüğünde hazırlanıp 2011'de Public Health Nutrition dergisinde yayımlanan [güncel Akdeniz diyeti piramididir](https://doi.org/10.1017/S1368980011002515).
+Akdeniz diyeti, Akdeniz havzasında halklar, kültürler ve yiyecekler arasındaki binlerce yıllık alışverişten doğan, bitkisel besinler bakımından zengin bir beslenme düzenidir. Hayvansal kaynaklı besinler ile şeker ve yağ bakımından zengin yiyecekler bu düzende ölçülü miktarda yer alır. Düzenin en bilinen gösterimi, Akdeniz Diyeti Vakfı (Mediterranean Diet Foundation) uzman grubunun görüşleriyle hazırlanıp 2011'de Public Health Nutrition dergisinde yayımlanan [güncel Akdeniz diyeti piramididir](https://doi.org/10.1017/S1368980011002515). Piramit, hangi besinin sofraya ne sıklıkla geleceğini gösterir.
 
 Piramidin önerileri burada altı başlıkta toplanıyor: her ana öğünde yenenler, her gün yenenler, haftada birkaç kez yenenler, sınırlı tutulanlar, özel günlere bırakılanlar ve piramidin tabanındaki yaşam alışkanlıkları. Sıklık tablosunun ardından bu ilkelere göre kurulmuş, kış sebzeleriyle hazırlanmış yedi günlük bir örnek menü geliyor.
 
@@ -26,7 +26,7 @@ Sıralama, piramidin aşağıdan yukarıya daralan yapısını izler. En geniş 
 
 ## 1. Her Ana Öğünde Tahıl, Sebze ve Meyve
 
-Tahıl, sebze ve meyve, Akdeniz piramidinde ana öğünlerin üç temel parçasıdır ve gün içindeki ara öğünlerde de yer alabilir. Tahıl için öğün başına bir-iki porsiyon önerilir. Ekmek, makarna, pirinç ve kuskus bu grubun örnekleridir, Türk mutfağında bulgur da aynı gruba girer. Tercih tam tahıldır, çünkü işleme lifin ve bazı değerli besin öğelerinin bir kısmını uzaklaştırır.
+Tahıl, sebze ve meyve, Akdeniz piramidinde ana öğünlerin üç temel parçasıdır ve gün içindeki ara öğünlerde de yer alabilir. Tahıl için öğün başına bir-iki porsiyon önerilir. Ekmek, makarna, pirinç ve kuskus bu grubun örnekleridir. Tercih tam tahıldır, çünkü işleme lifin ve bazı değerli besin öğelerinin bir kısmını uzaklaştırır.
 
 Sebzede ölçü öğün başına iki ya da daha fazla porsiyondur ve günde en az bir öğünde sebzenin çiğ yenmesi istenir. Meyve de öğün başına bir-iki porsiyonla yer alır ve piramitte en sık seçilen tatlıdır. Kış aylarında bu, kahvaltıda mandalina, öğlen roka salatası, akşam zeytinyağlı pırasa gibi sade bir düzene karşılık gelir. Sebzenin hangi yağla pişeceği bir sonraki ilkenin konusudur.
 
@@ -34,15 +34,15 @@ Sebzede ölçü öğün başına iki ya da daha fazla porsiyondur ve günde en a
 
 Zeytinyağı, Akdeniz piramidinin merkezinde duran ve yağ ihtiyacının ana kaynağı olarak önerilen besindir. Piramit özellikle natürel sızma zeytinyağını öne çıkarır ve onu hem pişirme hem sos yağı olarak tanımlar. Geleneksel olarak sebzeler ve diğer bitkisel besinler de zeytinyağıyla pişer. Dünya Sağlık Örgütü de [sağlıklı beslenme bilgi notunda](https://www.who.int/news-room/fact-sheets/detail/healthy-diet) doymamış yağları doymuş yağlara tercih edilecek yağlar olarak gösterir ve örnekler arasında zeytinyağını sayar.
 
-Zeytinyağının ayçiçek yağından yağ asidi bileşimiyle nasıl ayrıldığını [zeytinyağı mı ayçiçek yağı mı](/blog/icerik/zeytinyagi-mi-aycicek-yagi-mi) karşılaştırması anlatır. Günlük miktar ve kaloriyi ise [zeytinyağı kaç kalori](/blog/icerik/zeytinyagi-kac-kalori-gunde-ne-kadar-tuketilmeli) yazısı ayrıntılı hesaplar.
+Zeytinyağı ile ayçiçek yağı arasındaki [yağ asidi farkı](/blog/icerik/zeytinyagi-mi-aycicek-yagi-mi) ve [zeytinyağının kalorisi ile günlük tüketim miktarı](/blog/icerik/zeytinyagi-kac-kalori-gunde-ne-kadar-tuketilmeli) ayrı başlıklarda ayrıntılı olarak anlatılır.
 
-Aynı günlük katmanda zeytin, kuruyemiş ve tohumlar da bulunur. Piramit bunların bir avuç kadarını ara öğün için iyi bir seçenek olarak gösterir. Kahvaltı tabağındaki zeytinin bölgeden bölgeye nasıl değiştiğini [Türkiye'nin zeytin çeşitleri](/blog/icerik/zeytin-cesitleri-turkiyenin-zeytinleri) yazısı sıralar, sofralık seçenekler de [zeytin](/zeytin) kategorisinde yer alır.
+Aynı günlük katmanda zeytin, kuruyemiş ve tohumlar da bulunur. Piramit bunların bir avuç kadarını ara öğün için iyi bir seçenek olarak gösterir. Kahvaltı tabağındaki zeytin de bölgeden bölgeye değişir ve [Türkiye'nin zeytin çeşitleri](/blog/icerik/zeytin-cesitleri-turkiyenin-zeytinleri) bu farkı gösterir. Sofralık seçenekler [zeytin](/zeytin) kategorisinde yer alır.
 
-Süt ürünleri günde iki porsiyon, tercihen az yağlı olarak önerilir. Ot, baharat, sarımsak ve soğan yemeğe lezzet katar ve tuz kullanımını azaltmaya yardım eder. Günde 1,5-2 litre su da bu katmanın parçasıdır.
+Süt ürünleri günde iki porsiyon, tercihen az yağlı olarak önerilir. Ot, baharat, sarımsak ve soğan, piramide göre tuz kullanımını azaltmaya imkan verir. Günde 1,5-2 litre su da bu katmanın parçasıdır.
 
 ## 3. Haftada Birkaç Kez Balık, Baklagil, Beyaz Et ve Yumurta
 
-Haftalık katman, Akdeniz diyetinde proteinin hangi kaynaklardan geleceğini belirleyen basamaktır. Balık ve kabuklu deniz ürünleri haftada iki ya da daha fazla porsiyon, beyaz et iki porsiyon, yumurta iki-dört porsiyon olarak önerilir. Baklagiller haftada ikiden fazla porsiyonla bu grubun en sık yenen üyesidir. Piramit onları ete bir alternatif olarak ve tahılla birlikte yenmek üzere önerir.
+Haftalık katman, Akdeniz diyetinde proteinin hangi kaynaklardan geleceğini belirleyen basamaktır. Balık ve kabuklu deniz ürünleri haftada iki ya da daha fazla porsiyon, beyaz et iki porsiyon, yumurta iki-dört porsiyon olarak önerilir. Baklagiller haftada ikiden fazla porsiyonla bu grubun en sık yenen üyesidir. Piramit baklagil ile tahılın birleşimini, ete alternatif olarak düşünülmesi gereken bir bitkisel protein kaynağı sayar.
 
 Türk mutfağında baklagille tahılın buluşması tanıdık bir tabaktır: kuru barbunyanın yanında bulgur pilavı, mercimek çorbasının yanında ekmek. Fava ve humus gibi mezeler de baklagili öğle yemeğine taşımanın kolay bir yoludur. Patates bu katmanda yer alır ve haftada üç ya da daha az porsiyon, tercihen taze olarak önerilir. Balıkta en pratik seçim, o hafta pazarda bulunan mevsim balığıdır.
 
@@ -60,9 +60,11 @@ Akdeniz sofrasında günlük tatlının yerini meyve alır. Kışın portakal, m
 
 ## 6. Tabanda Ölçü, Mevsim ve Ortak Sofra
 
-Piramidin tabanı, besinlerin dışında kalan yaşam alışkanlıklarını gösteren basamaktır. Burada ölçülülük, sofrayı paylaşma, yemek yapma, düzenli hareket, yeterli dinlenme, mevsimsellik ile geleneksel, yerel ve çevre dostu ürün tercihi yer alır. Porsiyonlar azla yetinme ve ölçülülük ilkesine göre, kişinin enerji ihtiyacına uyarlanır. Hareket için gün içine yayılmış en az 30 dakika önerilir.
+Piramidin tabanı, besinlerin dışında kalan yaşam alışkanlıklarını gösteren basamaktır. Burada ölçülülük, sofrayı paylaşma, yemek yapma, düzenli hareket, yeterli dinlenme, mevsimsellik ile geleneksel, yerel ve çevre dostu ürün tercihi yer alır. Porsiyonlar azla yetinme ve ölçülülük ilkesine göre, kişinin enerji ihtiyacına uyarlanır. Hareket için gün içine yayılmış, orta düzeyde en az 30 dakika önerilir.
 
-Menüyü kurarken en kolay uygulanan ilke mevsimselliktir. Piramit taze, mevsiminde ve az işlenmiş besinleri tercih eder. Kasım-mart arasında pırasa, kereviz, lahana, ıspanak ve karnabahar bu tanıma uyar. UNESCO da birlikte yemek yemeyi Akdeniz havzasındaki toplulukların kültürel kimliğinin temeli olarak tanımlar.
+Menüyü kurarken en kolay uygulanan ilke mevsimselliktir. Piramit taze, mevsiminde ve az işlenmiş besinleri tercih eder. Kasım-mart arasında pırasa, kereviz, lahana, ıspanak ve karnabahar bu tanıma uyar.
+
+Geleneksel, yerel ve çevre dostu ürünlerin tercihi de piramide göre Akdeniz'in kara ve deniz manzarasının korunmasına katkıda bulunur. UNESCO ise birlikte yemek yemeyi Akdeniz havzasındaki toplulukların kültürel kimliğinin temeli olarak tanımlar. Gündüz kısa bir dinlenme ve yeterli gece uykusu da piramide göre dengeli bir yaşam düzeninin parçasıdır.
 
 ## Ne Yenir, Ne Sınırlanır? Besin Grupları ve Sıklık Tablosu
 
@@ -123,7 +125,7 @@ Akdeniz diyetine geçiş, tek bir öğünü değiştirmekten çok haftalık sık
 - **Baklagil sıklığı:** Haftada ikiden fazla baklagil öğünü planlanır.
 - **Balık günü:** Haftada en az iki öğünde balık ya da deniz ürünü yer alır.
 - **Et sınırı:** Kırmızı et haftada ikiden az, işlenmiş et haftada birden az porsiyonda kalır.
-- **Tuz:** Lezzet için ot, baharat, limon ve sarımsak kullanılır. Dünya Sağlık Örgütü yetişkinler için günde 5 gramdan az tuz önerir.
+- **Tuz:** Tuz yerine ot, baharat ve sarımsak kullanılır. Dünya Sağlık Örgütü yetişkinler için günde 5 gramdan az tuz önerir.
 - **Mevsim:** Sebze ve meyvede mevsiminde olan ve az işlenmiş olan seçilir.
 
 ## Akdeniz Sofrası İçin
@@ -166,7 +168,7 @@ Değişir. Piramidin önerileri 18-65 yaş arası sağlıklı yetişkinleri hede
 
 ## Sonuç
 
-Akdeniz diyetinin altı ilkesi kısaca şöyledir: her ana öğünde tahıl, sebze ve meyve; her gün zeytinyağı, zeytin ve kuruyemiş; haftada birkaç kez balık, baklagil, beyaz et ve yumurta; sınırlı kırmızı ve işlenmiş et; özel günlere tatlı ve şekerli içecek; tabanda ölçü, mevsim ve ortak sofra. Örnek menü bu sıklıkların kış sebzeleriyle nasıl bir haftaya dönüşebileceğini gösterir. Kişisel ihtiyaçlar menüyü değiştirir, haftalık denge ise aynı kalır. Zeytinyağlı yemekler ve kahvaltı sofrası için İdalina Beceren'in [zeytinyağı](/zeytinyagi) seçkisi incelenebilir.
+Akdeniz diyetinin altı ilkesi şunlardır: her ana öğünde tahıl, sebze ve meyve; her gün zeytinyağı, zeytin ve kuruyemiş; haftada birkaç kez balık, baklagil, beyaz et ve yumurta; sınırlı kırmızı ve işlenmiş et; özel günlere tatlı ve şekerli içecek; tabanda ölçü, mevsim ve ortak sofra. Örnek menü bu sıklıkların kış sebzeleriyle nasıl bir haftaya dönüşebileceğini gösterir. Kişisel ihtiyaçlar menüyü değiştirir, haftalık denge ise aynı kalır. Zeytinyağlı yemekler ve kahvaltı sofrası için İdalina Beceren'in [zeytinyağı](/zeytinyagi) seçkisi incelenebilir.
 
 ## Kaynaklar
 
@@ -194,10 +196,72 @@ Akdeniz diyeti,Akdeniz diyeti örnek menü,Akdeniz diyeti piramidi,Haftalık men
 | Şema | BlogPosting ve BreadcrumbList Ticimax tarafından otomatik ekleniyor; Article eklenmedi (marka profili Bölüm 1). FAQPage JSON-LD `sss.html` sonunda, bir kez |
 | İç bağlantılar | 14 bağlantı (13 benzersiz adres), sınır 14 (brief). Betikle sitemap'e karşı kontrol edildi, 14/14 sitemap'te birebir var: `/zeytinyagi` (×2: "Ne Demek?" + Sonuç), `/zeytin`, `/blog/icerik/zeytinyagi-mi-aycicek-yagi-mi`, `/blog/icerik/zeytinyagi-kac-kalori-gunde-ne-kadar-tuketilmeli`, `/blog/icerik/zeytin-cesitleri-turkiyenin-zeytinleri` ve menü tablosunda 8 tarif: `zeytinyagli-pirasa-tarifi`, `humus-tarifi`, `zeytinyagli-lahana-sarmasi-tarifi`, `fava-tarifi`, `zeytinyagli-barbunya-tarifi`, `zeytinyagli-kereviz-tarifi`, `zeytinyagli-yaprak-sarma-tarifi`, `zeytinyagli-enginar-tarifi` |
 | Ürün kutuları (iç bağlantı sayısına dahil değil) | `/2l-soguk-sikim-naturel-sizma-zeytinyagi`, `/siyah-zeytin`, `/yesil-zeytin`. Üçü de marka profili Bölüm 5 bağlanabilir listesinde ve sitemap'te. Sağlık iması yok |
-| Dış kaynaklar | 3 kaynak, 6 kullanım (gövde + Kaynaklar). 19.11.2026'da WebFetch (web-fetch alt ajanı) ile açıldı: (1) https://ich.unesco.org/en/RL/mediterranean-diet-00884 HTTP 200; 2013, 8.COM, Temsili Liste; taraf ülkeler Hırvatistan, Kıbrıs, Yunanistan, İtalya, Fas, Portekiz, İspanya; Türkiye yok. (2) https://doi.org/10.1017/S1368980011002515 → 302 → cambridge.org tam metin HTTP 200; sıklık ve porsiyon ifadeleri, 18-65 yaş sağlıklı yetişkin notu, taban öğeleri buradan. (3) https://www.who.int/news-room/fact-sheets/detail/healthy-diet HTTP 200, son güncelleme 26 Ocak 2026; doymamış yağ (zeytinyağı örnek), tuz < 5 g/gün, serbest şeker < %10 enerji |
+| Dış kaynaklar | 3 kaynak, 6 kullanım (gövde + Kaynaklar). 19.11.2026'da WebFetch (web-fetch alt ajanı) ile açıldı: UNESCO HTTP 200; DOI → 302 → cambridge.org tam metin HTTP 200; DSÖ HTTP 200 (son güncelleme 26 Ocak 2026). Metindeki her iddianın birebir alıntısı aşağıdaki "Dış kaynak alıntı tablosu"ndadır |
 | S.S.S. tasarım kaynağı | marka-profili.md Bölüm 6.8. H3'e eklenen `font-weight:700;line-height:1.4` sitedeki `<strong>` görünümünü korumak içindir (profilde belirtilen istisna) |
 | Etiketler | Akdeniz diyeti,Akdeniz diyeti örnek menü,Akdeniz diyeti piramidi,Haftalık menü,Zeytinyağı,Sofralık zeytin,Zeytinyağlı yemekler,Baklagiller,Kış sebzeleri,Ege mutfağı (10 etiket; "Akdeniz diyeti…", "Haftalık menü", "Kış sebzeleri" sitede yeni olabilir) |
-| Kelime sayısı | Betikle sayıldı, tablolar hariç: giriş-Sonuç arası 1.844; H1'den Etiketler'e tümü 1.923. Tablolardaki metin ayrıca 372 kelime |
+| Kelime sayısı | Betikle sayıldı, tablolar hariç: giriş-Sonuç arası 1.865; H1'den Etiketler'e tümü 1.944. Tablolardaki metin ayrıca 372 kelime |
+
+### Dış kaynak alıntı tablosu
+Alıntılar sayfadan özgün dilde, birebir alınmıştır. Alıntıyla karşılanmayan iddia metne alınmadı (revizyonda "kalori hedefi/yasaklı liste yok", "bulgur aynı gruba girer", "ot ve baharat lezzet katar", "limon" ifadeleri bu nedenle çıkarıldı).
+
+**K1: Bach-Faig ve ark. 2011** (https://doi.org/10.1017/S1368980011002515 → cambridge.org tam metin)
+
+| Metindeki iddia | Birebir alıntı |
+| :-- | :-- |
+| Binlerce yıllık alışverişten doğan beslenme düzeni | "The traditional Mediterranean diet (MD) is the heritage of millennia of exchanges of people, cultures and foods" |
+| Bitkisel besinler bakımından zengin | "defining the MD as a dietary pattern rich in plant foods" |
+| Hayvansal kaynaklı, şeker ve yağdan zengin besinler ölçülü | "foods to be eaten in moderate amounts such as those of animal origin and/or rich in sugars and fats" |
+| Vakıf uzman grubunun görüşleriyle hazırlandı | "have been developed by the gathered opinions of the Mediterranean Diet Foundation Expert Group" |
+| 2011, Public Health Nutrition | Makale sayfası: Public Health Nutrition, Volume 14, Special Issue 12A, pp. 2274-2284, published online 13 December 2011 |
+| Ana öğünlerin üç parçası, gün içinde de bulunabilir | "Main meals should contain three basic elements, which can also be found throughout the day:" |
+| Tahıl öğün başına bir-iki porsiyon; ekmek, makarna, pirinç, kuskus | "Cereals: one or two servings per meal in the form of bread, pasta, rice, couscous and others." |
+| Tam tahıl tercihi ve gerekçesi | "Preferably whole grain, since processing normally removes fibre and some valuable nutrients" |
+| Sebze öğün başına iki ya da daha fazla; günde en az bir öğünde çiğ | "Vegetables: two or more servings per meal." / "at least one of the servings should be consumed raw (one meal/d)" |
+| Meyve öğün başına bir-iki porsiyon, en sık seçilen tatlı | "Fruit: one or two servings per meal, as the most frequently chosen dessert." |
+| Zeytinyağı merkezde, ana yağ kaynağı, özellikle natürel sızma | "Olive oil is located at the centre of the pyramid; it should be the principal source of dietary lipids because of its high nutritional quality (especially extra virgin olive oil)." |
+| Pişirmede ve sosta | "it is recommended for both cooking" … "and dressings" |
+| Sebzeler geleneksel olarak zeytinyağıyla pişer | "Traditionally, vegetables and other plant foods are cooked with olive oil" |
+| Zeytin, kuruyemiş, tohum: bir avuç, ara öğün | "A reasonable consumption of olives, nuts and seeds (such as a handful) make for a healthy snack choice." |
+| Süt ürünleri günde iki porsiyon, tercihen az yağlı | "Dairy products should be present in moderate amounts (two servings per day), with a preference for low-fat dairy" |
+| Ot, baharat, sarımsak, soğan: tuzu azaltma | "allow for a reduction in salt use" |
+| Su 1,5-2 litre; bitki çayları | "A daily intake of 1·5–2 l of water (equivalent to six to eight glasses) should be guaranteed." / herbal infusions "may help to complete the requirements" |
+| Balık iki ya da daha fazla, beyaz et iki, yumurta iki-dört | "Fish and shellfish (two or more servings), white meat (two servings) and eggs (two to four servings)" |
+| Baklagil ikiden fazla; tahılla birleşimi ete alternatif | "The combination of legumes (more than two servings) and cereals is a healthy plant protein and lipid source that should be considered as a meat alternative" |
+| Patates haftada üç ya da daha az, tercihen taze | "three or fewer servings per week, preferably fresh" |
+| Kırmızı et ikiden az, yağsız; işlenmiş et birden az | "Consumption of red meat (less than two servings, preferably lean cuts) and processed meats (less than one serving)" |
+| Kırmızı et miktar ve sıklıkta az | "should be small in both quantity and frequency" |
+| Tatlılar piramidin tepesinde | "In the top vertex of the pyramid are the foods rich in sugars and unhealthy fats (sweets)." |
+| Şekerleme, pasta, şekerli içecek; az ve özel günlerde | "Sugar, candies, pastries and beverages such as sweetened fruit juices and soft drinks should be consumed in small amounts and set aside for special occasions." |
+| Taban öğeleri piramidin dışında, tabanında | "These concepts represented outside of the pyramid, but at its base, are as follows." Başlıklar: "Moderation", "Socialisation", "Culinary activities", "Physical activity", "Adequate rest", "Seasonality", "Traditional, local, eco-friendly and biodiverse products" |
+| Porsiyon azla yetinme ve ölçülülüğe, enerji ihtiyacına göre | "Serving sizes should be based on frugality and moderation, to adapt the urban and modern lifestyles to energy needs." |
+| Porsiyon yerel alışkanlıklara göre | "should reflect autochthonous peculiarities and local habits" |
+| Orta düzeyde, gün içine yayılmış en az 30 dakika hareket | "Regular practice of moderate physical activity (at least 30 min throughout the day)" |
+| Gündüz dinlenme ve gece uykusu | "Resting during the day (nap) as well as adequate night sleep is also part of a healthy and balanced lifestyle." |
+| Mevsiminde, taze, az işlenmiş besin tercihi | "The preference for seasonal, fresh and minimally processed foods" |
+| Yerel ürün tercihi kara ve deniz manzarasını korur | "contributes to the preservation of Mediterranean landscapes and sea" |
+| 18-65 yaş sağlıklı yetişkin; çocuk, gebe, hasta için uyarlama | "The recommendations target the healthy adult population (18–65 years old)" / "should be adapted to the special needs of children, pregnant women and those suffering from health conditions." |
+
+**K2: UNESCO** (https://ich.unesco.org/en/RL/mediterranean-diet-00884)
+
+| Metindeki iddia | Birebir alıntı |
+| :-- | :-- |
+| 2013'te Temsili Liste'ye alındı | "Inscribed in 2013 (8.COM) on the Representative List of the Intangible Cultural Heritage of Humanity" |
+| Taraf ülkeler (Türkiye yok) | Sayfadaki ülke bloğu: "Portugal", "Morocco", "Italy", "Greece", "Spain", "Croatia", "Cyprus" |
+| Tanım: yetiştirme, saklama, pişirme, paylaşma | "a set of skills, knowledge, rituals, symbols and traditions concerning crops, harvesting, fishing, animal husbandry, conservation, processing, cooking, and particularly the sharing and consumption of food" |
+| Birlikte yemek kültürel kimliğin temeli | "Eating together is the foundation of the cultural identity and continuity of communities throughout the Mediterranean basin." |
+
+Not: Bach-Faig makalesi UNESCO tanınmasını "in 2010" diye anıyor (ilk kayıt yılı); UNESCO sayfası yedi ülkeli güncel kaydı 2013 olarak veriyor. Metin UNESCO sayfasındaki 2013 ve yedi ülkeyi kullanır.
+
+**K3: DSÖ, Healthy diet** (https://www.who.int/news-room/fact-sheets/detail/healthy-diet)
+
+| Metindeki iddia | Birebir alıntı |
+| :-- | :-- |
+| Doymamış yağ doymuş yağa tercih edilir, zeytinyağı örnek | "Unsaturated fat (found in fish, avocado and nuts, and in sunflower, soybean, canola and olive oils) is preferable to saturated fat" |
+| Yetişkinde tuz günde 5 gramdan az | "In adults, salt intake should be limited to less than 5 grams per day (2 grams per day sodium)." |
+| Serbest şeker enerji alımının %10'undan az | "limited to less than 10% of total daily energy intake" |
+
+### Revizyon notu (yönetmen notu, 19.11.2026)
+1. Her dış kaynak iddiası için birebir alıntı tablosu eklendi; alıntısı olmayan dört ifade çıkarıldı. 2. Görünen metinde iç yapı ifadesi 2'ye indirildi ("sitedeki zeytinyağlı tariflerdir", "tarifin de andığı"); bağlantı çapaları "… yazısı" kalıbından arındırıldı. 3. "Kısacası / Sonuç olarak / Özetle" yok; Sonuç'taki "kısaca" da kaldırıldı. 4. Metindeki ve S.S.S.'deki tüm sayılar (porsiyon sıklıkları, 18-65, 30 dakika, 1,5-2 litre, 5 g, %10, 2013) resmi/birincil kaynaktan; site tarif ve yazıları sayı kaynağı olarak kullanılmadı.
 
 ### Yayın sonrası çapraz bağlantı
 - **"Zeytinyağının Faydaları"** yayına girince: Bölüm "2. Her Gün Zeytinyağı, Zeytin ve Kuruyemiş" ilk paragrafının sonuna (DSÖ cümlesinden sonra) "sağlık etkileri" bağlamında bir bağlantı. İç bağlantı sınırı (14) dolu olduğu için `/blog/icerik/zeytinyagi-mi-aycicek-yagi-mi` bağlantısıyla değiştirilmesi önerilir.
@@ -251,7 +315,7 @@ Akdeniz diyeti,Akdeniz diyeti örnek menü,Akdeniz diyeti piramidi,Haftalık men
 | 6-9 iç bağlantı, sitemap'te birebir | ✓ | Brief gereği 14 (menü tablosu); 14/14 sitemap'te, arşiv/parametreli yok |
 | Kümedeki blog yazısına bağlantı | ✓ | 3 rehber + 8 tarif yazısı; proje sayfası karşılığı ürün kutuları |
 | Ana sayfa 2 kez | ✓ | `/zeytinyagi` gövde + Sonuç |
-| Dış kaynaklar açılarak doğrulandı | ✓ | 3/3; TÜBER açılamadığı için kullanılmadı |
+| Dış kaynaklar açılarak doğrulandı | ✓ | 3/3, her iddia için birebir alıntı tablosu; TÜBER açılamadığı için kullanılmadı |
 | Article şeması | ✓ | Marka profili gereği eklenmedi (Ticimax BlogPosting üretiyor) |
 
 **Doğal yazım skill'i, 12 madde (3A #7'ye göre)**
@@ -259,7 +323,7 @@ Akdeniz diyeti,Akdeniz diyeti örnek menü,Akdeniz diyeti piramidi,Haftalık men
 | # | Durum | Açıklama |
 | :-: | :-: | :-- |
 | 1 | ✓ | Doğrudan tanımla açılıyor, "Günümüzde" yok |
-| 2 | ✓ | Sonuç altı ilkeyi sayıp CTA ile bitiyor; "Umarım…" kapanışı yok (Sonuç başlığı şablon gereği) |
+| 2 | ✓ | Sonuç altı ilkeyi sayıp CTA ile bitiyor; "Umarım…", "Kısacası", "Sonuç olarak", "Özetle" yok (Sonuç başlığı şablon gereği) |
 | 3 | ✓ | Uzun çizgi 0 (betik) |
 | 4 | ✓ | Bölüm 2 kalıpları (kritik rol, derinlemesine, unutulmamalıdır…) yok |
 | 5 | ✓ | Refleks üçlü ve "değil, … dır" karşıtlığı tekrar etmiyor |
@@ -268,5 +332,5 @@ Akdeniz diyeti,Akdeniz diyeti örnek menü,Akdeniz diyeti piramidi,Haftalık men
 | 8 | ✓ | Üçüncü şahıs; "siz" hitabı yok |
 | 9 | ✓ | %10, 1,5-2, 18-65, kesmeler (UNESCO'nun, İdalina Beceren'in) TDK'ye uygun; iki noktadan sonra liste küçük harfle; şapkalı harf 0 |
 | 10 | ✓ | Uzun rehber; başlık ve listeler şablon gereği, düz paragrafta kalın yok |
-| 11 | ✓ | Somut ayrıntılar yalnızca doğrulanmış kaynaktan (2013, yedi ülke, sıklıklar, 30 dakika, 1,5-2 litre, 5 g, %10); kaynaksız sayı yok |
+| 11 | ✓ | Somut ayrıntılar yalnızca doğrulanmış kaynaktan (2013, yedi ülke, sıklıklar, 30 dakika, 1,5-2 litre, 5 g, %10), her biri alıntı tablosunda; kaynaksız sayı yok |
 | 12 | ✓ | Ara başlıklarda büyük harf ve "ve/mı" küçük harf korunuyor |
