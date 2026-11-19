@@ -24,9 +24,9 @@ Unsurların sırası, sofranın kurulma sırasını da izler: önce merkez tabak
 
 ## 1. Zeytin Çeşitleri
 
-Zeytin, Ege kahvaltısının ilk konan ve en uzun kalan tabağıdır. Sofrada genellikle iki üç çeşit bulunur: acılığı suyla alınıp salamurada bekletilen yeşil çizik ya da kırma zeytin, olgunlaşıp siyaha döndükten sonra toplanan siyah salamura zeytin ve iri taneli, etli sofralık zeytin. Bölgede kahvaltının yeşil zeytini çoğu zaman Edremit (Ayvalık) çeşidindendir. Bu çeşidin sofrada ve yağda nasıl kullanıldığı [Edremit zeytini](/blog/icerik/edremit-ayvalik-zeytini-ozellikleri) yazısında, Türkiye'nin öteki sofralık çeşitleri ise [zeytin çeşitleri](/blog/icerik/zeytin-cesitleri-turkiyenin-zeytinleri) rehberinde anlatılıyor.
+Zeytin, Ege kahvaltısının ilk konan ve en uzun kalan tabağıdır. Sofrada genellikle iki üç çeşit bulunur: acılığı suyla alınıp salamurada bekletilen yeşil çizik ya da kırma zeytin, olgunlaşıp siyaha döndükten sonra toplanan siyah salamura zeytin ve iri taneli, etli sofralık zeytin. Bölgede kahvaltının yeşil zeytini çoğu zaman Edremit (Ayvalık) çeşidindendir. [Edremit zeytini](/blog/icerik/edremit-ayvalik-zeytini-ozellikleri) hem yağlık hem sofralık kullanılır, yeşil kırma ve çizik olarak kahvaltıya gelir. Türkiye'nin öteki sofralık [zeytin çeşitleri](/blog/icerik/zeytin-cesitleri-turkiyenin-zeytinleri) arasında Ege dışından gelenler de sofraya eklenebilir.
 
-Sunumda her çeşit ayrı bir kaseye konur, çünkü salamuralar birbirinin tadını değiştirir. Yeşil çizik zeytinin üzerine bir iki kaşık zeytinyağı, biraz kekik ve ince doğranmış sarımsak ya da limon kabuğu eklenir. Siyah zeytin ise sade bırakılır ya da üzerine birkaç damla zeytinyağı gezdirilir. Çeşitler [yeşil çizik zeytin](/yesil-cizik-zeytin) ve [siyah salamura zeytin](/siyah-salamura-zeytin) kategorilerinde ayrı ayrı görülebilir. Zeytinler salamuradan çıkarılırken suyu tamamen dökülmez, kalan zeytin kavanozda kendi salamurasında beklerse yumuşamaz. Ege'de pek çok ev kahvaltılık zeytinini kendisi kurar. Yeşil çizik ve siyah salamuranın adım adım kuruluşu [evde zeytin kurma](/blog/icerik/evde-zeytin-nasil-kurulur-yesil-cizik-siyah-salamura) yazısında yer alıyor.
+Sunumda her çeşit ayrı bir kaseye konur, çünkü salamuralar birbirinin tadını değiştirir. Yeşil çizik zeytinin üzerine biraz zeytinyağı, biraz kekik ve ince doğranmış sarımsak ya da limon kabuğu eklenir. Siyah zeytin ise sade bırakılır ya da üzerine birkaç damla zeytinyağı gezdirilir. Çeşitler [yeşil çizik zeytin](/yesil-cizik-zeytin) ve [siyah salamura zeytin](/siyah-salamura-zeytin) kategorilerinde ayrı ayrı görülebilir. Zeytinler salamuradan çıkarılırken suyu tamamen dökülmez, kalan zeytin kavanozda kendi salamurasında beklerse yumuşamaz. Ege'de pek çok ev kahvaltılık zeytinini kendisi kurar. [Evde zeytin kurma](/blog/icerik/evde-zeytin-nasil-kurulur-yesil-cizik-siyah-salamura) rehberi, yeşil çizik ve siyah salamuranın kuruluşunu adım adım veriyor.
 
 ## 2. Zeytinyağı ve Banmalık Tabak
 
@@ -47,7 +47,7 @@ Ot kavurmasında ot önce iyice yıkanır, iri doğranır ve zeytinyağında so�
 
 Ege kahvaltısında peynir tabağı, zeytinyağıyla tatlandırılan taze ve beyaz peynirlerden oluşur. Tam yağlı beyaz peynir, lor, çökelek ve keçi peyniri en sık görülenlerdir. Lor ve çökelek çoğu zaman sade gelmez, üzerine zeytinyağı gezdirilir ve kekik ya da pul biber serpilir.
 
-Sunumda beyaz peynir kalın dilimlenir, lor ise küçük bir kasede ezilerek ya da kaşıkla bölünerek konur. Peynir buzdolabından sofradan yarım saat kadar önce çıkarılırsa tadı daha iyi ortaya çıkar. Soğuk peynirde tuz öne çıkar, oda sıcaklığına yaklaşınca sütün tadı da hissedilir. Banmalık tabağın baharatı peynirde de kullanılabilir, böylece sofrada aynı aroma birkaç tabağı birbirine bağlar.
+Sunumda beyaz peynir kalın dilimlenir, lor ise küçük bir kasede ezilerek ya da kaşıkla bölünerek konur. Peynir buzdolabından sofra kurulmaya başlanırken çıkarılırsa tadı daha iyi ortaya çıkar. Soğuk peynirde tuz öne çıkar, oda sıcaklığına yaklaşınca sütün tadı da hissedilir. Banmalık tabağın baharatı peynirde de kullanılabilir, böylece sofrada aynı aroma birkaç tabağı birbirine bağlar.
 
 ## 5. Ekmek, Bazlama ve Gözleme
 
@@ -93,7 +93,7 @@ Kahvaltı sofrasında zeytinyağı üç ayrı işte kullanılır ve her işin be
 | **Yumurta pişirme** | Natürel sızma | Kısık ateşte, kısa süre pişirilir; yağın tadı yumurtaya geçer |
 | **Ot kavurma** | Natürel sızma | Otun suyunu çekene kadar kavrulur, dengeli bir yağ otun tadını öne çıkarır |
 
-Aynı sofrada iki şişe bulundurmak işi kolaylaştırır: biri banmalık tabak ve çiğ kullanım için, diğeri tava için. Hamur işinde tereyağının yerine zeytinyağı kullanmanın ölçüleri için [tereyağı yerine zeytinyağı](/blog/icerik/tereyagi-yerine-zeytinyagi-kullanimi-olcu-ve-tarifler) yazısına bakılabilir.
+Aynı sofrada iki şişe bulundurmak işi kolaylaştırır: biri banmalık tabak ve çiğ kullanım için, diğeri tava için. Kahvaltılık poğaça ya da kek hazırlanacaksa [tereyağı yerine zeytinyağı](/blog/icerik/tereyagi-yerine-zeytinyagi-kullanimi-olcu-ve-tarifler) ölçüleri hamur işinde de tereyağını zeytinyağıyla değiştirmeyi kolaylaştırır.
 
 ## Ege Kahvaltısı Sofrası Kurarken Nelere Dikkat Edilmeli?
 
