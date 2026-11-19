@@ -205,14 +205,65 @@ Kümedeki 4 yazı açılarak (web-fetch) tekrar/çelişki kontrolü yapıldı:
 - `polifenol-nedir-yuksek-polifenollu-zeytinyagi`: Zeytinyağı polifenolü ve AB sağlık beyanı. Bu yazıda polifenol yalnızca tanım ve işleme etkisiyle anılıyor, AB beyanı sofra zeytinine aktarılmadı. Çelişki yok.
 - Çakışma riski: Sitemap'te `zeytinyagi-kac-kalori-gunde-ne-kadar-tuketilmeli` var; o yazı zeytinyağı, bu yazı sofra zeytini. Anahtar kelime ayrışıyor ("günde kaç zeytin" / "zeytinyağı günde ne kadar"), yine de editör kontrol etmeli.
 
-### Dış kaynaklar (doğrulama)
+### Dış kaynaklar (doğrulama ve iddia-alıntı eşleşmesi)
 
-| # | Kaynak | Adres | Doğrulama |
-| :-: | :-- | :-- | :-- |
-| 1 | Türk Gıda Kodeksi Sofralık Zeytin Tebliği (2014/33) | https://www.resmigazete.gov.tr/eskiler/2014/08/20140823-7.htm | web-fetch ile açıldı (HTTP 200), Madde 4 tanımları, Madde 5 sınıflar, Madde 12 "az tuzlu" (100 g'da 4 g'a kadar) okundu. Ek-1 tuz/pH tablosu ve Ek-2 irilik tablosu, sayfadaki `20140823-7-1.docx` ekinden metin çıkarılarak okundu. Sayfada Türkçe karakterler bozuk geldi, alıntılar bağlamdan düzeltildi |
-| 2 | IOC, Trade Standard Applying to Table Olives (COI/OT/NC no. 1, Aralık 2004) | https://www.internationaloliveoil.org/wp-content/uploads/2019/11/COI-OT-NC1-2004-Eng.pdf | İndirildi, `pdftotext` ile okundu: 2.2 olgunluk tipleri, 2.3 işleme biçimleri ve renk aralıkları, 4.4 demir glukonat/laktat (0,15 g/kg toplam Fe), 6.5 fermente zeytinde laktik bakteri ve maya, 6.6 sterilizasyon |
-| 3 | DSÖ, Sodium reduction | https://www.who.int/news-room/fact-sheets/detail/salt-reduction | HTTP 200, web-fetch ile okundu (sayfa tarihi 11 Mayıs 2026): yetişkinde < 2.000 mg/gün sodyum (< 5 g tuz), fazla sodyumun kan basıncını yükseltmesi, işlenmiş gıdalar (ekmek, işlenmiş et, atıştırmalık, sos) |
-| 4 | USDA FoodData Central, SR Legacy | https://fdc.nal.usda.gov/ | Veriler resmi FDC API'sinden (`api.nal.usda.gov/fdc/v1/food/{id}`) çekildi. Kayıt sayfaları (`/food-details/169096/nutrients`) sunucu tarafında 404 dönüyor (tek sayfalık uygulama), bu yüzden ana sayfaya bağlandı ve FDC ID'leri metinde verildi |
+Her dış kaynak açılarak doğrulandı. Aşağıda metindeki her iddianın dayandığı sayfadan birebir alıntı (özgün dilde) veriliyor. Alıntısı olmayan iddia metinde bırakılmadı.
+
+**1. Türk Gıda Kodeksi Sofralık Zeytin Tebliği (2014/33)**: https://www.resmigazete.gov.tr/eskiler/2014/08/20140823-7.htm (HTTP 200, web-fetch). Ek-1 ve Ek-2, sayfadaki `20140823-7-1.docx` ekinin XML'inden betikle okundu. Not: Sayfa web-fetch'e ASCII dışı Türkçe harfleri bozuk ("�") verdi; aşağıdaki gövde alıntılarında kelimeler ve sözcük sırası birebir, yalnızca bozuk harfler bağlamdan yazıldı. Ek-1/Ek-2 alıntıları .docx'ten bozulmadan alındı.
+
+| Metindeki iddia | Birebir alıntı |
+| :-- | :-- |
+| Tebliğ zeytini hasat dönemine göre yeşil, rengi dönük ve siyah olarak ayırır; tablo "Hasat olgunluğu" satırı | "Yeşil zeytin: Yeşilden sarımsı yeşile kadar olan olgunlaşma periyodu başlangıcında, renk değişiminden önce hasat edilen ve normal iriliğe erişmiş meyveleri" / "Rengi dönük/pembe zeytin: Tam olgunlaşma periyodundan önce, renk değişim döneminde pembe, kırmızı, şarabi, açık kahverengi renklerde iken hasat edilen meyveleri" / "Siyah zeytin: Tam olgunlaşma döneminde ya da bu dönemin hemen öncesinde hasat edilen, rengi siyah veya siyaha yakın, koyu mor, yeşilimsi siyah, koyu kahverengi veya kırmızı siyahtan menekşe siyahına kadar olan meyveleri" |
+| İşleme şekline göre doğal zeytin (doğal salamura, sele, doğal kurutulmuş) ve işlem görmüş zeytin (işlem görmüş salamura, işlem görmüş kurutulmuş, oksidasyonla karartılmış); kontrol listesi "İşleme şekli" | "(3) Sofralık zeytin; işleme şekillerine göre aşağıdaki şekilde sınıflandırılır. a) Doğal zeytin 1) Doğal salamura zeytin 2) Sele zeytini 3) Doğal kurutulmuş zeytin b) İşlem görmüş zeytin 1) Oksidasyonla karartılmış zeytin 2) İşlem görmüş kurutulmuş zeytin 3) İşlem görmüş salamura zeytin" (Madde 5) |
+| Doğal zeytin alkali kullanılmadan tam ya da kısmi fermantasyonla kuru tuzda veya salamurada hazırlanır (giriş, Madde 6, S.S.S.) | "Doğal zeytin: Alkali kullanılmaksızın tam veya kısmi fermantasyon işlemine tabii tutularak kuru tuz veya salamurada hazırlanan, asitlik düzenleyici eklenerek ya da eklenmeksizin muhafaza edilen yeşil, rengi dönük veya siyah zeytini" (Madde 4) |
+| Tablo "Yaygın işleme" yeşil sütunu: alkaliyle işlem görmüş salamura | "İşlem görmüş zeytin: Alkali ile işlem gören, sonrasında tam veya kısmi fermantasyon işlemine tabi tutularak salamurada hazırlanan, asitlik düzenleyici eklenerek ya da eklenmeksizin muhafaza edilen yeşil, rengi dönük veya siyah zeytini" |
+| Salamura tanımı (Madde 6) | "Salamura: Zeytinlerin yenilebilme olgunluğu kazanması ve korunması için gerektiğinde gıda katkı maddeleri de ilave edilerek hazırlanan belirli derişimdeki tuzlu su çözeltisini" |
+| Sele = kuru tuz (tablo) | "Sele zeytini: Tam olgunluk döneminde hasat edilen doğal siyah zeytinlerin alkali kullanılmaksızın tuz ile kat kat karıştırılarak yenilebilme olgunluğu kazandırılmış ve dış yüzeyi kırışmış siyah zeytini" |
+| Oksidasyonla karartılmış zeytin fermente edilerek ya da edilmeden üretilebilir (S.S.S.) | "Oksidasyonla karartılmış zeytin: Yeşil, siyah veya rengi dönük zeytinin alkali ile işlemden geçirilerek, oksidasyon ile karartıldıktan sonra fermente edilerek veya edilmeden elde edilen zeytini" |
+| Zeytin tuzlu suda/kuru tuzda hazırlandığı için meyveye tuz geçer (Madde 5) | "Hazır ambalajlı olarak piyasaya arz edilen zeytinlerin pH değeri ve tuz (NaCl) miktarı Ek-1'de verilen değerlere uygun olur. Bu değerlere, mezokarpta (etli kısımda) bakılır." (IOC alıntısıyla birlikte, aşağıda) |
+| En yüksek tuz oranı işleme ve ambalaja göre %4-%8; ısıl işlemsiz ambalajda siyah %8, yeşil %7; pastörize %6; sterilize %4 (Madde 5, tablo, S.S.S.) | Ek-1 "Tablo 1 - Zeytin tuz ve pH değerleri", "% Tuz (en çok)", sütunlar MAP / K / P / S: "İşlem görmüş zeytinler: Rengi dönük/siyah 8 8 6 4; Yeşil 7 7 6 4" / "Doğal zeytinler: Rengi Dönük/Siyah 8 8 6 4; Yeşil 7 7 6 4". Not (2): "MAP: Modifiye atmosferde ambalajlanan zeytinleri, K: … koruyucu ilave edilerek veya edilmeksizin ısıl işlem uygulanmayan zeytinleri, P: Pastörizasyon işlemi uygulanan zeytinleri, S : Sterilizasyon işlemi uygulanan zeytinleri" |
+| "Az tuzlu" = 100 g'da 4 g'a kadar tuz (Madde 5, kontrol listesi) | "g) Zeytinlerdeki tuz içeriği (NaCl) 100 gramda 4 grama kadar ise "az tuzlu" olarak ifade edilebilir." (Madde 12) |
+| L boy zeytinde kilogramda 231-260 tane; irileştikçe tane sayısı azalır (Günde kaç zeytin, kontrol listesi) | Ek-2 "Zeytinin danesinin irilik dereceleri (dane/kg)": "231-260 \| L" / "Not 3- Zeytin dane adedi, zeytinin iriliği ile ters orantılıdır. Zeytin irileştikçe kilogramdaki dane sayısı azalır." |
+| Günlük zeytin adedi için öneri yer almaz | Tebliğ bir ürün standardıdır; tüketim miktarına ilişkin hüküm içermez (Madde 1-16 okundu, "günlük" tüketim ifadesi yok) |
+
+**2. IOC, Trade Standard Applying to Table Olives (COI/OT/NC no. 1, December 2004)**: https://www.internationaloliveoil.org/wp-content/uploads/2019/11/COI-OT-NC1-2004-Eng.pdf (indirildi, `pdftotext` ile okundu)
+
+| Metindeki iddia | Birebir alıntı |
+| :-- | :-- |
+| Aynı çeşit olgunlaşmadan toplanırsa yeşil, tam olgunlukta siyah (Siyah mı Yeşil mi) | "Table olives are classified in one of the following types according to the degree of ripeness of the fresh fruits: (a) Green olives: Fruits harvested during the ripening period, prior to colouring and when they have reached normal size. … (c) Black olives: Fruits harvested when fully ripe or slightly before full ripeness is reached." (2.2) |
+| Renk aralıkları | "The colour of green olives may vary from green to straw yellow, that of olives turning colour may vary from rose to wine rose or brown, and the colour of black olives may range from reddish black to violet black, deep violet, greenish black and deep chestnut." (2.3) |
+| Oksidasyonla karartılan zeytin yeşil/rengi dönük toplanır, alkali ortamda karartılır, tek tip siyah renk alır | "(d) Olives darkened by oxidation: Green olives or olives turning colour preserved in brine, fermented or not, darkened by oxidation in an alkaline medium and preserved in hermetically sealed containers subjected to heat sterilisation; they shall be a uniform black colour." (2.3) |
+| Dalından toplanan zeytin acıdır; acılık alkali işlemle, seyrelten sıvıda bekletmeyle ya da biyolojik süreçlerle alınır (Madde 3) | "The bitterness of the olives may be removed by alkaline treatment, by immersion in a liquid to dilute the bitter compound, or by biological processes." (2.3) |
+| Sofra zeytini acılığı giderilmiş ve doğal fermantasyonla ya da ısıl işlemle korunmuş meyvedir (Madde 6) | "“Table olives” means the product: … (b) treated to remove its bitterness and preserved by natural fermentation, or by heat treatment, with or without the addition of preservatives" (2.1) |
+| Demir glukonat ve demir laktat karartılmış zeytinde renk sabitleyici, kg'da toplam demir olarak en fazla 0,15 g (Madde 4, kontrol listesi) | "4.4. Stabilisers (to maintain the colour of olives darkened by oxidation) 4.4.1. Ferrous gluconate 0.15 g/kg as total Fe 4.4.2. Ferrous lactate 0.15 g/kg as total Fe" |
+| Dökme halde salamurada bekleyen fermente zeytinde laktik asit bakterileri ve mayalar bulunabilir (Madde 6) | "Fermented olives held in bulk in a covering liquid may contain microorganisms used for fermentation, notably lactic bacteria and yeasts." (6.5) |
+| Isıl işlemle sterilize edilen zeytin C. botulinum sporlarını yok edecek sürede ve sıcaklıkta işlenir (Madde 6, S.S.S.) | "Olives preserved by heat sterilisation (such as olives darkened by oxidation) shall have received a processing treatment sufficient both in time and temperature to destroy spores of Clostridium botulinum." (6.6) |
+| Meyveye tuz geçer (Madde 5, Tebliğ alıntısıyla birlikte) | "3.1.2.1. Physico-chemical characteristics of the packing brine or of the juice after osmotic balance" (tabloda "Minimum sodium chloride content %") |
+
+**3. DSÖ, Sodium reduction**: https://www.who.int/news-room/fact-sheets/detail/salt-reduction (HTTP 200; hem web-fetch hem doğrudan indirme ile okundu; sayfa tarihi 11 Mayıs 2026)
+
+| Metindeki iddia | Birebir alıntı |
+| :-- | :-- |
+| Yetişkinlere günde 2.000 mg'dan az sodyum, 5 g'dan az tuz; tuz = sodyum × 2,5 eşdeğerliği; %78 / üçte bir hesapları | "the World Health Organization recommendation for adults of less than 2000 mg/day sodium (equivalent to < 5 g/day salt, or approximately one teaspoon)" |
+| Fazla sodyum kan basıncını yükseltir (Madde 5, S.S.S.) | "The primary health effect associated with diets high in sodium is raised blood pressure which increases the risk of cardiovascular diseases" |
+| Sodyumun önemli kısmı ekmek, işlenmiş et, atıştırmalık ve soslardan gelir (Madde 5, Günde kaç zeytin, kontrol listesi) | "It is often found in high amounts in processed foods such as breads, processed meat, and snack foods, as well as in condiments (e.g., soy and fish sauce)." |
+| DSÖ'nün tuz önerisinde günlük zeytin adedi önerisi yer almaz | Sayfa metninde "olive" sözcüğü hiç geçmiyor (betikle arandı) |
+
+**4. USDA FoodData Central, SR Legacy**: https://fdc.nal.usda.gov/ (veriler resmi API'den: `api.nal.usda.gov/fdc/v1/food/169096` ve `/169094`; kayıt sayfaları sunucu tarafında 404 döndüğü için bağlantı ana sayfaya verildi)
+
+| Metindeki iddia | Birebir alıntı (API alanları) |
+| :-- | :-- |
+| Kayıt adları | `"description":"Olives, pickled, canned or bottled, green"`, `"publicationDate":"4/1/2019"` / `"description":"Olives, ripe, canned (small-extra large)"`, `"publicationDate":"4/1/2019"` |
+| Enerji 145 / 116 kcal; yağ 15,32 / 10,9 g; tekli doymamış 11,314 / 7,652 g; doymuş 2,029 / 2,279 g; su 75,28 / 79,99 g | "Energy 145.0 kcal", "Total lipid (fat) 15.32 g", "Fatty acids, total monounsaturated 11.314 g", "Fatty acids, total saturated 2.029 g", "Water 75.28 g" / "Energy 116.0 kcal", "Total lipid (fat) 10.9 g", "Fatty acids, total monounsaturated 7.652 g", "Fatty acids, total saturated 2.279 g", "Water 79.99 g" |
+| Lif 3,3 / 1,6 g | "Fiber, total dietary 3.3 g" / "Fiber, total dietary 1.6 g" |
+| Sodyum 1.556 / 735 mg | "Sodium, Na 1556.0 mg" / "Sodium, Na 735.0 mg" |
+| Demir 0,49 / 6,28 mg; kalsiyum 52 / 88 mg | "Iron, Fe 0.49 mg", "Calcium, Ca 52.0 mg" / "Iron, Fe 6.28 mg", "Calcium, Ca 88.0 mg" |
+| E vitamini alfa-tokoferol olarak 3,81 / 1,65 mg | "Vitamin E (alpha-tocopherol) 3.81 mg" / "Vitamin E (alpha-tocopherol) 1.65 mg" |
+
+Türetilmiş değerler (betikle hesaplandı): tekli doymamış/yağ %73,9 ve %70,2; tuz 3,89 g ve 1,84 g; DSÖ sınırına oran %77,8 ve %36,75; yağdan gelen enerji yaklaşık 15,32 × 9 = 138 kcal / 145 kcal ("büyük kısmı yağdan gelir", S.S.S.); L boy on tane = 38,5-43,3 g, sodyum 598-674 mg, lif 1,27-1,43 g.
+
+**Kaynaksız olduğu için revizyonda metinden çıkarılanlar:** "polifenoller zeytine acılığını verir", "lif ince bağırsakta sindirilmeyen karbonhidrattır", "E vitamini yağda çözünür", "yağ profili zeytinyağına yaklaşır", "etiketteki içindekiler listesi katkıyı gösterir", "kilo değişimini toplam enerji belirler", "peynir" (DSÖ listesinde yok), "salamura zeytin çoğu zaman fermente" (sıklık ifadesi), fermantasyonun acılığı giderdiği yönündeki doğrudan ifade.
+
 
 ### Besin değeri kaynağı (sağlık beyanı kuralı 2)
 
@@ -241,11 +292,18 @@ Not: 169094 ABD tipi konserve siyah zeytindir; Türkiye'deki doğal salamura/sel
 - **Resmi "günde X zeytin" önerisi:** Okunan kaynaklarda (DSÖ, Sofralık Zeytin Tebliği, IOC) yok. TÜBER okunamadığı için metin yalnızca "DSÖ'nün tuz önerisinde ve Sofralık Zeytin Tebliği'nde ... yer almaz" diyor, genel bir "resmi öneri yoktur" hükmü kurmuyor.
 - **Tebliğin güncel konsolide metni:** mevzuat.gov.tr adresi 404 döndü. 2014/33 sayılı Tebliğ'de sonradan değişiklik olup olmadığı (özellikle Ek-1 tuz oranları ve Madde 12 "az tuzlu" eşiği) mevzuat.gov.tr'den kontrol edilmeli.
 - **Tablodaki "tat" satırı eklenmedi:** Brief'te istenmişti, ancak sofra zeytininin tadını tarif eden resmi/birincil kaynak bulunmadı. Uydurulmadı.
-- **Polifenol miktarı:** Sofra zeytini için sayısal polifenol verisi verilmedi (doğrulanmış kaynak yok); yalnızca IOC'nin acılık giderme tanımına dayanıldı.
+- **Polifenol miktarı:** Sofra zeytini için sayısal polifenol verisi verilmedi; metin bunu açıkça söylüyor ("resmi bir veri bu kaynaklarda yer almaz"). TÜRKOMP açılırsa veri olup olmadığı kontrol edilmeli.
 - **Ürün bilgileri (metinde iddia kurulmadı):** Ürün sayfalarında "az tuzlu", "Himalaya tuzu", "Çankırı tuzu", "doğal fermantasyon", "katkı maddesi içermez" ifadeleri var; tuz yüzdesi veya besin değeri yok. Brief gereği metne alınmadı. Ayrıca `/kazdaglari-duble-iri-zeytin` sayfasında "Hasat Yılı: 2025-2026" ile başlıktaki "Yeni Hasat 2026 · 2026-2027 sezonu" çelişiyor; `/siyah-zeytin` sayfasında "1 kg pet kavanoz" ile "1 lt pet kavanoz" çelişiyor. `/zeytin` sayfasındaki "Daha az tuz isterseniz servis öncesi kısa süre suda bekletebilirsiniz" ifadesi sağlık değil kullanım önerisi, bu yazıda kullanılmadı.
 - **Sağlık beyanı – kontrol edilmeli:** Madde 5 (DSÖ: fazla sodyum kan basıncını yükseltir), Günde kaç zeytin bölümü, bilgi kutusu ve "Tansiyonu olan zeytin yiyebilir mi?" sorusu. Hiçbirinde önleme/tedavi vaadi yok; yine de editör kontrolü gerekir.
 - **`<script>` desteği:** Ticimax blog editörünün FAQPage `<script>` bloğunu koruyup korumadığı doğrulanmalı (marka-profili 6.8). Korumuyorsa şema SEO ek kod alanına girilmeli.
 - **Kapsam güncellemesi:** Yazım sırasında blog yönetmeninden (başka oturumdan mesajla) gelen güncelleme uygulandı: tuz azaltma yöntemleri tek cümleyle geçildi, işleme yöntemleri yalnızca besin farkını açıklayacak kadar anlatıldı.
+
+### Revizyon (yönetmen notu, ilk denetim dersleri)
+
+1. **İddia-alıntı eşleşmesi:** Dış kaynak bölümü her iddia için birebir alıntıyla yeniden yazıldı; alıntısı bulunamayan dokuz ifade metinden çıkarıldı (liste yukarıda).
+2. **İç yapı ifadeleri:** Görünen metinde 2 kez ("zeytin çeşitleri rehberinde", "yeşil çizik ve siyah salamura tarifinde"). Polifenol bağlantısı "rehberinde" ifadesi olmadan cümle içine alındı.
+3. **"Kısacası / Sonuç olarak / Özetle":** Hiçbir yerde yok (betikle kontrol edildi).
+4. **Sayı kaynakları:** Metindeki ve S.S.S.'deki tüm sayılar USDA, DSÖ, Tebliğ veya IOC'den ya da bunlardan betikle türetildi. Site içi yazılardan (ör. evde zeytin tarifindeki %10-12 salamura) sayı alınmadı. "Zeytin fermente bir gıda mıdır?" cevabının hükmü "Çoğu zaman evet." yerine "Değişir." oldu.
 
 ### Yayın sonrası çapraz bağlantı
 
