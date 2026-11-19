@@ -36,7 +36,7 @@ Bu yağlar pişirme yağı olarak değil, yemeğin sonunda üzerine gezdirilerek
 
 Sofra zeytini, salamura, kırma ya da çizme gibi yöntemlerle acılığı giderilip yemeye hazır hale getirilen zeytindir. Kahvaltıyı önemseyen ailelere, kalabalık ev sofralarına ve yöresel lezzetlere ilgi duyanlara uyar. Siyah salamura zeytin olgunlaşmış meyveden, yeşil çizik zeytin ise henüz yeşilken toplanan meyveden hazırlanır; ilki yumuşak, ikincisi daha diri bir doku verir. Alırken tuz oranı, katkı maddesi bilgisi, net miktar ve açıldıktan sonraki saklama önerisi etikette aranır.
 
-Zeytin cam kavanoz, vakumlu paket ya da kova gibi farklı ambalajlarda satılır. Kargoyla gönderilecekse salamuranın sızmaması için kapağın sıkı kapanması ve paketin dik durması gerekir. Az tuzlu ve doğal fermantasyonla hazırlanan [sofralık zeytin](/zeytin) çeşitleri siyah salamura, yeşil çizik ve iri boy olarak üçe ayrılır. Bir kavanoz zeytin tek başına küçük bir jest olur, yanına bir paket kahvaltılık baharat eklendiğinde ise sofraya hazır bir hediye çıkar.
+Zeytin cam kavanoz, vakumlu paket ya da kova gibi farklı ambalajlarda satılır. Kargoyla gönderilecekse salamuranın sızmaması için kapağın sıkı kapanması ve paketin dik durması gerekir. Doğal fermantasyonla hazırlanan [sofralık zeytin](/zeytin) çeşitleri siyah salamura, yeşil çizik ve duble iri boy olarak üçe ayrılır. Bir kavanoz zeytin tek başına küçük bir jest olur, yanına bir paket kahvaltılık baharat eklendiğinde ise sofraya hazır bir hediye çıkar.
 
 ## 4. Kahvaltılık Baharat
 
@@ -54,13 +54,13 @@ Sabun kırılmaz ve sızdırmaz olduğu için kargoyla gönderimi kolaydır. Gı
 
 Küçük hacimli özel yağlar, az miktarda üretilen, küçük şişelerde sunulan ve elde ediliş biçimiyle standart zeytinyağından ayrılan yağlardır. Zeytin sütü ve yabani zeytinden elde edilen delice zeytinyağı bu gruba girer. Zeytinyağını tadarak tüketen, farklı yağları karşılaştırmayı seven ya da evinde zaten bir teneke yağ bulunan kişilere uyar. Alırken ürün açıklamasında yağın nasıl elde edildiği, kullanım önerisi ve saklama koşulu okunur.
 
-Zeytin sütü, sıkım sırasında yağ ile suyun ayrışmaya başladığı ilk anda hamurun üzerinde biriken yağdır; adına rağmen süt ya da süt ürünü içermez. Yörede kavata yağı da denen bu yağın [üretim aşamaları](/blog/icerik/zeytin-sutu-kavata-yagi-nedir) erken hasat zeytinle başlar ve ışıktan korunması için cam şişeye dolumla biter. Bu tür yağlar pişirmeden çok çiğ ve sade tüketim için önerilir. Küçük hacim, açılan şişenin kısa sürede bitmesini de kolaylaştırır.
+Zeytin sütü, sıkım sırasında yağ ile suyun ayrışmaya başladığı ilk anda hamurun üzerinde biriken yağdır; adına rağmen süt ya da süt ürünü içermez. Yörede kavata yağı da denen bu yağın [üretim aşamaları](/blog/icerik/zeytin-sutu-kavata-yagi-nedir) ayrıca incelenebilir. Bu tür yağlar pişirmeden çok çiğ ve sade tüketim için önerilir. Küçük hacim, açılan şişenin kısa sürede bitmesini de kolaylaştırır.
 
 ## 7. Hazır Hediye Seti
 
 Hazır hediye seti, zeytinyağı, sofra zeytini ve sabun gibi birkaç ürünü tek pakette toplayan, içeriği önceden belirlenmiş hediyedir. Alıcının zevkini tam bilmeyen, birden fazla ürün göndermek isteyen ya da seçim için vakti az olan biri için pratik bir çözümdür. Alırken setteki her ürünün adı, hacmi ya da miktarı ve üretim sezonu ürün sayfasından kontrol edilir. Büyük teneke içeren setlerde alıcının bu miktarı makul bir sürede kullanıp kullanamayacağı da düşünülür.
 
-Setlerin içeriği ürün açıklamasında tek tek yazar. Örneğin bir sette teneke erken hasat zeytinyağı ile yeşil çizik ve siyah salamura zeytin bulunurken, bir diğerinde daha küçük bir şişe natürel sızma zeytinyağı, zeytinyağı sabunu, yeşil ve siyah zeytin yer alır. İlki kalabalık bir aileye, ikincisi küçük bir haneye daha yakındır. Zeytinyağı ve zeytini bir arada sunan [lezzet setleri](/lezzet-setleri) sabit içerikle hazırlanır.
+Setlerin içeriği ürün açıklamasında tek tek yazar. Örneğin bir sette teneke erken hasat zeytinyağı ile yeşil çizik ve siyah salamura zeytin bulunurken, bir diğerinde daha küçük bir şişe natürel sızma zeytinyağı, zeytinyağı sabunu, yeşil ve siyah zeytin yer alır. İlki kalabalık bir aileye, ikincisi küçük bir haneye daha yakındır. Zeytinyağı ve zeytini bir arada sunan [lezzet setleri](/lezzet-setleri) bu türün örnekleridir.
 
 ## Hangi Durumda Hangi Hediye?
 
@@ -155,7 +155,7 @@ Doğal hediye,Gurme hediye,Zeytinyağı hediye seti,Yılbaşı hediyesi,Anneler 
 | Uzun kuyruk varyasyonlar | gıda hediyesi seçerken nelere dikkat edilmeli; zeytinyağı hediye; yılbaşı hediyesi; Anneler Günü hediyesi; ev ziyareti hediyesi; yeni ev hediyesi; bebek ziyareti hediyesi; zeytinyağı hediye seti |
 | Kapak görseli alt metni | Doğal ve gurme hediye: cam şişe zeytinyağı, sofra zeytini ve zeytinyağlı sabundan oluşan hediye sepeti |
 | Şema | BlogPosting ve BreadcrumbList Ticimax tarafından otomatik ekleniyor (Article eklenmedi). FAQPage JSON-LD `sss.html` sonunda, 5 soru, cevaplar sayfa metniyle birebir ve bağlantısız |
-| Kelime sayısı | 1.871 kelime (H1'den Kaynaklar sonuna, tablolar hariç, Python `split` ile sayıldı; ürün kutusu ve S.S.S. dahil) |
+| Kelime sayısı | 1.859 kelime (H1'den Kaynaklar sonuna, tablolar hariç, Python `split` ile sayıldı; ürün kutusu ve S.S.S. dahil) |
 | S.S.S. tasarım kaynağı | marka-profili.md Bölüm 6.8 (H3'te `font-weight:700` ve `line-height:1.4` sitedeki `<strong>` görünümünü korumak için) |
 | Etiketler | Doğal hediye,Gurme hediye,Zeytinyağı hediye seti,Yılbaşı hediyesi,Anneler günü hediyesi,Ev ziyareti hediyesi,Yeni ev hediyesi,Gıda etiketleme,Sofra zeytini,Zeytinyağlı sabun (10 etiket; sitede mevcut etiket listesi iletilmedi, hepsi yeni sayılmalı) |
 
@@ -199,6 +199,26 @@ Yönetmeliğe dayanan ve alıntısı olmayan iddia metinde bırakılmadı. Reviz
 
 Denenip kullanılmayanlar: mevzuat.gov.tr (MevzuatNo=23137 "Sayfa Bulunamadı" döndü, doğru numara bulunamadı); TÜRKPATENT Coğrafi İşaret Portalı (ci.turkpatent.gov.tr açıldı ama veri tabanı satırları JavaScript ile yükleniyor, kayıt okunamadı).
 
+### Ürün/kategori sayfası iddiaları
+
+Bağlantıların yanındaki marka/ürün iddiaları ve dayandıkları birebir alıntılar (web-fetch alt ajanıyla 19.11.2026'da açılan sayfalardan, özgün dilde):
+
+| Metindeki ifade | Yer | Sayfa | Birebir alıntı |
+| :-- | :-- | :-- | :-- |
+| "Doğal fermantasyonla hazırlanan [sofralık zeytin] çeşitleri" | Madde 3, P2 | /zeytin | "Zeytinlerimiz doğal fermantasyonla hazırlanır; katkı maddesi ve koruyucu kullanılmaz." ve "Doğal fermantasyon sayesinde zeytin kendi aromasını korur, kahvaltı sofralarına dengeli bir lezzet getirir." |
+| "siyah salamura, yeşil çizik ve duble iri boy olarak üçe ayrılır" | Madde 3, P2 | /zeytin | Sayfadaki üç ürün etiketi: "Siyah salamura", "Yeşil çizik", "Duble iri boy" |
+| "Sıkım sırasında acı biber ya da zerdeçalla çeşnilenen [çeşnili zeytinyağları], sonradan aroma eklenen yağlardan üretim yöntemiyle ayrılır" | Madde 2, P2 | /750ml-aci-biber-cesnili-soguk-sikim-zeytinyagi | "Sonradan aroma eklenmez; acılık sıkım anında, zeytinle birlikte yağa işlenir." |
+| (aynı ifade, zerdeçal) | Madde 2, P2 | /250ml-zerdecalli-zeytinyagi | "Zerdeçallı zeytinyağı, üretim anında zeytin hamuruna yaş zerdeçal eklenip birlikte sıkılmasıyla elde edilir;" "renk ve aroma sonradan katılmaz, sıkımda geçer." |
+| (aynı ifade, kategori) | Madde 2, P2 | /cesnili-zeytinyaglari | "Yapay aroma kullanılmaz; lezzet, zeytinyağının kendi karakteri üzerine kurulur." (Kategori sayfasında "sıkım" ifadesi yok; sıkım iddiası iki ürün sayfasına dayanıyor) |
+| "Katkı maddesi, yumuşatıcı ve parfüm içermediği belirtilen [zeytinyağlı sabunlar]" | Madde 5, P2 | /zeytinyagli-sabunlar | "Üretimde katkı maddesi kullanılmaz; yumuşatıcı, parfüm ve kimyasal koku içermez." |
+| (aynı ifade, ürün) | Madde 5, P2 | /5li-saf-zeytinyagi-sabunu | "Yumuşatıcı, parfüm ve kimyasal koku içermez." ve "Katkı Maddesi: Yok" |
+| "Kazdağları otlarıyla hazırlanan [kahvaltılık baharat] karışımı da zeytinyağına banmalık olarak kullanılır" | Madde 4, P2 | /kahvaltilik-ve-baharat | "Karışım, Kazdağları otlarından doğal ve katkısız olarak hazırlanır." ve "Baharat karışımı doğal ve katkısızdır; zeytinyağıyla karıştırılarak ekmek banmalık olarak tüketildiği gibi" |
+| "Zeytin sütü, sıkım sırasında yağ ile suyun ayrışmaya başladığı ilk anda hamurun üzerinde biriken yağdır; … süt ya da süt ürünü içermez" ve "kavata yağı" | Madde 6, P2 | /blog/icerik/zeytin-sutu-kavata-yagi-nedir (kendi blog yazısı, sayı içermeyen tanım) | "yağ ile suyun ayrışmaya başladığı ilk anda hamurun üzerinde biriken yağdır." "Ürün tamamen zeytinyağıdır, süt ya da süt ürünü içermez." "Yörede kavata yağı da deniyor." |
+
+Revizyonda çıkarılan/nötrleştirilen: "Az tuzlu" (Madde 3; Beslenme ve Sağlık Beyanları Yönetmeliği'nde eşiğe bağlı beslenme beyanı, kategori sayfasında geçse de blogda tekrarlanmadı). "Lezzet setleri sabit içerikle hazırlanır" (birebir alıntı alınmadı, "bu türün örnekleridir" olarak tarafsızlaştırıldı). Zeytin sütü bağlantı cümlesindeki "erken hasat zeytinle başlar ve … cam şişeye dolumla biter" (blog özetiydi, "ayrıca incelenebilir" olarak sadeleştirildi).
+
+Yönetmelik alıntıları için mevzuat.gov.tr bir kez denendi: "Gıda Etiketleme ve Tüketicileri Bilgilendirme" araması (https://www.mevzuat.gov.tr/aramasonuc?AranacakMetin=…) sonuç listelemedi, MevzuatNo bulunamadı. Talimat gereği alıntılar ve kaynak Resmi Gazete'deki haliyle bırakıldı (harf teyidi: Eksik / doğrulanmalı 1).
+
 ### Küme yazılarıyla çakışma / çelişki kontrolü
 
 - **/blog/icerik/kurumsal-yilbasi-hediyesi-zeytinyagi:** Çakışma riski var (hediye zeytinyağı seçimi). Bu yazı bireysel hediyeye odaklandı; kurumsal kısım tablo sonrası tek paragraf + o yazıya bağlantı. Kurumsal yazıdaki "Aralık'ın ilk haftası" sipariş önerisi ve 5.0 / 200+ yorum bilgisi bu yazıya alınmadı.
@@ -237,6 +257,12 @@ Denenip kullanılmayanlar: mevzuat.gov.tr (MevzuatNo=23137 "Sayfa Bulunamadı" d
 2. Görünen metindeki "… sayfasında yer alıyor / … yazısında anlatılıyor" tipi iç yapı ifadeleri 9'dan 1'e indirildi (kurumsal paragraf: "… bu planlamanın ayrıntılarını içerir"). Bağlantılar içerik cümlelerine gömüldü; adresler ve yerleri değişmedi. "Ürün sayfasından / ürün açıklamasında kontrol edilir" ifadeleri genel alışveriş tavsiyesi olup bu siteye atıf değildir.
 3. "Kısacası", "Sonuç olarak", "Özetle" metinde yok (betikle kontrol edildi).
 4. Süre, saklama ve miktar sayıları çıkarıldı: 500/750 ml, 250 ml, 5 L / 1 L, 250-750 ml, Ekim sonu-Kasım başı, 18-24 ay, "birkaç ay". S.S.S. 3 "Değişir." + belirleyen etkenler olarak yeniden yazıldı. Kelime sayısı 1.895'ten 1.871'e indi.
+
+### Revizyon notu 2 (yönetmen notu, 3 madde)
+
+1. Madde 3'teki "Az tuzlu" ifadesi kaldırıldı; "Doğal fermantasyonla" /zeytin sayfasında birebir geçtiği için kaldı (alıntı yukarıda). "İri boy" sayfadaki etikete uyularak "duble iri boy" yapıldı.
+2. Çeşnili yağ, sabun ve kahvaltılık baharat ifadelerinin birebir alıntıları "Ürün/kategori sayfası iddiaları" tablosuna eklendi; üçünün de alıntısı bulundu, ifadeler korundu. Alıntısı alınmayan iki bağlantı cümlesi (lezzet setleri, zeytin sütü) tarafsızlaştırıldı.
+3. mevzuat.gov.tr bir kez denendi, temiz metin alınamadı; Resmi Gazete kaynağı ve alıntılar olduğu gibi bırakıldı.
 
 ### Kontrol listesi
 
