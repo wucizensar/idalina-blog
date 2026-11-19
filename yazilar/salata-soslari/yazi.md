@@ -27,15 +27,15 @@ Sıralama en yalın sostan başlıyor; sonraki soslar çoğunlukla limonlu ya da
 
 ## 1. Limonlu Sos
 
-Limonlu sos, taze sıkılmış limon suyu, zeytinyağı ve tuzdan oluşan, Türk mutfağının en temel salata sosudur. Yaygın kullanım 3 ölçü zeytinyağına 1 ölçü limon suyudur, ekşiyi seven sofralarda limonun payı artar. Çoban salatası, marul ve göbek salatası, semizotu ve roka gibi neredeyse her yeşillikle uyumludur.
+Limonlu sos, taze sıkılmış limon suyu, zeytinyağı ve tuzdan oluşan, Türk mutfağının en temel salata sosudur. Yağ ile limonun oranı değişir: Limonun ekşiliği, yağın yoğunluğu ve salatanın kendi suyu bu dengeyi belirler. Yaygın kullanımda zeytinyağının payı limondan fazladır, ekşiyi seven sofralarda limonun payı artar. Çoban salatası, marul ve göbek salatası, semizotu ve roka gibi neredeyse her yeşillikle uyumludur.
 
 Bu sosta zeytinyağı limonun keskinliğini yumuşatan ana gövdedir. Malzeme az olduğu için yağın kusuru da hemen sezilir, bu yüzden taze ve dengeli bir [natürel sızma zeytinyağı](/sizma-zeytinyagi) seçmek sosun yarısıdır. Limonun yerini nar ekşisi aldığında sos başka bir yöne döner.
 
 ## 2. Nar Ekşili Sos
 
-Nar ekşili sos, nar ekşisi, zeytinyağı ve tuzun çırpılmasıyla yapılan, ekşi ile tatlıyı aynı anda taşıyan bir sostur. İsteğe göre biraz limon suyu, pul biber ya da kuru nane eklenir. Kısır, gavurdağı salatası, közlenmiş patlıcan ve bulgurlu salatalarda yaygındır.
+Nar ekşili sos, nar ekşisi, zeytinyağı ve tuzun çırpılmasıyla yapılan, ekşi ile tatlıyı aynı anda taşıyan bir sostur. İsteğe göre biraz limon suyu, pul biber ya da kuru nane eklenir. Kısır, gavurdağı salatası, közlenmiş patlıcan ve bulgurlu salatalarda yaygındır; ceviz ve nar taneli salatalarla da iyi eşleşir.
 
-Nar ekşisi koyu ve yoğun olduğu için sos limonlu sosa göre daha az asitle kurulur, zeytinyağı da bu yoğunluğu açıp salataya dağıtır. Erken hasat yağın acılığı nar ekşisiyle birleşince yumuşar; [zeytinyağı neden acı olur](/blog/icerik/zeytinyagi-neden-aci-olur-bogazi-yakar) yazısı da limon ve nar ekşisinin bu acılığı dengelediğini anlatır.
+Nar ekşisi koyu ve yoğun olduğu için sos limonlu sosa göre daha az asitle kurulur, zeytinyağı da bu yoğunluğu açıp salataya dağıtır. Erken hasat yağın acılığı nar ekşisiyle birleşince yumuşar, çünkü limon ve nar ekşisi [zeytinyağının acılığını](/blog/icerik/zeytinyagi-neden-aci-olur-bogazi-yakar) dengeleyen iki asittir.
 
 ## 3. Sirkeli-Sarımsaklı Sos
 
@@ -45,21 +45,21 @@ Sirke limondan daha sert bir ekşilik verir, zeytinyağı bu sertliği yuvarlar 
 
 ## 4. Tahinli Sos
 
-Tahinli sos, tahinin limon suyu ve zeytinyağıyla açılıp gerekirse birkaç kaşık suyla inceltildiği koyu bir sostur. Ezilmiş sarımsak ve kimyon sık eklenen tatlardır. Tahinli piyaz, nohut ve mercimek salataları, közlenmiş karnabahar ve patlıcanla uyumludur.
+Tahinli sos, tahinin limon suyu ve zeytinyağıyla açılıp gerekirse biraz suyla inceltildiği koyu bir sostur. Ezilmiş sarımsak ve kimyon sık eklenen tatlardır. Tahinli piyaz, nohut ve mercimek salataları, közlenmiş karnabahar ve patlıcanla uyumludur.
 
-Tahin kendi yağını taşıdığı için bu sosta zeytinyağı ana gövde değil, tadı parlatan son dokunuştur. Çırpılmış sosun üzerine gezdirilen bir kaşık yağ tahinin ağırlığını hafifletir. Daha baharatlı bir tat isteyenler, tahinli sosun üzerinde [çeşnili zeytinyağları](/cesnili-zeytinyaglari) arasındaki zerdeçallı yağı da deneyebilir. Tahinin koyuluğu, bir sonraki sosta yoğurtla yer değiştirir.
+Tahin kendi yağını taşıdığı için bu sosta zeytinyağı ana gövde değil, tadı parlatan son dokunuştur. Çırpılmış sosun üzerine gezdirilen biraz yağ tahinin ağırlığını hafifletir. Daha baharatlı bir tat isteyenler, tahinli sosun üzerinde [çeşnili zeytinyağları](/cesnili-zeytinyaglari) arasındaki zerdeçallı yağı da deneyebilir. Tahinin koyuluğu, bir sonraki sosta yoğurtla yer değiştirir.
 
 ## 5. Yoğurtlu Sos
 
 Yoğurtlu sos, süzme yoğurdun zeytinyağı, tuz ve biraz limon suyuyla açıldığı serin ve kremamsı bir sostur. Sarımsak, kuru nane ya da taze dereotu en sık eklenen tatlardır. Közlenmiş biber ve patlıcan salatası, havuç tarator benzeri salatalar, semizotu ve kabak salatasıyla uyumludur.
 
-Zeytinyağı bu sosta yoğurdun ekşiliğini yumuşatır ve dokusunu ipeksi hale getirir. Yağ yoğurda azar azar, çırparak eklenir; bir kerede dökülürse yüzeyde ayrı bir katman kalır. Kıvamı fazla koyu gelirse bir iki kaşık soğuk suyla açılır. Yoğurtlu sos bekledikçe sulanır, bu yüzden servisten kısa süre önce hazırlanır.
+Zeytinyağı bu sosta yoğurdun ekşiliğini yumuşatır ve dokusunu ipeksi hale getirir. Yağ yoğurda azar azar, çırparak eklenir; bir kerede dökülürse yüzeyde ayrı bir katman kalır. Kıvamı fazla koyu gelirse biraz soğuk suyla açılır. Yoğurtlu sos bekledikçe sulanır, bu yüzden servisten kısa süre önce hazırlanır.
 
 ## 6. Hardallı Sos
 
-Hardallı sos, bir tatlı kaşığı hardalın sirke ya da limon suyuyla çırpılıp zeytinyağının yavaşça eklendiği, kıvamı en kalıcı temel sostur. Hardal bir bağlayıcı gibi çalışır ve yağ ile asidin hemen ayrışmasını önler. Marul, göbek, karışık yeşillik, haşlanmış patates ve yeşil fasulye salatasıyla iyi gider.
+Hardallı sos, hardalın sirke ya da limon suyuyla çırpılıp zeytinyağının yavaşça eklendiği, kıvamı en kalıcı temel sostur. Hardal bir bağlayıcı gibi çalışır ve yağ ile asidin hemen ayrışmasını önler. Marul, göbek, karışık yeşillik, haşlanmış patates ve yeşil fasulye salatasıyla iyi gider.
 
-Bu sosta zeytinyağı hardalın keskinliğini taşıyan ve kıvamı veren ana malzemedir. Yağ ince bir akışla, sürekli çırparak eklendiğinde sos koyulaşır ve yapraklara tutunur. Sirke yerine limon suyu kullanıldığında sos daha hafif ve taze bir tat alır. Hardallı sosa bir kaşık bal eklemek, onu listenin bir sonraki sosuna dönüştürür.
+Bu sosta zeytinyağı hardalın keskinliğini taşıyan ve kıvamı veren ana malzemedir. Yağ ince bir akışla, sürekli çırparak eklendiğinde sos koyulaşır ve yapraklara tutunur. Sirke yerine limon suyu kullanıldığında sos daha hafif ve taze bir tat alır. Hardallı sosa bal eklemek, onu listenin bir sonraki sosuna dönüştürür.
 
 ## 7. Ballı-Hardallı Sos
 
@@ -77,13 +77,13 @@ Kekik ve nane birlikte kullanılabilir; dereotu ise daha çok yoğurtlu sosla e�
 
 Sumaklı sos, sumağın limon suyu ya da nar ekşisi, zeytinyağı ve tuzla karıştırıldığı mayhoş bir sostur. Sumak ince doğranmış kuru soğana ovuşturularak eklendiğinde soğanın keskinliği azalır. Soğan salatası, çoban salatası, gavurdağı ve ızgara yanına yapılan maydanozlu salatalar bu sosun klasik eşleridir.
 
-Nar ekşisiyle yapılan sumaklı sos, limonlu olana göre daha koyu ve tatlımsı olur. Sumak kuru bir baharat olduğu için zeytinyağı onu nemlendirip salataya dağıtır. Domatesli salatalarda yağın domatesi bastırmaması istenir. [Delice zeytinyağı](/blog/icerik/delice-yabani-zeytin-zeytinyagi-nedir) yazısı, bu yağın aroması, acılığı ve yakıcılığının birbirini bastırmadan dengede durduğunu anlatır; bu yüzden domatesli salatalarda dengeli bir seçenektir.
+Nar ekşisiyle yapılan sumaklı sos, limonlu olana göre daha koyu ve tatlımsı olur. Sumak kuru bir baharat olduğu için zeytinyağı onu nemlendirip salataya dağıtır. Domatesli salatalarda yağın domatesi bastırmaması istenir. [Delice zeytinyağında](/blog/icerik/delice-yabani-zeytin-zeytinyagi-nedir) aroma, acılık ve yakıcılık birbirini bastırmadan dengede durur; bu yüzden domatesli salatalarda dengeli bir seçenektir.
 
 ## 10. Portakallı Sos
 
 Portakallı sos, taze sıkılmış portakal suyunun biraz limon suyu ya da elma sirkesi, zeytinyağı ve tuzla çırpıldığı meyveli bir sostur. Portakalın tatlılığı asidi yumuşatır, rendelenmiş kabuğu da kokuyu artırır. Roka ve portakallı salata, narlı kış yeşillikleri, rendelenmiş havuç ve pancar salatasıyla uyumludur.
 
-Portakal suyu limondan daha sulu ve tatlı olduğu için bu sosta zeytinyağı oranı genellikle biraz artırılır, böylece sos yapraklara tutunur. Bir çay kaşığı hardal eklendiğinde portakallı sos da daha kalıcı bir kıvam kazanır. Meyvenin aromasının öne çıkması istendiğinde yakıcılığı dengeli bir yağ tercih edilir.
+Portakal suyu limondan daha sulu ve tatlı olduğu için bu sosta zeytinyağı oranı genellikle biraz artırılır, böylece sos yapraklara tutunur. Biraz hardal eklendiğinde portakallı sos da daha kalıcı bir kıvam kazanır. Meyvenin aromasının öne çıkması istendiğinde yakıcılığı dengeli bir yağ tercih edilir.
 
 ## Hangi Salataya Hangi Sos ve Zeytinyağı?
 
@@ -145,7 +145,7 @@ Natürel sızma. Sos çiğ tüketildiği için yağın tadı doğrudan hissedili
 
 ### Salata sosu neden ayrışır?
 
-Doğaldır. Yağ ile asit birbirine karışmaz, çırpıldıklarında yalnızca kısa bir süre için birleşir. Ayrışan sos yeniden çırpılır ya da kapaklı bir kavanozda çalkalanır. Bir tatlı kaşığı hardal ya da bal, emülsiyonun daha uzun süre bozulmadan kalmasına yardım eder.
+Doğaldır. Yağ ile asit birbirine karışmaz, çırpıldıklarında yalnızca kısa bir süre için birleşir. Ayrışan sos yeniden çırpılır ya da kapaklı bir kavanozda çalkalanır. Biraz hardal ya da bal, emülsiyonun daha uzun süre bozulmadan kalmasına yardım eder.
 
 ### Zeytinyağı salatayı acılaştırır mı?
 
@@ -182,7 +182,7 @@ Salata sosu,Zeytinyağlı salata sosu,Limonlu salata sosu,Nar ekşili sos,Ballı
 | Uzun kuyruk varyasyonlar | zeytinyağlı salata sosu, limonlu salata sosu, nar ekşili sos, ballı hardallı sos, yoğurtlu salata sosu, salata için hangi zeytinyağı, salata sosu neden ayrışır, salata sosu önceden hazırlanır mı |
 | Kapak görseli alt metni | Zeytinyağıyla hazırlanmış limonlu, nar ekşili ve yoğurtlu salata sosları kaseler içinde |
 | Şema | BlogPosting + BreadcrumbList Ticimax tarafından otomatik ekleniyor (Article eklenmedi, marka-profili Bölüm 1). FAQPage JSON-LD `sss.html` sonunda, 5 soru, bağlantısız düz metin |
-| Kelime sayısı | 1.966 (H1-Kaynaklar arası, tablolar hariç, Etiketler hariç; betikle sayıldı). Kaynaklar hariç 1.947. 10 madde: 82-92 kelime arası (her biri 80-110 aralığında) |
+| Kelime sayısı | 1.966 (H1-Kaynaklar arası, tablolar hariç, Etiketler hariç; betikle sayıldı). Kaynaklar hariç 1.947. 10 madde: 80-97 kelime arası (her biri 80-110 aralığında) |
 | Etiketler | Salata sosu,Zeytinyağlı salata sosu,Limonlu salata sosu,Nar ekşili sos,Ballı hardallı sos,Yoğurtlu sos,Salata için zeytinyağı,Erken hasat zeytinyağı,Zeytinyağlı tarifler (9 etiket; sitedeki mevcut etiket listesi iletilmediği için hepsi yeni sayılmalı) |
 | S.S.S. tasarım kaynağı | marka-profili Bölüm 6.8 (soru `<h3>`; `font-weight:700` ve `line-height:1.4` profildeki not gereği eklendi) |
 
@@ -208,10 +208,16 @@ Kümedeki /blog/icerik/erken-hasat-zeytinyagi-nedir yazısı açılıp okundu am
 
 ### Dış kaynaklar (2)
 
-| Adres | Kullanıldığı yer | Doğrulama |
-| :-- | :-- | :-- |
-| https://www.cdc.gov/botulism/prevention/index.html | Kontrol listesi bilgi kutusu, S.S.S. 1 ve 5, Kaynaklar | 19.11.2026 açıldı (200). Sayfada: "chopped garlic in oil" botulizm kaynakları arasında; "Refrigerate homemade oils made with garlic or herbs. Throw the oils away after 4 days."; "Do not feed honey to a child who is younger than 1 year old." |
-| https://www.who.int/news-room/fact-sheets/detail/botulism | 7. Ballı-Hardallı Sos, S.S.S. 5, Kaynaklar | 19.11.2026 açıldı (200). Sayfada: "…warned not to feed honey to the infants before the age of 1 year." Sarımsaklı yağdan söz etmiyor |
+Her iki adres 19.11.2026'da açıldı (HTTP 200). Metinde bu kaynaklara dayanan her iddia ve sayfadaki birebir karşılığı:
+
+| # | Metindeki iddia (yer) | Kaynak | Sayfadan birebir alıntı |
+| :-: | :-- | :-- | :-- |
+| 1 | Doğranmış sarımsaklı yağ botulizm kaynakları arasında (bilgi kutusu) | CDC, https://www.cdc.gov/botulism/prevention/index.html | "New sources of botulism have been found. They include chopped garlic in oil, canned cheese sauce (such as nacho cheese), carrot juice, baked potatoes wrapped in foil." |
+| 2 | Sarımsak ya da otla hazırlanan ev yapımı yağlar buzdolabında saklanır ve 4 gün sonra atılır (bilgi kutusu, S.S.S. 1) | CDC, aynı sayfa | "Refrigerate homemade oils made with garlic or herbs. Throw the oils away after 4 days." |
+| 3 | Botulizm riski nedeniyle 1 yaşından küçük bebeklere bal verilmez (7. madde, S.S.S. 5) | CDC, aynı sayfa | "We do know that honey is not safe for infants. Honey can contain the bacteria that cause botulism." / "Do not feed honey to a child who is younger than 1 year old." |
+| 4 | Aynı bal uyarısı (7. madde, S.S.S. 5) | WHO, https://www.who.int/news-room/fact-sheets/detail/botulism | "Parents and caregivers are therefore warned not to feed honey to the infants before the age of 1 year." |
+
+Bu dört iddia dışında metinde dış kaynağa dayanan iddia yok. WHO sayfası sarımsaklı yağdan söz etmiyor, bu konuda yalnızca CDC'ye dayanıldı.
 
 Türkçe resmi kaynak (Tarım ve Orman Bakanlığı) sarımsaklı/otlu yağ saklama için aranmadı/bulunamadı; tek sayısal değer (4 gün) CDC'den alındı.
 
@@ -235,12 +241,21 @@ Türkçe resmi kaynak (Tarım ve Orman Bakanlığı) sarımsaklı/otlu yağ sakl
 
 - **Ticimax `<script>` korunuyor mu?** FAQPage JSON-LD `sss.html` sonunda; editör korumuyorsa SEO ek kod alanına girilmeli.
 - **Genel mutfak bilgisi, kaynağa bağlanmadı:** tuzun yağda çözünmemesi, hardal ve balın emülsiyonu uzatması, zeytinyağının soğukta koyulaşıp bulanıklaşabilmesi, nar ekşisinin limondan daha az miktarda kullanılması, portakallı sosta yağ payının artırılması. Bu ifadelerde sayı yok; yine de editör onayı istenir.
-- **Oran:** "3 ölçü zeytinyağına 1 ölçü limon suyu" kaynaklı bir değer değil, brief gereği "yaygın kullanım" olarak sunuldu; editör onayı istenir.
+- **Oran ve miktar:** Revizyonda kaldırıldı (yönetmen notu 4). Limonlu sosta sayısal oran yerine "Değişir" yaklaşımı: oranı limonun ekşiliği, yağın yoğunluğu ve salatanın suyu belirler; "yağın payı limondan fazladır" ifadesi sayısız yaygın kullanım olarak kaldı. "Bir tatlı kaşığı / bir kaşık / bir iki kaşık" gibi miktarlar "biraz" ile değiştirildi. Metinde kalan sayılar yalnızca CDC/WHO kaynaklı (4 gün, 1 yaş) ve yapısal sayılar (10 sos, sekiz salata türü, yedi nokta).
 - **Somut veri eksik:** Markaya ait sos/salata verisi (ör. hangi ürünle hangi sosun denendiği) yok, uydurulmadı.
 - **Ürün sayfası tutarsızlıkları (bilgi için):** Domat ürünü sade (çeşnisiz) bir yağ olarak tanıtılıyor ama /cesnili-zeytinyaglari kategorisinde listeleniyor. Zerdeçallı ürün sayfasında sezon "2025 - 2026" yazıyor. Delice ürün sayfasında hem 2025-2026 hem 2026-2027 ifadesi var. Bu yazıda ürün adları marka-profili Bölüm 5'teki gibi yazıldı.
 - **Bal uyarısı:** Brief gereği kaynakla değerlendirildi; CDC ve WHO 1 yaş altına bal verilmemesini açıkça söylediği için 7. maddede tek cümle ve S.S.S. 5 olarak eklendi. Gerek görülmezse S.S.S. 5 çıkarılabilir (sss.html ile birlikte).
 - **Sağlık beyanı:** Yok. S.S.S. 4'teki "acılık polifenollerden gelir" bir tat açıklamasıdır, sağlık iddiası içermez; yine de "sağlık beyanı – kontrol edilmeli" listesine alınabilir.
 - **Etiketler:** Sitedeki mevcut etiket listesi iletilmedi; yeni etiketlerin CMS'te açılması gerekebilir.
+
+### Revizyon (yönetmen notu, 19.11.2026)
+
+| Not | Uygulama |
+| :-- | :-- |
+| 1. Dış kaynak iddiaları için birebir alıntı | Dış kaynak tablosu iddia başına alıntıyla yeniden yazıldı (4 iddia, 4 alıntı) |
+| 2. "… yazısı" gibi iç yapı ifadesi en fazla 2 | 4'ten 2'ye indi: kalanlar "zeytinyağı tadımı yazısındaki" (tablo girişi) ve "çeşnili zeytinyağı yazısı" (kontrol listesi). Nar ekşili ve sumaklı maddelerde bağlantı cümle içine alındı |
+| 3. "Kısacası / Sonuç olarak / Özetle" yok | Yayın metninde betikle kontrol: 0 |
+| 4. Süre/saklama/miktar sayıları yalnızca resmi kaynaktan | 3:1 oranı ve kaşık ölçüleri kaldırıldı; kalan sayılar CDC/WHO kaynaklı |
 
 ### Kontrol listesi
 
@@ -262,7 +277,7 @@ Türkçe resmi kaynak (Tarım ve Orman Bakanlığı) sarımsaklı/otlu yağ sakl
 | Garanti / kişisel veri sorusu | – | Konu gerektirmiyor |
 | sss.html değerleri iletilen koddan | ✓ | Bölüm 6.8 |
 | HTML ve belgedeki S.S.S. birebir; FAQPage bir kez | ✓ | İkisi de aynı Markdown'dan betikle üretildi |
-| Ünlem, emoji, abartı, fiyat, süre/sonuç vaadi yok | ✓ | Betik: "!" 0. Tek süre (4 gün) CDC'ye dayalı |
+| Ünlem, emoji, abartı, fiyat, süre/sonuç vaadi yok | ✓ | Betik: "!" 0. Tek süre (4 gün) CDC'ye dayalı; miktar/oran sayısı yok (revizyon) |
 | Marka adı ≤3, standart kalıpla | ✓ | 2 kez, "… seçkisi incelenebilir." |
 | Yabancı terim Türkçesiyle | ✓ | vinegret (vinaigrette) |
 | Paragraflar ≤4 cümle | ✓ | Betikle kontrol edildi |
@@ -272,7 +287,7 @@ Türkçe resmi kaynak (Tarım ve Orman Bakanlığı) sarımsaklı/otlu yağ sakl
 | 6-9 iç bağlantı, sitemap'te mevcut | ✓ | 9, hepsi sitemap'te |
 | Kümeye en az 1 bağlantı | ✓ | 4 blog yazısı |
 | Ana kategori 2 kez (gövde + sonuç) | ✓ | /erken-hasat-zeytinyagi |
-| Dış kaynaklar açılarak doğrulandı | ✓ | CDC, WHO |
+| Dış kaynaklar açılarak doğrulandı | ✓ | CDC, WHO; her iddia için birebir alıntı Dış kaynaklar tablosunda |
 | Article şeması | ✓ (uyarlama) | marka-profili Bölüm 1 gereği eklenmedi, Ticimax BlogPosting üretiyor |
 
 **Doğal yazım skill'i 12 madde (3A #7'ye göre)**
@@ -280,7 +295,7 @@ Türkçe resmi kaynak (Tarım ve Orman Bakanlığı) sarımsaklı/otlu yağ sakl
 | # | Madde | Durum | Açıklama |
 | :-: | :-- | :-- | :-- |
 | 1 | İlk cümle doğrudan içerik | ✓ | Tanım cümlesi |
-| 2 | Kapanış tekrar / "umarım" yok | ✓ | Sonuç 10 sosu sayıp tek bilgi (yoğun/dengeli yağ ayrımı) ve CTA veriyor; "Sonuç olarak" yok |
+| 2 | Kapanış tekrar / "umarım" yok | ✓ | Sonuç 10 sosu sayıp tek bilgi (yoğun/dengeli yağ ayrımı) ve CTA veriyor; "Kısacası / Özetle / Sonuç olarak" kalıpları yok |
 | 3 | Uzun çizgi yok | ✓ | Betik: 0 (yazi.md, yazi.html, sss.html) |
 | 4 | Bölüm 2 kalıpları | ✓ | Betik: "önemli", "kritik", "Ayrıca", "yanı sıra", "Günümüzde" 0 |
 | 5 | Üçlü / "değil, …" yapısı | ✓ | Tahinli sosta tek "ana gövde değil, … son dokunuş" karşıtlığı |
