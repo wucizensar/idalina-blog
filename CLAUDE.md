@@ -25,6 +25,9 @@ Yönetmen yazıyı onayladığında son hali **Claude Docs belgesi** olarak da t
 - Kaynak dalındaki güncel yazi.md; metin değiştirilmez. Belge bağlantısı yönetmene gönderilir.
 - Onaydan sonra revizyon gelirse hem dal hem belge güncellenir (belgede yeni belge açılmaz, aynı belge düzenlenir).
 
+## Mesaj dili (kullanıcı isteği)
+Yönetmene ve kullanıcıya yazılan tüm mesajlar (özet, durum, soru dışı bildirim) `.claude/skills/caveman/SKILL.md` kurallarıyla, Türkçe yazılır: önce sonuç, süs yok, her sayı/yol/bağlantı aynen. Muaf: blog metni, `yazi.md`/`yazi.html`/`sss.html`, Editör Notları, Claude Docs belgesi, commit mesajları. Soru sorarken tam cümle.
+
 ## Kurallar
 - Tahmin yok. Bilgi eksikse yazma, Editör Notları'nda "Eksik / doğrulanmalı" altına yaz.
 - İç bağlantı: yalnızca sitemap'te birebir bulunan adres ve marka-profili Bölüm 5'teki kısıtlar. Bağlantıları sitemap'e karşı bir betikle kontrol et ve sonucu Editör Notları'na yaz.
