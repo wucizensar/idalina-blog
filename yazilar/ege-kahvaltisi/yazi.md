@@ -8,7 +8,7 @@ Köy usulü bir Ege kahvaltı sofrası yedi unsurdan oluşur: zeytin, zeytinyağ
 
 Ege kahvaltısı, sofrayı zeytinyağının taşıdığı bir kahvaltı biçimidir. Tereyağı, sucuk ve kızartma burada geri planda kalır, yerlerini zeytin, zeytinyağına banılan ekmek ve tavada zeytinyağıyla çevrilen otlar alır. "Köy usulü" ifadesi de bu sadeliği anlatır: bahçeden, bağdan ve tarladan gelen ürün, az dokunularak masaya konur.
 
-Bu sofranın kendine özgü bir düzeni var. Tabaklar ortaya, herkesin uzanabileceği yere dizilir, zeytinyağı kasesi ve ekmek sepeti merkezde durur, otlu tabaklar sıcak gelir ve sona doğru reçel ile pekmez çıkar. Hazırlık da buna göre bölünür: soğuk tabaklar önceden hazırlanır, sıcaklar ise herkes oturduktan sonra ocaktan alınır. Banmalık baharattan sofralık zeytine kadar kahvaltılık ürünlerin bir arada görülebileceği yer, İdalina Beceren'in [kahvaltılık ve baharat](/kahvaltilik-ve-baharat) seçkisi incelenebilir.
+Bu sofranın kendine özgü bir düzeni var. Tabaklar ortaya, herkesin uzanabileceği yere dizilir, zeytinyağı kasesi ve ekmek sepeti merkezde durur, otlu tabaklar sıcak gelir ve sona doğru reçel ile pekmez çıkar. Hazırlık da buna göre bölünür: soğuk tabaklar önceden hazırlanır, sıcaklar ise herkes oturduktan sonra ocaktan alınır. Kahvaltılık ürünler için İdalina Beceren'in [kahvaltılık ve baharat](/kahvaltilik-ve-baharat) seçkisi incelenebilir.
 
 ## Ege Kahvaltı Sofrasının 7 Unsuru
 
@@ -38,13 +38,11 @@ Banmalık tabak, kahvaltıda ekmeğin banıldığı, çiğ zeytinyağıyla doldu
 
 Bu tabakta yağın kendisi tadılır, o yüzden aroması belirgin, yeşil ve hafif yakıcı bir yağ seçilir. Bu karakter en çok [erken hasat zeytinyağı](/erken-hasat-zeytinyagi) için geçerlidir.
 
-Pratikte iki ayrıntı tabağın görünümünü değiştirir. Sığ ve geniş bir kase seçildiğinde baharat yağın yüzeyinde kalır, derin kasede dibe çöker. Yağ, sofraya oturulmadan hemen önce dökülür.
-
-Baharat da ancak o sırada eklenirse ekmeğe hem yağ hem baharat aynı anda gelir. Sofrada birden fazla kişi varsa iki küçük kase koymak, herkesin uzanma mesafesini kısaltır.
+Pratikte iki ayrıntı tabağın görünümünü değiştirir. Sığ ve geniş bir kase seçildiğinde baharat yağın yüzeyinde kalır, derin kasede dibe çöker. Yağ sofraya oturulmadan hemen önce dökülür, baharat da o sırada eklenirse ekmeğe hem yağ hem baharat aynı anda gelir. Sofrada birden fazla kişi varsa iki küçük kase koymak, herkesin uzanma mesafesini kısaltır.
 
 ## 3. Otlar, Ot Kavurması ve Otlu Yumurta
 
-Ege otları, bölgede mevsimine göre toplanan ya da pazardan alınan yabani ve yarı yabani yeşilliklerin genel adıdır. Kahvaltıda üç biçimde görülür: haşlanıp zeytinyağı ve limonla salata yapılan otlar, zeytinyağında soğanla kavrulan otlar ve kavurmanın üzerine yumurta kırılarak pişen otlu yumurta. Kültür ve Turizm Bakanlığının tanıtım portalı Go Türkiye'deki [Ege otları](https://goturkiye.com/blog/aegean-herbs-in-turkish-cuisine) derlemesine göre ebegümeci zeytinyağında pişirilir, ısırgan ve arapsaçı zeytinyağı ve soğanla kavrulur, turp otu ise yumurtayla pişirilir.
+Ege otları, bölgede mevsimine göre toplanan ya da pazardan alınan yabani ve yarı yabani yeşilliklerin genel adıdır. Kahvaltıda üç biçimde görülür: haşlanıp zeytinyağı ve limonla salata yapılan otlar, zeytinyağında soğanla kavrulan otlar ve kavurmanın üzerine yumurta kırılarak pişen otlu yumurta. Türkiye'nin resmi seyahat rehberi GoTürkiye'deki [Ege otları](https://goturkiye.com/blog/aegean-herbs-in-turkish-cuisine) derlemesine göre ebegümeci zeytinyağında pişirilir, ısırgan ve arapsaçı zeytinyağı ve soğanla kavrulur, turp otu ise yumurtayla pişirilir.
 
 Ot kavurmasında ot önce birkaç suda iyice yıkanır, sert sapları ayıklanır, iri doğranır ve zeytinyağında soğanla birlikte suyunu çekene kadar çevrilir. Yumurta, ot pişip söndükten sonra kırılır ve kapak kapatılarak kısık ateşte pişer.
 
@@ -77,7 +75,7 @@ Reçeller küçük kavanozlarıyla ya da küçük kaselerde sofraya konur ve tat
 
 ## 7. Mevsim Sebzesi
 
-Mevsim sebzesi, Ege kahvaltısında hiç pişirilmeden, yalnızca doğranıp zeytinyağı ve tuzla sofraya gelen sebze tabağıdır. Yazın domates, salatalık, sivri biber ve semizotu, kışın roka, tere, taze soğan ve kış domatesinin yerine közlenmiş biber bu tabağı oluşturur.
+Mevsim sebzesi, Ege kahvaltısında çiğ ya da yalnızca közlenmiş olarak, zeytinyağı ve tuzla sofraya gelen sebze tabağıdır. Yazın domates, salatalık, sivri biber ve semizotu, kışın roka, tere, taze soğan ve kış domatesinin yerine közlenmiş biber bu tabağı oluşturur.
 
 Domates kalın dilimlenir, üzerine tuz ve kekik serpilir, zeytinyağı en son gezdirilir. Yeşillikler ayrı bir tabakta, yıkanıp kurulanmış olarak durur. Sebze tabağı, tuzlu peynir ve zeytin tabakları arasında ferah bir ara verir.
 
@@ -169,7 +167,7 @@ Köy usulü bir Ege kahvaltı sofrası yedi unsurdan kurulur: zeytin çeşitleri
 
 - [TÜRKPATENT Coğrafi İşaret Portalı: Ezine Peyniri, tescil no. 86](https://ci.turkpatent.gov.tr/Files/GeographicalSigns/616998bb-ab63-4835-809b-f8a963661240.pdf)
 - [TÜRKPATENT Coğrafi İşaret Portalı: Edremit Körfezi Yeşil Çizik Zeytini, tescil no. 189](https://ci.turkpatent.gov.tr/Files/GeographicalSigns/7f6d8725-c0e5-4eef-a68d-155bde81e6da.pdf)
-- [Go Türkiye (Kültür ve Turizm Bakanlığı tanıtım portalı): Aegean Herbs in Turkish Cuisine](https://goturkiye.com/blog/aegean-herbs-in-turkish-cuisine)
+- [GoTürkiye (Official Travel Guide of Türkiye): Aegean Herbs in Turkish Cuisine](https://goturkiye.com/blog/aegean-herbs-in-turkish-cuisine)
 
 ## Etiketler
 
@@ -190,7 +188,7 @@ Ege kahvaltısı,Köy kahvaltısı,Ege otları,Otlu yumurta,Banmalık zeytinyağ
 | Uzun kuyruk varyasyonlar | köy usulü kahvaltı sofrası, Ege kahvaltı sofrası nasıl kurulur, Ege otları, otlu yumurta, ot kavurması, banmalık zeytinyağı, kahvaltıda hangi zeytinyağı, Ege kahvaltısında tereyağı |
 | Kapak görseli alt metni | Ege kahvaltısı sofrası: zeytin kaseleri, banmalık zeytinyağı, beyaz peynir ve otlu yumurta |
 | Şema | BlogPosting ve BreadcrumbList Ticimax tarafından otomatik ekleniyor (marka profili Bölüm 1), ayrıca Article eklenmedi. FAQPage JSON-LD `sss.html` sonunda, bir kez |
-| Kelime sayısı | 1.834 (giriş-Sonuç arası, tablolar ve Kaynaklar/Etiketler hariç; ürün kutuları ve S.S.S. dahil; Python regex ile sayıldı). Etiketler dahil 1.892 |
+| Kelime sayısı | 1.825 (giriş-Sonuç arası, tablolar ve Kaynaklar/Etiketler hariç; ürün kutuları ve S.S.S. dahil; Python regex ile sayıldı). Etiketler dahil 1.881 |
 | S.S.S. tasarım kaynağı | Marka profili Bölüm 6.8 (soru `<h3>`, `font-weight:700` ve `line-height:1.4` profildeki gibi eklendi). Akordeon yok |
 | Etiketler | Ege kahvaltısı,Köy kahvaltısı,Ege otları,Otlu yumurta,Banmalık zeytinyağı,Kahvaltılık zeytin,Yeşil çizik zeytin,Kahvaltılık baharat,Zeytinyağlı tarifler |
 
@@ -218,7 +216,7 @@ Küme kontrolü (WebFetch ile açıldı): zeytin-cesitleri, edremit-ayvalik, evd
 
 ## Dış kaynaklar (3) ve metindeki iddiaların dayanağı
 
-Üçü de açılarak doğrulandı (TÜRKPATENT PDF'leri `curl` ile indirilip `pdftotext` ile okundu, Go Türkiye sayfası WebFetch ile açıldı).
+Üçü de açılarak doğrulandı (TÜRKPATENT PDF'leri `curl` ile indirilip `pdftotext` ile okundu, GoTürkiye sayfası WebFetch ile açıldı).
 
 | Kaynak | Metindeki iddia | Kaynaktan birebir alıntı |
 | :-- | :-- | :-- |
@@ -227,7 +225,7 @@ Küme kontrolü (WebFetch ile açıldı): zeytin-cesitleri, edremit-ayvalik, evd
 | aynı | Coğrafi sınır: Ezine, Bayramiç, Ayvacık ilçeleri ile Çan ve Merkez'e bağlı bazı köyler | "Çanakkale iline bağlı Ezine, Bayramiç, Ayvacık ilçeleri, Çan ilçesine bağlı Şerbetli, Etili, Ahlatlıburun, Küçüklü, Alibeyköy ve Söğütalan köyleri ve Merkez ilçesine bağlı Karacaören, Kurşunlu, Şerbetli ve Kirazlı köyleri." |
 | TÜRKPATENT, Edremit Körfezi Yeşil Çizik Zeytini, No. 189: https://ci.turkpatent.gov.tr/Files/GeographicalSigns/7f6d8725-c0e5-4eef-a68d-155bde81e6da.pdf | Menşe adı olarak kayıtlı coğrafi işaret | "Coğrafi İşaretin Adı : Edremit Körfezi Yeşil Çizik Zeytini"; "Coğrafi İşaretin Türü : Menşe adı"; "Tescil No : 189"; "Tescil Tarihi : 31.07.2015" |
 | aynı | Coğrafi sınır: Edremit, Havran, Burhaniye, Gömeç, Ayvalık ve Ayvacık'a bağlı bazı köyler | "Bölge; Ayvacık ilçesine ait Adatepe, Ahmetçe, Babakale, … köyleri ve bu köylere ait mahalleler, Edremit ilçesinin tüm mahalleleri, Havran ilçesinin tüm mahalleri, Burhaniye ilçesinin tüm mahalleri, Gömeç ilçesinin tüm mahalleri ve Ayvalık ilçesinin tüm mahallelerini kapsar." |
-| Go Türkiye, "Aegean Herbs in Turkish Cuisine": https://goturkiye.com/blog/aegean-herbs-in-turkish-cuisine | Ebegümeci zeytinyağında pişirilir | "Naturally growing throughout Türkiye and the Aegean region, mallows are cooked in olive oil." |
+| GoTürkiye, "Aegean Herbs in Turkish Cuisine": https://goturkiye.com/blog/aegean-herbs-in-turkish-cuisine | Ebegümeci zeytinyağında pişirilir | "Naturally growing throughout Türkiye and the Aegean region, mallows are cooked in olive oil." |
 | aynı | Isırgan zeytinyağı ve soğanla kavrulur; ilkbaharda, yapraklar genç ve körpeyken | "Isırgan is also commonly sautéd with olive oil and onions."; "traditionally made in the spring when the leaves are young and tender." |
 | aynı | Arapsaçı zeytinyağı ve soğanla kavrulur; Ege otlarının bilinen pişirme biçimi | "This herb is mostly sautéd with olive oil and onions, similar to the cooking of other wild herbs of the Aegean." |
 | aynı | Turp otu hafif pişirilip sarımsaklı yoğurtla ya da yumurtayla | "Eaten either lightly cooked in a salad with garlic and yoghurt or cooked in eggs, radish leaves are much used throughout the Aegean." |
@@ -235,12 +233,12 @@ Küme kontrolü (WebFetch ile açıldı): zeytin-cesitleri, edremit-ayvalik, evd
 | aynı | Şevketibostan kışın, ocak ayında yetişir; zeytinyağında pişirilip tek başına yenir ya da salataya girer | "blessed thistle is typically found growing in January."; "This herb can be used in salads, cooked with meat or simply cooked in olive oil and eaten by itself." |
 | aynı | Radika yaprakları haşlanır, limon ve zeytinyağıyla sunulur | "the traditional method of preparing dandelion is to boil the leaves then serve with lemon and olive oil." |
 
-Go Türkiye notu: Sayfa altbilgisi "Copyright © 2026 Türkiye. All Rights Reserved TGA". Türkiye Tanıtım Grubu'nun (Kültür ve Turizm Bakanlığına bağlı) resmi tanıtım portalı olarak "Kültür ve Turizm Bakanlığının tanıtım portalı" diye anıldı. Sayfa yayıncıyı adıyla yazmıyor, bkz. "Eksik / doğrulanmalı".
+GoTürkiye notu (revize): Yönetmenin tutarlılık kararıyla metinde "Türkiye'nin resmi seyahat rehberi GoTürkiye", Kaynaklar'da "GoTürkiye (Official Travel Guide of Türkiye)" kullanıldı. Ana sayfa (https://goturkiye.com/) başlık satırı WebFetch ile doğrulandı: "Official Travel Guide of Türkiye - GoTürkiye". Ot sayfasının altbilgisi: "Copyright © 2026 Türkiye. All Rights Reserved TGA".
 
 Destekleyici, metinde bağlanmayan kaynaklar (alıntılarla):
 - Deniz börülcesi "Yaz" mevsimi: Ersus Bilek, Özbey ve Yurdagel 2014, GIDA 39(6), Ege Üniversitesi (https://dergipark.org.tr/en/download/article-file/79226): "Deniz börülcesi mayıs ayından itibaren başlayarak yaz aylarında toplanmakta, ülkemizde taze veya haşlanarak salata olarak tüketilmektedir." (Alt ajan açtı.)
 - Ot toplama bilgi kutusu: TAGEM "Yenilebilir Yabani Bitkilerin Toplama Rehberi" (b4fn.org'da barındırılıyor, gov.tr değil): "Eğer doğru bir şekilde tanımladığınızdan yüzde yüz emin değilseniz o bitkiyi asla toplamayın ve yemeyin. Yenilebilir bitkilerin zehirli benzerleri olduğu gibi…" (Alt ajan açtı.)
-- Radika = yabani hindiba (Cichorium intybus): Dogan 2012, Acta Soc Bot Pol 81(4) (https://bibliotekanauki.pl/articles/58389.pdf), tablo: Cichorium intybus = "yabani hindiba". Go Türkiye radikayı "Dandelion" diye çeviriyor; metinde "Radika (yabani hindiba)" yazıldı.
+- Radika = yabani hindiba (Cichorium intybus): Dogan 2012, Acta Soc Bot Pol 81(4) (https://bibliotekanauki.pl/articles/58389.pdf), tablo: Cichorium intybus = "yabani hindiba". GoTürkiye radikayı "Dandelion" diye çeviriyor; metinde "Radika (yabani hindiba)" yazıldı.
 
 Kullanılmayan doğrulanmış coğrafi işaretler (gerekirse): Ayvalık Zeytinyağı No. 88, Edremit Zeytinyağı No. 273, Kuzey Ege Zeytinyağları No. 392 (mahreç), Bayramiç Zeytinyağı No. 1091, Burhaniye Zeytinyağı No. 518. "Bayramiç Beyazı" ve ot adına kayıtlı bir coğrafi işaret bulunamadı. İdalina Beceren ürünleri için hiçbir coğrafi işaret iddiası kurulmadı (Bayramiç zeytinleri Edremit Körfezi Yeşil Çizik Zeytini sınırında değil).
 
@@ -253,8 +251,8 @@ Kullanılmayan doğrulanmış coğrafi işaretler (gerekirse): Ayvalık Zeytinya
 ## Eksik / doğrulanmalı
 
 1. **Kahvaltılık baharat içeriği:** `/kahvaltilik-kazdaglari-baharati` sayfasında içindekiler listesi yok. Kategori sayfası "Kazdağları otlarından" yapıldığını söylüyor, ürün sayfası söylemiyor. Ürün sayfasına içerik listesi eklenmesi önerilir. Metinde içerik yazılmadı.
-2. **Ot mevsimleri:** Radika, ebegümeci, arapsaçı ve turp otu için resmi ya da akademik bir kaynakta ay bilgisi bulunamadı, tabloda "Yöreye göre değişir" yazıldı. Şevketibostan için kaynaklar farklı: Go Türkiye "January", Ege Tarımsal Araştırma Enstitüsü kökenli Karık 2019 kültür bitkisinde "kasım-şubat sonu" hasat, basında "Ekim-Mayıs" gibi aralıklar geçiyor. Metinde Go Türkiye'nin "ocak" ifadesi kullanıldı. ETAE'nin şevketibostan broşürü (arastirma.tarimorman.gov.tr) 404 verdi.
-3. **Go Türkiye yayıncısı:** Sayfa yalnızca "TGA" altbilgisi taşıyor. "Kültür ve Turizm Bakanlığının tanıtım portalı" ifadesinin editörce onaylanması önerilir. ktb.gov.tr'de Türkçe bir Ege mutfağı/ot sayfası bulunamadı.
+2. **Ot mevsimleri:** Radika, ebegümeci, arapsaçı ve turp otu için resmi ya da akademik bir kaynakta ay bilgisi bulunamadı, tabloda "Yöreye göre değişir" yazıldı. Şevketibostan için kaynaklar farklı: GoTürkiye "January", Ege Tarımsal Araştırma Enstitüsü kökenli Karık 2019 kültür bitkisinde "kasım-şubat sonu" hasat, basında "Ekim-Mayıs" gibi aralıklar geçiyor. Metinde GoTürkiye'nin "ocak" ifadesi kullanıldı. ETAE'nin şevketibostan broşürü (arastirma.tarimorman.gov.tr) 404 verdi.
+3. **GoTürkiye yayıncısı:** Revizyonda çözüldü (yukarıdaki GoTürkiye notu). ktb.gov.tr'de Türkçe bir Ege mutfağı/ot sayfası bulunamadı.
 4. **Tarım ve Orman Bakanlığı kaynağı:** tarimorman.gov.tr "Zehirli Bitki Listesi" sayfası yalnızca dış bağlantı içeriyor. TAGEM ot toplama rehberi gov.tr dışında barındırılıyor, bu yüzden Kaynaklar'a eklenmedi.
 5. **Ürün sayfası tutarsızlıkları (yazıyı etkilemiyor):** `/siyah-zeytin` ambalajı hem "1 lt" hem "1 kg". `/kazdaglari-duble-iri-zeytin` başlıkta "2026-2027 sezonu", özelliklerde "Hasat Yılı 2025 – 2026" yazıyor.
 6. **FAQPage `<script>`:** Ticimax editörünün `<script>` etiketini koruyup korumadığı doğrulanmalı (profil 6.8).
