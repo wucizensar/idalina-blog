@@ -8,7 +8,7 @@ Aşağıda Ege mutfağıyla özdeşleşmiş 15 klasik meze tek tek tanıtılıyo
 
 Ege mezesi, ana yemekten önce ya da yanında küçük tabaklarda sunulan, zeytinyağı merkezli soğuk veya ılık tabaktır. Sebze ve baklagil mezeleri genelde zeytinyağıyla yavaş pişirilip soğutulur. Ot, közleme ve ezme mezelerinde ise yağ çoğu zaman hiç ısınmaz, servis anında eklenir.
 
-Bu yüzden bir meze sofrasında iki ayrı yağ ihtiyacı doğar: pişirmeye dayanıklı, yumuşak bir yağ ve aroması belirgin, çiğ kullanıma uygun bir yağ. Kültür ve Turizm Bakanlığının tanıtım portalı GoTürkiye de Ege'yi bölgede üretilen bol zeytinyağıyla hazırlanan sebze tabaklarıyla anlatır ve kabak çiçeği dolması, şevketibostan, börülce ve favayı bu mezeler arasında sayar ([GoTürkiye](https://goturkiye.com/gastronomy/turkaegean-tastes-along-coast-of-happiness)). İki kullanım için de [zeytinyağı](/zeytinyagi) seçerken hasat zamanına ve yağın tadına bakmak işi kolaylaştırır.
+Bu yüzden bir meze sofrasında iki ayrı yağ ihtiyacı doğar: pişirmeye dayanıklı, yumuşak bir yağ ve aroması belirgin, çiğ kullanıma uygun bir yağ. Türkiye'nin resmi seyahat rehberi GoTürkiye de Ege'yi bölgede üretilen bol zeytinyağıyla hazırlanan sebze tabaklarıyla anlatır ve kabak çiçeği dolması, şevketibostan, börülce ve favayı bu mezeler arasında sayar ([GoTürkiye](https://goturkiye.com/gastronomy/turkaegean-tastes-along-coast-of-happiness)). İki kullanım için de [zeytinyağı](/zeytinyagi) seçerken hasat zamanına ve yağın tadına bakmak işi kolaylaştırır.
 
 ## 15 Klasik Ege Mezesi (Özet Liste)
 
@@ -28,7 +28,7 @@ Bu yüzden bir meze sofrasında iki ayrı yağ ihtiyacı doğar: pişirmeye daya
 14. **Midye dolma:** Midye kabuğuna baharatlı iç pilav doldurularak pişirilen deniz mezesi.
 15. **Ahtapot salatası:** Haşlanmış ahtapotun zeytinyağı, sirke ve maydanozla hazırlandığı salata.
 
-Listenin ilk dokuzu daha çok çiğ yağ ve kısa hazırlıkla, son altısı ise tencerede zeytinyağıyla pişirme üzerine kurulu.
+Bu mezelerin bir kısmında zeytinyağı yalnızca servis anında çiğ eklenir, bir kısmında tencerede sebzeyle birlikte pişer. Hangisinin hangi gruba girdiği aşağıdaki tabloda toplu olarak görülebilir.
 
 ## 1. Fava
 
@@ -56,7 +56,7 @@ Peynirin tuzuna göre ek tuz gerekmeyebilir. Ceviz iri kırılırsa ezmenin doku
 
 ## 5. Haydari
 
-Haydari, süzme yoğurdun beyaz peynir, sarımsak ve dereotu ya da kuru nane ile karıştırılmasıyla yapılan koyu kıvamlı bir mezedir. Türkiye'nin pek çok bölgesinde meze tabaklarında yer alır, Ege sofralarında da en sık görülen yoğurtlu mezedir. Zeytinyağı bu mezede pişmez, karışıma az miktarda katılır ve asıl olarak servis anında üzerine gezdirilir.
+Haydari, süzme yoğurdun beyaz peynir, sarımsak ve dereotu ya da kuru nane ile karıştırılmasıyla yapılan koyu kıvamlı bir mezedir. Türkiye'nin pek çok bölgesinde meze tabaklarında yer alır, Ege sofralarında da sık görülür. Zeytinyağı bu mezede pişmez, karışıma az miktarda katılır ve asıl olarak servis anında üzerine gezdirilir.
 
 Kıvamın sırrı yoğurdun iyice süzülmesidir. Sulu yoğurtla yapılan haydari tabakta yayılır ve yanındaki mezelere karışır.
 
@@ -70,7 +70,7 @@ Püf noktası, közlenen patlıcanın soyulduktan sonra bir süre süzgece bıra
 
 Közlenmiş kırmızı biber, közde ya da fırında kabuğu kabarana kadar pişirilen kapya biberin soyularak zeytinyağı, sarımsak ve sirkeyle tatlandırıldığı mezedir. Zeytinyağı çiğ kullanılır ve biberin tatlılığıyla dengelenir. Kabuğu kolay soymak için biberler sıcakken kapağı kapalı bir kaba alınır, buharda birkaç dakika bekleyince kabuk kendiliğinden ayrılır.
 
-Soyma sırasında biberler suyun altına tutulmaz, yoksa közün verdiği isli tat da akıp gider. Birkaç saat önceden hazırlanıp yağın içinde bekletilirse tadı oturur.
+Soyma sırasında biberler suyun altına tutulmaz, yoksa közün verdiği isli tat da akıp gider. Önceden hazırlanacaksa kapaklı bir kapta buzdolabında bekletilir.
 
 ## 8. Kabak Çiçeği Dolması
 
@@ -98,7 +98,7 @@ Kuru barbunya önceden ıslatılıp haşlanır, taze barbunya ise mevsiminde do�
 
 ## 12. Zeytinyağlı Yaprak Sarma
 
-Zeytinyağlı yaprak sarma, asma yaprağına pirinç, soğan, otlar ve baharatla hazırlanan için sarılıp zeytinyağıyla pişirildiği soğuk bir mezedir. Ege usulünde içe dolmalık fıstık ve kuş üzümü girer, tarçın ve limonla tatlı ekşi bir denge kurulur. Zeytinyağı hem içte hem pişirme suyunda bulunur.
+Zeytinyağlı yaprak sarma, asma yaprağına pirinç, soğan, otlar ve baharatla hazırlanan için sarılıp zeytinyağıyla pişirildiği soğuk bir mezedir. Bazı tariflerde içe dolmalık fıstık ve kuş üzümü de girer, tarçın ve limonla tatlı ekşi bir denge kurulur. Zeytinyağı hem içte hem pişirme suyunda bulunur.
 
 Servis anında limon ve çiğ zeytinyağı eklenir. Sarmalar tencerede soğumaya bırakılırsa açılmaz ve yağı çeker. Parmak inceliğinde sarmak ve tencereye sık dizmek, [zeytinyağlı yaprak sarmanın](/blog/icerik/zeytinyagli-yaprak-sarma-tarifi) pişerken açılmamasını sağlar.
 
@@ -203,7 +203,7 @@ Fava, deniz börülcesi, şevketibostan, girit ezmesi, haydari, közlenmiş patl
 
 1. T.C. Tarım ve Orman Bakanlığı, Ordu İl Tarım ve Orman Müdürlüğü. "Gıdanı Koru, Sofrana Sahip Çık" (broşür, PDF). [ordu.tarimorman.gov.tr](https://ordu.tarimorman.gov.tr/Belgeler/G%C4%B1da%20ve%20Yem/GIDANI%20KORU.pdf)
 2. TÜRKPATENT Coğrafi İşaret Portalı. "Urla Sakız Enginarı", tescil no 245, menşe adı (PDF). [ci.turkpatent.gov.tr](https://ci.turkpatent.gov.tr/Files/GeographicalSigns/245.pdf)
-3. T.C. Kültür ve Turizm Bakanlığı, GoTürkiye. "Turkaegean tastes along Coast of Happiness". [goturkiye.com](https://goturkiye.com/gastronomy/turkaegean-tastes-along-coast-of-happiness)
+3. GoTürkiye (Official Travel Guide of Türkiye). "Turkaegean tastes along Coast of Happiness". [goturkiye.com](https://goturkiye.com/gastronomy/turkaegean-tastes-along-coast-of-happiness)
 
 ## Etiketler
 
@@ -223,7 +223,7 @@ Ege mezeleri,Zeytinyağlı mezeler,Meze tabağı,Fava,Girit ezmesi,Deniz börül
 | Uzun kuyruk varyasyonlar | zeytinyağlı mezeler, meze tabağı nasıl hazırlanır, Ege mezesi ne demek, meze üzerine hangi zeytinyağı, mezeler kaç gün önceden hazırlanır, humus Ege mezesi mi |
 | Kapak görseli alt metni | Ege mezeleri: fava, girit ezmesi, deniz börülcesi ve közlenmiş biberle kurulmuş zeytinyağlı meze tabağı |
 | Şema | BlogPosting ve BreadcrumbList Ticimax tarafından otomatik ekleniyor (Article eklenmedi). FAQPage JSON-LD `sss.html` sonunda, 4 soru, metinler sayfayla birebir, bağlantısız |
-| Kelime sayısı | 2.323 (H1'den Etiketler'e kadar, tablolar hariç; betikle sayıldı). Madde başı 59-84 kelime (brief: 60-90; İmam bayıldı ve Ahtapot maddelerinin yalnızca kendi metni 58-68 aralığında, Ahtapot'un altındaki humus paragrafı ayrı) |
+| Kelime sayısı | 2.324 (H1'den Etiketler'e kadar, tablolar hariç; betikle sayıldı). Madde başı 59-84 kelime (brief: 60-90; İmam bayıldı ve Ahtapot maddelerinin yalnızca kendi metni 58-68 aralığında, Ahtapot'un altındaki humus paragrafı ayrı) |
 | İç bağlantılar (gövde, 12/12) | 1) /zeytinyagi (Ne Demek bölümü) 2) /blog/icerik/fava-tarifi 3) /blog/icerik/zeytinyagli-enginar-tarifi 4) /blog/icerik/zeytinyagli-barbunya-tarifi 5) /blog/icerik/zeytinyagli-yaprak-sarma-tarifi 6) /blog/icerik/imam-bayildi-tarifi 7) /blog/icerik/humus-tarifi 8) /erken-hasat-zeytinyagi 9) /blog/icerik/zeytinyagi-tadimi-nasil-yapilir 10) /blog/icerik/delice-yabani-zeytin-zeytinyagi-nedir 11) /blog/icerik/cesnili-zeytinyagi-aci-biberli-zerdecalli-zeytinyagi 12) /zeytinyagi (Sonuç). **Betik kontrolü: 12/12 adres sitemap.xml'de birebir bulundu** (10 benzersiz adres). Brief'teki 12 sınırı nedeniyle /cesnili-zeytinyaglari ve /delice-zeytinyagi kategori sayfaları gövdede bağlanmadı; ilgili blog yazıları tercih edildi |
 | Ürün kutuları (iç bağlantı sayısına dahil değil) | /750ml-premium-ilk-gun-hasadi-zeytinyagi-yeni-hasat-2026, /250ml-delice-zeytinyagi, /750ml-aci-biber-cesnili-soguk-sikim-zeytinyagi. Üçü de marka-profili Bölüm 5 bağlanabilir listesinde ve sitemap'te var (betikle kontrol edildi) |
 | Site tarifleriyle çelişki kontrolü | Fava, enginar, barbunya, yaprak sarma, imam bayıldı, humus dışındaki 5 tarif sayfası ile çeşnili, delice ve tadım yazıları 19.11.2026'da açıldı (HTTP 200). Servis sıcaklığı ve zeytinyağı kullanımı (pişirme + servis anında çiğ) tariflerle uyumlu. Çeşnili yazısı acı biberli yağın "pişirme yağı değil son dokunuş" olduğunu söylüyor; ürün kutusu cümlesi buna göre yazıldı. Delice yazısı "pişirmede kullanmayın, servis anında birkaç damla" diyor; kutu cümlesi uyumlu. Humus tarif sayfası ayrıca açılmadı (yalnızca bağlantı adı kullanıldı) |
@@ -254,6 +254,13 @@ Alıntılar PDF'lerden `pdftotext` ile, GoTürkiye sayfasından ham HTML metnind
 - "Kısacası", "Sonuç olarak", "Özetle": betikle 0.
 - Kaynaksız süreler çıkarıldı: "bir gece dinlenince", "bir gece ıslatılır", "bir iki saat önce", "bir gün önceden" (kontrol listesi ve S.S.S.). S.S.S. 3 "Değişir." + belirleyen etkenler + yalnızca Bakanlık broşüründeki sayılar.
 
+### Revizyon notu 2 (blog yönetmeni, 19.11.2026)
+- Özet liste altındaki geçiş cümlesi tabloyla çelişiyordu (şevketibostan ve kabak çiçeği "Pişirme", ahtapot "Çiğ"); gruplama iddiası kaldırıldı, okur tabloya yönlendirildi.
+- Közlenmiş kırmızı biber: kaynaksız "birkaç saat" süresi ve oda sıcaklığında bekletme ifadesi çıkarıldı; "kapaklı bir kapta buzdolabında" yazıldı.
+- Haydari: "en sık görülen" üstünlük ifadesi "sık görülür" olarak yumuşatıldı.
+- Yaprak sarma: "Ege usulünde … girer" genellemesi "Bazı tariflerde … de girer" olarak yumuşatıldı.
+- GoTürkiye yayıncısı: bakanlık adı sayfada birebir geçmediği için gövde ve Kaynaklar'da "resmi seyahat rehberi / Official Travel Guide of Türkiye" kullanıldı.
+
 ### Brief'e uyum notları
 - Alkol: Rakı veya başka alkollü içecek, "rakı sofrası" ifadesi yok (betikle `\b(rakı|alkol)` aramasında 0 sonuç). "Meze" yalnızca yemek anlamında.
 - Sağlık beyanı yok. Fava maddesindeki G6PD (favizm) cümlesi sitedeki fava tarifindeki uyarının tekrarıdır; **sağlık beyanı değil güvenlik uyarısı, yine de kontrol edilmeli.**
@@ -270,7 +277,7 @@ Alıntılar PDF'lerden `pdftotext` ile, GoTürkiye sayfasından ham HTML metnind
 5. **Haydari:** Ege'ye özgü olduğu iddia edilmedi ("Türkiye'nin pek çok bölgesinde") ama brief'teki örnek listede bulunduğu için 15'e alındı. Editör uygun görmezse yerine "Zeytinyağlı kereviz" (sitede tarifi var: /blog/icerik/zeytinyagli-kereviz-tarifi) konabilir.
 6. **JSON-LD:** Ticimax blog editörünün `<script>` etiketini koruyup korumadığı doğrulanmalı (marka-profili 6.8); korumuyorsa şema sayfa/SEO ek kod alanına girilmeli.
 7. **Etiketler:** "Zeytinyağlı mezeler", "Meze tabağı", "Girit ezmesi", "Deniz börülcesi", "Şevketibostan", "Ege mutfağı" sitede mevcut etiket mi, CMS'te kontrol edilmeli (yeni etiket olabilir).
-8. GoTürkiye portalının Kültür ve Turizm Bakanlığına bağlı resmi tanıtım sitesi olduğu genel bilgiye dayanıyor; sayfada kurum künyesi ayrıca kontrol edilmedi.
+8. GoTürkiye: Kaynak sayfada ve ana sayfada Kültür ve Turizm Bakanlığı adı birebir geçmiyor (betikle arandı). Ana sayfa başlığı "Official Travel Guide of Türkiye - GoTürkiye", sayfa altbilgisinde "TGA" var. Bu nedenle gövdede "Türkiye'nin resmi seyahat rehberi GoTürkiye", Kaynaklar'da "GoTürkiye (Official Travel Guide of Türkiye)" yazıldı; bakanlık adı kullanılmadı.
 
 ### Yayın sonrası çapraz bağlantı önerileri
 - **Zeytinyağlı Yemekler Rehberi:** Enginar, barbunya pilaki, yaprak sarma ve imam bayıldı maddelerinden ("pişirme kuralları" için) bağlantı; rehberden bu yazıya "meze olarak servis" bağlamında geri bağlantı.
