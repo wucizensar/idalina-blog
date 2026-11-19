@@ -6,7 +6,7 @@ Ege usulü zeytinyağlı pişirmeyi yedi kural belirler: yağın zamanı, soğan
 
 ## Zeytinyağlı Yemek Ne Demek?
 
-Zeytinyağlı yemek, Türk mutfağında etsiz pişirilen ve yağı zeytinyağı olan sebze yemeklerinin ortak adıdır. Etli sebze yemeklerinden farkı yalnızca etin olmaması değil, servis biçimidir: Zeytinyağlılar sıcak değil, soğuyup dinlendikten sonra masaya gelir. Türkiye'nin resmi turizm portalı [GoTürkiye](https://goturkiye.com/gastronomy/blog/top-turkish-olive-oil-dishes) de zeytinyağlıları Türk mutfağında ayrı bir yemek sınıfı olarak tanıtır ve zeytinyağlı enginarı Ege mutfağının simge yemeklerinden biri sayar. Tencerede kullanılan yağın sınıfı, tadı ve miktarı sonucu doğrudan etkiler; farklı hasat ve sınıflardaki seçenekler için [zeytinyağı](/zeytinyagi) kategorisi incelenebilir.
+Zeytinyağlı yemek, Türk mutfağında etsiz pişirilen ve yağı zeytinyağı olan sebze yemeklerinin ortak adıdır. Etli sebze yemeklerinden farkı yalnızca etin olmaması değil, servis biçimidir: Zeytinyağlılar sıcak değil, soğuyup dinlendikten sonra masaya gelir. Türkiye'nin resmi seyahat rehberi [GoTürkiye](https://goturkiye.com/gastronomy/blog/top-turkish-olive-oil-dishes) de zeytinyağlıların Türk mutfağında ayrı bir sınıf olduğunu yazar ve zeytinyağlı enginarı Ege mutfağının simgesi sayılabilecek bir yemek olarak anar. Tencerede kullanılan yağın sınıfı, tadı ve miktarı sonucu doğrudan etkiler; farklı hasat ve sınıflardaki seçenekler için [zeytinyağı](/zeytinyagi) kategorisi incelenebilir.
 
 ## Ege Usulü Zeytinyağlı Pişirmenin 7 Kuralı
 
@@ -22,7 +22,7 @@ Aşağıdaki kurallar Ege mutfağında yaygın olan uygulamayı özetler. Evden 
 
 ## 1. Yağı Başta, Soğanla Birlikte Koymak
 
-Ege usulünde zeytinyağı tencereye ilk giren malzemedir ve soğanla birlikte ısınır. Sitedeki enginar, pırasa ve kereviz tariflerinde yaklaşık bir çay bardağı yağ soğanı kavurmak için en başta kullanılır. Yağ böylece sebzenin her parçasını sarar, pişme suyuyla karışarak yemeğin sosunu oluşturur.
+Ege usulünde zeytinyağı tencereye ilk giren malzemedir ve soğanla birlikte ısınır. Enginar, pırasa ve kereviz tariflerinde yaklaşık bir çay bardağı yağ soğanı kavurmak için en başta kullanılır. Yağ böylece sebzenin her parçasını sarar, pişme suyuyla karışarak yemeğin sosunu oluşturur.
 
 Bazı tarifler yağı ikiye böler. Barbunya tarifinde yağın üçte ikisi başta, kalanı ocak kapatılınca eklenir. Bu yöntem, pişirme yağı ile aroma yağını ayırmanın pratik bir yolu. Yağın tamamını pişirmenin sonuna bırakmak ise farklı bir sonuç verir: Yağ sebzeyle birlikte pişmediği için sosa karışmaz, tabakta ayrı durur.
 
@@ -42,7 +42,7 @@ Zeytinyağlı tariflerin çoğunda bir tatlı kaşığı kadar şeker vardır. B
 
 Zeytinyağlı yemekte su sebzeyi örtecek kadar konmaz. Taze fasulye, pırasa ve kabak gibi sulu sebzeler pişerken kendi suyunu bırakır, bu yüzden tencereye az su eklenir. Fazla su, yağ ile suyun birleşip kıvamlı bir sos oluşturmasını engeller ve yemek haşlama gibi olur.
 
-Sarmalar bu kuralın sınırını gösterir: Pirinç suyu çekerek piştiği için sarmaların üzerine daha fazla su eklenir. Kuru baklagillerde durum tamamen farklıdır: Barbunya, nohut ve bakla önceden ıslatılıp haşlanır, ardından zeytinyağlı pişirmeye geçilir. Kısacası "az su" taze sebzeler için geçerli bir ölçüdür, her tencerede aynı miktar anlamına gelmez. Pişme sırasında su azalırsa fava tarifinde olduğu gibi soğuk değil sıcak su eklenir.
+Sarmalar bu kuralın sınırını gösterir: Pirinç suyu çekerek piştiği için sarmaların üzerine daha fazla su eklenir. Kuru baklagillerde durum tamamen farklıdır: Barbunya, nohut ve bakla önceden ıslatılıp haşlanır, ardından zeytinyağlı pişirmeye geçilir. "Az su" taze sebzeler için geçerli bir ölçüdür, her tencerede aynı miktar anlamına gelmez. Pişme sırasında su azalırsa fava tarifinde olduğu gibi soğuk değil sıcak su eklenir.
 
 ## 5. Kısık Ateşte, Kapağı Kapalı Pişirmek
 
@@ -52,13 +52,13 @@ Kapağın tamamen kapalı kalmadığı durumlar da var. Fava tarifinde bakla, ka
 
 ## 6. Tencerede Oda Sıcaklığına Kadar Dinlendirmek
 
-Zeytinyağlı yemek, ocaktan alındığı anda değil, soğuduktan sonra hazır sayılır. Sitedeki taze fasulye tarifi yemeğin tencerede oda sıcaklığına kadar soğumasını önerir; enginar ve barbunya tariflerine göre bir gece buzdolabında beklemek lezzeti oturtur. Dinlenen yemekte sos koyulaşır ve sebze yağı içine çeker. Bu yüzden zeytinyağlıyı servisten bir gün önce pişirmek pratik bir yoldur.
+Zeytinyağlı yemek, ocaktan alındığı anda değil, soğuduktan sonra hazır sayılır. Taze fasulye tarifi yemeğin tencerede oda sıcaklığına kadar soğumasını önerir; enginar ve barbunya tariflerine göre bir gece buzdolabında beklemek lezzeti oturtur. Dinlenen yemekte sos koyulaşır ve sebze yağı içine çeker. Bu yüzden zeytinyağlıyı servisten bir gün önce pişirmek pratik bir yoldur.
 
 Soğuyan yemek kapalı kapta buzdolabına kaldırılır. Servisten önce bir süre dışarıda bekletilip oda sıcaklığına getirilmesi gerekir, çünkü buzdolabından yeni çıkmış zeytinyağlıda yağ donuklaşır ve tat bastırılır. İmam bayıldı tarifinde de aynı öneri var: Yemek soğuyunca lezzetlenir ve servis edilmeden önce oda sıcaklığına gelmesi beklenir.
 
 ## 7. Servisten Önce Çiğ Zeytinyağı Gezdirmek
 
-Son kural tabakta uygulanır ve en kolay uygulanan kuraldır: Servisten hemen önce yemeğin üzerine bir iki kaşık çiğ zeytinyağı gezdirilir. Pişirme sırasında yağın bazı aroma bileşenleri azalır; çiğ yağ bu tazeliği tabağa geri getirir. Sitedeki pırasa ve kereviz tariflerinde servis için yaklaşık iki yemek kaşığı çiğ yağ kullanılır.
+Son kural tabakta uygulanır ve en kolay uygulanan kuraldır: Servisten hemen önce yemeğin üzerine bir iki kaşık çiğ zeytinyağı gezdirilir. Pişirme sırasında yağın bazı aroma bileşenleri azalır; çiğ yağ bu tazeliği tabağa geri getirir. Pırasa ve kereviz tariflerinde servis için yaklaşık iki yemek kaşığı çiğ yağ kullanılır.
 
 Bu aşamada pişirmede kullanılan yağın aynısı da olur, daha yoğun tatlı başka bir yağ da. Taze fasulye ve imam bayıldı tariflerinde pişirme için olgun hasat, servis için erken hasat zeytinyağı önerilir. Yeşil meyve ve acılık hissi yüksek bir yağ, yumuşak tatlı enginar ya da barbunyanın üzerinde belirgin bir kontrast yaratır.
 
@@ -76,7 +76,7 @@ Pişirme aşamasında yumuşak tatlı ve büyük ambalajda alınan bir natürel 
 | **Meze (fava, humus)** | Erken hasat ya da ilk gün hasat | Nötr tatlı ezmeleri canlandırır; mezede yağ çoğu zaman tabağın görünür bir parçasıdır |
 | **Kızartma (imam bayıldı patlıcanı gibi)** | Olgun hasat natürel sızma | Erken ve ilk gün hasat yağları çiğ kullanıma ayırmak daha ekonomiktir; ısıtma aromanın bir kısmını azaltır |
 
-Kızartmada sıcaklık, dumanlanan yağın tekrar kullanılmaması ve yağların ısıya dayanıklılığı [zeytinyağı ile kızartma ve duman noktası](/blog/icerik/zeytinyagi-ile-kizartma-yapilir-mi-duman-noktasi) yazısında ayrıntılı olarak anlatılıyor. [Uluslararası Zeytin Konseyi](https://www.internationaloliveoil.org/olive-world/olive-oil/) de zeytinyağını ısıtıldığında en dayanıklı yağlardan biri olarak tanımlar ve duman noktasının önerilen kızartma sıcaklığının üzerinde olduğunu belirtir. Pişirme yağı genellikle 5 litrelik tenekelerle alındığı için ambalaj, sınıf ve sezon seçiminde [kışlık zeytinyağı alırken dikkat edilecekler](/blog/icerik/kislik-zeytinyagi-alirken-nelere-dikkat-edilmeli) yol gösterir.
+Kızartmada sıcaklık, dumanlanan yağın tekrar kullanılmaması ve yağların ısıya dayanıklılığı [zeytinyağı ile kızartma ve duman noktası](/blog/icerik/zeytinyagi-ile-kizartma-yapilir-mi-duman-noktasi) yazısında ayrıntılı olarak anlatılıyor. [Uluslararası Zeytin Konseyi](https://www.internationaloliveoil.org/olive-world/olive-oil/) de zeytinyağını ısıtıldığında en kararlı (stabil) yağlardan biri olarak tanımlar ve duman noktasının önerilen kızartma sıcaklığının oldukça üzerinde olduğunu belirtir. Pişirme yağı genellikle 5 litrelik tenekelerle alındığı için ambalaj, sınıf ve sezon seçiminde [kışlık zeytinyağı alırken dikkat edilecekler](/blog/icerik/kislik-zeytinyagi-alirken-nelere-dikkat-edilmeli) yol gösterir.
 
 ## Mevsim Mevsim Zeytinyağlı Tarifler
 
@@ -90,7 +90,7 @@ Tablodaki her tarif, yukarıdaki yedi kuralı kendi sebzesine göre uygular. Eng
 | **İlkbahar** | Zeytinyağlı taze bakla ve bezelye: Baharın ilk taze baklagilleri, dereotuyla. | Sitede tarif yok |
 | **Yaz** | Zeytinyağlı taze fasulye: Domatesle pişen, yeşil rengini koruyan klasik yaz yemeği. | [Zeytinyağlı taze fasulye tarifi](/blog/icerik/zeytinyagli-taze-fasulye-tarifi) |
 | **Yaz** | İmam bayıldı: Kızartılan ya da fırınlanan patlıcanın soğan ve domatesli harçla doldurulmuş hali. | [İmam bayıldı tarifi](/blog/icerik/imam-bayildi-tarifi) |
-| **Yaz** | Taze barbunya: Sitedeki tarif taze barbunya mevsimini Haziran-Eylül olarak verir. | [Zeytinyağlı barbunya tarifi](/blog/icerik/zeytinyagli-barbunya-tarifi) |
+| **Yaz** | Taze barbunya: Barbunya tarifi taze barbunya mevsimini Haziran-Eylül olarak verir. | [Zeytinyağlı barbunya tarifi](/blog/icerik/zeytinyagli-barbunya-tarifi) |
 | **Yaz** | Zeytinyağlı biber dolması, kabak ve bamya: Yaz sebzeleriyle yapılan diğer zeytinyağlılar. | Sitede tarif yok |
 | **Sonbahar-kış** | Zeytinyağlı pırasa: Havuç ve pirinçle pişen, sonbaharın sonundan itibaren yapılan yemek. | [Zeytinyağlı pırasa tarifi](/blog/icerik/zeytinyagli-pirasa-tarifi) |
 | **Kış** | Zeytinyağlı kereviz: Portakal ve dereotuyla pişen kış yemeği. | [Zeytinyağlı kereviz tarifi](/blog/icerik/zeytinyagli-kereviz-tarifi) |
@@ -102,7 +102,7 @@ Tablodaki her tarif, yukarıdaki yedi kuralı kendi sebzesine göre uygular. Eng
 | **Yıl boyu** | Pilaki: Kuru fasulye ya da barbunyayla yapılan, havuçlu ve sarımsaklı zeytinyağlı. | Sitede tarif yok |
 
 > **Mevsimi tartışmalı olan yemekler**
-> Asma yaprağı ve kuru baklagiller tabloyu karıştırır. Taze asma yaprağı yalnızca kısa bir dönemde toplanır ve bu dönem bölgeye göre değişir; salamura ya da dondurulmuş yaprakla yaprak sarma bütün yıl yapılır. Barbunya hem yaz hem yıl boyu satırında yer alır, çünkü sitedeki tarif taze ve kuru barbunyayla iki ayrı yol anlatır. Fava ve humus ise kuru baklagille yapıldığı için mevsimden bağımsızdır. Sebzelerin pazara geliş zamanı da bölgeye ve yılın havasına göre birkaç hafta kayabilir.
+> Asma yaprağı ve kuru baklagiller tabloyu karıştırır. Taze asma yaprağı yalnızca kısa bir dönemde toplanır ve bu dönem bölgeye göre değişir; salamura ya da dondurulmuş yaprakla yaprak sarma bütün yıl yapılır. Barbunya hem yaz hem yıl boyu satırında yer alır, çünkü barbunya tarifi taze ve kuru barbunyayla iki ayrı yol anlatır. Fava ve humus ise kuru baklagille yapıldığı için mevsimden bağımsızdır. Sebzelerin pazara geliş zamanı da bölgeye ve yılın havasına göre birkaç hafta kayabilir.
 
 ## Zeytinyağlı Yemek Pişirirken Nelere Dikkat Edilmeli?
 
@@ -143,7 +143,7 @@ Evet. Zeytinyağlı yemekler kısık ateşte ve yavaş pişer, natürel sızma z
 
 ### Zeytinyağlı yemek buzdolabında kaç gün dayanır?
 
-Değişir. Sitedeki kereviz tarifi buzdolabında 2-3 gün, lahana sarması tarifi 3 gün saklamayı önerir. Yemek tamamen soğuduktan sonra kapalı bir kapta buzdolabına kaldırılmalı, kokusu ya da görünüşü değişmişse tüketilmemelidir.
+Değişir. Süreyi yemeğin ne kadar çabuk soğutulup buzdolabına kaldırıldığı, kapalı bir kapta saklanıp saklanmadığı ve buzdolabının sıcaklığı belirler. Uzun süre tezgahta bekleyen yemek daha çabuk bozulur. Kokusu, görünüşü ya da kıvamı değişen zeytinyağlı tüketilmemelidir.
 
 ### Kuru baklagillerle zeytinyağlı yemek yapılır mı?
 
@@ -181,7 +181,7 @@ Zeytinyağlı yemekler,Zeytinyağlı tarifler,Ege mutfağı,Ege usulü zeytinya�
 | Dış kaynaklar (2, gövdede bağlam içinde + Kaynaklar) | Aşağıdaki tablo |
 | S.S.S. tasarım kaynağı | marka-profili Bölüm 6.8 (H3'e `font-weight:700;line-height:1.4` eklenmesi profildeki nota uygun) |
 | Etiketler | Zeytinyağlı yemekler,Zeytinyağlı tarifler,Ege mutfağı,Ege usulü zeytinyağlı,Mevsim sebzeleri,Zeytinyağlı sebze yemekleri,Erken hasat zeytinyağı,Olgun hasat zeytinyağı,Natürel sızma zeytinyağı (9 etiket) |
-| Kelime sayısı | 1.832 (H1'den Etiketler'e, tablolar hariç; S.S.S., ürün kutuları ve bilgi kutusu dahil; Python ile sayıldı) |
+| Kelime sayısı | 1.836 (H1'den Etiketler'e, tablolar hariç; S.S.S., ürün kutuları ve bilgi kutusu dahil; Python ile sayıldı) |
 
 ### İç bağlantı kontrolü (betik: yazi.md içindeki tüm göreli adresler `_kaynak/sitemap.xml` `<loc>` listesine karşı)
 
@@ -201,8 +201,8 @@ Sonuç: 16 iç bağlantı, 16'sı da sitemap'te birebir mevcut. Sitemap dışı 
 
 | Adres | Doğrulama | Kullanım |
 | :-- | :-- | :-- |
-| https://www.internationaloliveoil.org/olive-world/olive-oil/ | WebFetch ile açıldı (19.11.2026). Sayfa: "Olive oils". Isıtmaya dayanıklılık ve duman noktasının önerilen kızartma sıcaklığının üzerinde olduğu cümlesi buradan | Doğru yağ seçimi + Kaynaklar |
-| https://goturkiye.com/gastronomy/blog/top-turkish-olive-oil-dishes | WebFetch ile açıldı (19.11.2026). Sayfa: "Top Turkish Olive Oil Dishes". "Zeytinyağlılar" ayrı bir sınıf; enginar "flagship of TurkAegean cuisine" | "Ne Demek?" + Kaynaklar |
+| https://www.internationaloliveoil.org/olive-world/olive-oil/ | WebFetch ile açıldı (19.11.2026, revizyonda yeniden). Sayfa: "Olive oils". (a) Isıtmaya dayanıklılık: "Olive oil is one of the most stable fats when heated, allowing it to withstand high frying temperatures." (b) Duman noktası: "Its smoke point (around 210°C) is well above the recommended frying temperature (about 180°C)," (cümlenin devamı sindirilebilirlikle ilgili, yazıda kullanılmadı). Metindeki ifade alıntıya uyduruldu: "en kararlı (stabil) yağlardan biri", "oldukça üzerinde" | Doğru yağ seçimi + Kaynaklar |
+| https://goturkiye.com/gastronomy/blog/top-turkish-olive-oil-dishes | WebFetch ile açıldı (19.11.2026, revizyonda yeniden). Sayfa: "Top Turkish Olive Oil Dishes". (c) Ayrı sınıf: "Today, there’s an entire classification in Turkish cuisine referred to as “zeytinyağlılar,”" (d) Enginar: "It can be cited as a flagship of TurkAegean cuisine." Yayıncı: ana sayfa (https://goturkiye.com/) başlığı "Official Travel Guide of Türkiye - GoTürkiye"; altbilgi "Copyright © 2026 Türkiye. All Rights Reserved TGA". Sayfada bakanlık/ajans adı açıkça yazmadığı için metindeki "resmi turizm portalı" ifadesi "resmi seyahat rehberi" olarak yumuşatıldı ("Official Travel Guide" alıntısına dayanır). Enginar cümlesi "simgesi sayılabilecek" olarak alıntıya uyduruldu | "Ne Demek?" + Kaynaklar |
 
 Duman noktası sayısı verilmedi. IOC sayfası genel olarak "olive oil" için yaklaşık 210 °C diyor, sınıf belirtmiyor; sitedeki duman noktası yazısındaki sayılar (natürel sızma 190-210 °C) kaynak göstermiyor. Brief gereği sayı yazılmadı, çelişki oluşmadı.
 
@@ -218,7 +218,7 @@ Duman noktası sayısı verilmedi. IOC sayfası genel olarak "olive oil" için y
 ### Eksik / doğrulanmalı
 - **Çakışma riski (düşük):** /blog/icerik/olgun-hasat-zeytinyagi-nedir-erken-hasattan-farki-ve-hangi-yemeklerde-kullanilir yazısı "hangi yemeklerde kullanılır" sorgusunu kısmen hedefliyor. Bu yazı yöntem ve mevsim odaklı olduğu için ana sorgu farklı; yine de yönetmen kontrol etmeli.
 - **Mevsim bilgisi:** Barbunya (Haziran-Eylül), enginar (bahar), pırasa (sonbahar sonu-kış), kereviz ve lahana (kış) sitedeki tarif yazılarından alındı. Taze bakla, bezelye, biber, kabak, bamya mevsimleri genel mutfak bilgisi; ay aralığı verilmedi. Taze asma yaprağının toplama dönemi için kaynak bulunamadı, metinde "kısa bir dönem, bölgeye göre değişir" denildi.
-- **Buzdolabı süresi (S.S.S. 4):** 2-3 gün / 3 gün değerleri sitedeki kereviz ve lahana sarması tariflerinden alındı; resmi gıda güvenliği kaynağıyla doğrulanmadı.
+- **Buzdolabı süresi (S.S.S. 4):** Revizyonda sayı kaldırıldı (seçenek b). USDA FSIS "Leftovers and Food Safety" sayfası (https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety) denendi, HTTP 403 ile açılamadı; Tarım ve Orman Bakanlığı'nda artık yemek saklama süresi veren sayfa bulunamadı. Cevap "Değişir." + belirleyen etkenlerle yazıldı. Resmi kaynak bulunursa sayı eklenebilir.
 - **Ürün kutuları:** Organik 5 L ve 2 L Soğuk Sıkım ürünlerinin hasat zamanı (erken/olgun) ve tat profili bilinmiyor; kutu metinleri bu yüzden yalnızca ambalaj ve kullanım üzerinden yazıldı. Ürün sayfası açıklamasıyla çelişmediği kontrol edilmeli.
 - **Resmi kaynak:** Kültür ve Turizm Bakanlığı (ktb.gov.tr) altında zeytinyağlı yemeklerle ilgili ayrı bir sayfa bulunamadı; Türkiye'nin resmi turizm portalı GoTürkiye kullanıldı. Tarım ve Orman Bakanlığı tarafında mutfak kullanımıyla ilgili sayfa bulunamadı. TGK Zeytinyağı ve Pirina Yağı Tebliği (Resmi Gazete 17.09.2017) açıldı ama 2023 değişikliğiyle güncel metin doğrulanamadığı için kullanılmadı.
 - **Sağlık beyanı:** Yok. Sağlık konusu "Zeytinyağının Faydaları" yazısına bırakıldı, o yazıya bağlantı verilmedi.
@@ -277,5 +277,12 @@ Duman noktası sayısı verilmedi. IOC sayfası genel olarak "olive oil" için y
 | 8 | ✓ | Üçüncü şahıs; hitap yalnızca meta açıklamada |
 | 9 | ✓ | %, sayı, kesme, iki nokta sonrası büyük/küçük harf kontrol edildi; şapka 0 |
 | 10 | ✓ | Uzun rehber; başlık/liste şablon gereği. Paragraf içinde kalın yok |
-| 11 | ✓ (3A #7) | Somut ayrıntılar (bir çay bardağı yağ, iki yemek kaşığı servis yağı, Haziran-Eylül, 2-3 gün) yalnızca sitedeki tariflerden; uydurulmuş sayı yok, eksikler notta |
+| 11 | ✓ (3A #7) | Somut ayrıntılar (bir çay bardağı yağ, iki yemek kaşığı servis yağı, Haziran-Eylül) yalnızca sitedeki tariflerden; uydurulmuş sayı yok, eksikler notta |
 | 12 | ✓ | Başlıklarda büyük harf, "ve/mı" küçük korunuyor |
+
+### Revizyon 1 (yönetmen notları)
+1. "Sitedeki … tarifi" tekrarı 8'den 2'ye indirildi (giriş yol haritası ve mevsim tablosu girişi kaldı); Kural 1, 6, 7, mevsim tablosu barbunya satırı ve bilgi kutusu doğrudan anlatıma çevrildi.
+2. Kural 4'teki "Kısacası" kaldırıldı, cümle bağlaçsız kuruldu.
+3. S.S.S. 4: sayı kaldırıldı, "Değişir." + etkenler (soğutma hızı, kapalı kap, buzdolabı sıcaklığı, koku/görünüş/kıvam). JSON-LD güncellendi.
+4. Dış kaynak tablosuna birebir alıntılar eklendi; IOC ve GoTürkiye cümleleri alıntıya uyduruldu, "resmi turizm portalı" → "resmi seyahat rehberi".
+5. Olgun hasat tablo önerisi ve kategori bağlantısı değişmedi.
