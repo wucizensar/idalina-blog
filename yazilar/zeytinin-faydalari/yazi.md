@@ -1,12 +1,12 @@
 # Zeytinin Faydaları: Siyah mı Yeşil mi Daha Sağlıklı? Günde Kaç Zeytin Yenmeli?
 
-Zeytinin faydaları, sofra zeytininin besin bileşiminden gelir: yağının büyük kısmı tekli doymamış yağdır, meyvenin kendisi lif ve E vitamini taşır, salamura zeytin de çoğu zaman fermantasyonla hazırlanır. Aynı tabloda bir de sodyum vardır: bir besin kaydına göre 100 g yeşil zeytinde 1.556 mg sodyum bulunur. Bu yüzden zeytinde "ne kadar" sorusu, "neden" sorusu kadar önem taşır. Siyah ile yeşil arasındaki fark ise çoğunlukla olgunluk derecesinden ve işleme yönteminden doğar.
+Zeytinin faydaları, sofra zeytininin besin bileşiminden gelir: yağının büyük kısmı tekli doymamış yağdır, meyvenin kendisi lif ve E vitamini taşır, doğal salamura zeytin de fermantasyonla hazırlanır. Aynı tabloda bir de sodyum vardır: bir besin kaydına göre 100 g yeşil zeytinde 1.556 mg sodyum bulunur. Bu yüzden zeytinde "ne kadar" sorusu, "neden" sorusu kadar önem taşır. Siyah ile yeşil arasındaki fark ise çoğunlukla olgunluk derecesinden ve işleme yönteminden doğar.
 
 Zeytinin besin değerinde altı başlık öne çıkar: tekli doymamış yağ, lif, E vitamini ve polifenoller, demir ve diğer mineraller, sodyum ve fermente bir gıda olarak salamura. Ardından siyah ve yeşil zeytin aynı ölçüyle karşılaştırılıyor, günlük miktarı belirleyen etkenler sıralanıyor.
 
 ## Zeytinin Faydaları Neye Göre Değişir?
 
-Zeytinin faydaları, zeytinin hangi olgunlukta toplandığına ve sofraya nasıl hazırlandığına göre değişir. Türk Gıda Kodeksi Sofralık Zeytin Tebliği, zeytini hasat dönemine göre yeşil, rengi dönük ve siyah olarak ayırır; işleme şekline göre de doğal zeytin (doğal salamura, sele, doğal kurutulmuş) ve işlem görmüş zeytin (işlem görmüş salamura, işlem görmüş kurutulmuş, oksidasyonla karartılmış) olarak sınıflar. Bu sınıflar enerji, lif, sodyum ve bazı minerallerde ölçülebilir farklar yaratır.
+Zeytinin faydaları, zeytinin hangi olgunlukta toplandığına ve sofraya nasıl hazırlandığına göre değişir. Türk Gıda Kodeksi Sofralık Zeytin Tebliği, zeytini hasat dönemine göre yeşil, rengi dönük ve siyah olarak ayırır; işleme şekline göre de doğal zeytin (doğal salamura, sele, doğal kurutulmuş) ve işlem görmüş zeytin (işlem görmüş salamura, işlem görmüş kurutulmuş, oksidasyonla karartılmış) olarak sınıflar. USDA'daki iki farklı zeytin kaydı da enerji, lif, sodyum ve bazı minerallerde ölçülebilir farklar gösterir.
 
 Bu yüzden "zeytin sağlıklı mı?" sorusunun cevabı tek bir rakamla verilemez. Etiketteki işleme şekli ve tuz değeri, aynı tabaktaki iki zeytinin besin açısından ne kadar ayrıştığını gösterir. İdalina Beceren'in [sofralık zeytin seçkisi](/zeytin) incelenebilir.
 
@@ -14,7 +14,7 @@ Bu yüzden "zeytin sağlıklı mı?" sorusunun cevabı tek bir rakamla verilemez
 
 - **Tekli doymamış yağ:** Zeytindeki yağın yaklaşık dörtte üçü bu gruptandır.
 - **Lif:** Zeytin bütün meyve olarak yendiği için lif de taşır.
-- **E vitamini ve polifenoller:** Yağda çözünen vitamin ve acılık veren bileşenler işleme ile değişir.
+- **E vitamini ve polifenoller:** Kayıtlarda E vitamini yeşil zeytinde daha yüksektir, polifenol için resmi bir sayı yoktur.
 - **Demir ve diğer mineraller:** Kalsiyum ve demir değerleri işleme yöntemine göre belirgin biçimde ayrılır.
 - **Sodyum:** Zeytinin günlük miktarını en çok belirleyen bileşen tuzdur.
 - **Fermente gıda olarak salamura:** Doğal zeytin, salamurada tam ya da kısmi fermantasyonla hazırlanır.
@@ -25,25 +25,25 @@ Aşağıdaki değerler ABD Tarım Bakanlığı'nın (USDA) FoodData Central veri
 
 Tekli doymamış yağ, zeytindeki yağın ana bileşenidir. USDA kaydında 100 g yeşil zeytinde 15,32 g yağ bulunur ve bunun 11,31 gramı tekli doymamış yağ asitleridir, yani yağın yaklaşık %74'ü. Konserve siyah zeytin kaydında ise 10,9 g yağın 7,65 gramı aynı gruptandır (yaklaşık %70). Doymuş yağ iki kayıtta da 2-2,3 g aralığında kalır.
 
-Bu oranlar zeytinin yağ profilini zeytinyağına yaklaştırır, ancak zeytin bir meyvedir: aynı 100 gramın yaklaşık 75-80 gramı sudur. Zeytinyağının sağlık etkileri ayrı bir konudur ve sofra zeytinine doğrudan aktarılmaz. Yağ oranı, zeytinin enerji değerini de belirler. Yeşil zeytin kaydında 100 g için 145 kcal, siyah zeytin kaydında 116 kcal görülür.
+Zeytin yine de bir meyvedir: aynı 100 gramın yaklaşık 75-80 gramı sudur. Zeytinyağının sağlık etkileri ayrı bir konudur ve sofra zeytinine doğrudan aktarılmaz. Yağ oranı, zeytinin enerji değerini de belirler. Yeşil zeytin kaydında 100 g için 145 kcal, siyah zeytin kaydında 116 kcal görülür.
 
 ## 2. Lif
 
-Lif, bitkisel gıdalarda bulunan ve ince bağırsakta sindirilmeyen karbonhidrat kısmıdır. Zeytin çekirdeği dışında bütün olarak yendiği için meyvenin lifi de tabağa gelir. USDA kayıtlarında 100 g yeşil zeytinde 3,3 g, konserve siyah zeytinde 1,6 g lif yer alır.
+Lif, zeytin çekirdeği dışında bütün olarak yendiği için tabağa gelen besin bileşenidir. USDA kayıtlarında 100 g yeşil zeytinde 3,3 g, konserve siyah zeytinde 1,6 g lif yer alır.
 
-Bu fark yalnızca renkten kaynaklanmaz. Kayıtlardaki iki ürün farklı olgunlukta toplanmış ve farklı yöntemle işlenmiştir, su oranları da farklıdır (yeşilde 75,3 g, siyahta 80 g). Zeytinin lif katkısı yenen miktarla sınırlıdır ve bu miktarı çoğu zaman tuz belirler. Birkaç tane zeytin, günün lif toplamına küçük bir ek yapar.
+Bu fark yalnızca renkten kaynaklanmaz. Kayıtlardaki iki ürün farklı olgunlukta toplanmış ve farklı yöntemle işlenmiştir, su oranları da farklıdır (yeşilde 75,3 g, siyahta 80 g). Yenen miktar küçük olduğu için lif katkısı da sınırlı kalır: L boy on tane yeşil zeytin (yaklaşık 38-43 g) kayıttaki değerle 1,3-1,4 g lif taşır.
 
 ## 3. E Vitamini ve Polifenoller
 
-E vitamini (alfa-tokoferol), yağda çözünen bir vitamindir ve zeytinin yağlı dokusunda bulunur. USDA kayıtlarında 100 g yeşil zeytinde 3,81 mg, konserve siyah zeytinde 1,65 mg E vitamini görülür. Polifenoller ise zeytine acılığını veren bitkisel bileşenlerdir. Dalından yeni toplanan zeytinin yenemeyecek kadar acı olmasının nedeni bunlardır.
+E vitamini, USDA kayıtlarında alfa-tokoferol olarak ölçülen besin öğesidir. Kayıtlarda 100 g yeşil zeytinde 3,81 mg, konserve siyah zeytinde 1,65 mg E vitamini görülür. Kayıtlar bu farkın nedenini açıklamaz, ancak iki ürün farklı olgunlukta toplanmış ve farklı yöntemle işlenmiştir.
 
-Sofra zeytini hazırlanırken bu acılık giderilir. Uluslararası Zeytin Konseyi'nin (IOC) sofralık zeytin standardına göre acılık alkali işlemle, acı bileşeni suya geçiren bekletmeyle ya da biyolojik süreçlerle (fermantasyon) alınır, bu yüzden zeytinin polifenol içeriği işleme yöntemine göre değişir. Sofra zeytini için güvenilir bir polifenol miktarı vermek ürün bazında analiz gerektirir. Polifenolün ne olduğu ve zeytinyağında nasıl değerlendirildiği [polifenol rehberinde](/blog/icerik/polifenol-nedir-yuksek-polifenollu-zeytinyagi) ayrıntılı anlatılıyor.
+Dalından toplanan zeytin acıdır ve sofraya gelmeden önce bu acılık giderilir. Uluslararası Zeytin Konseyi'nin (IOC) sofralık zeytin standardına göre acılık alkali işlemle, acı bileşeni seyrelten bir sıvıda bekletmeyle ya da biyolojik süreçlerle alınır. Sofra zeytininin polifenol miktarını gösteren resmi bir veri bu kaynaklarda yer almaz, bu yüzden burada sayı verilmez. Zeytinyağında [polifenol](/blog/icerik/polifenol-nedir-yuksek-polifenollu-zeytinyagi) değerinin nasıl okunduğu ayrı bir başlıktır.
 
 ## 4. Demir ve Diğer Mineraller
 
 Zeytinin mineral içeriği, siyah ile yeşil arasındaki en belirgin farkı gösterir. USDA kayıtlarında 100 g konserve siyah zeytinde 6,28 mg demir ve 88 mg kalsiyum bulunurken yeşil zeytinde demir 0,49 mg, kalsiyum 52 mg'dır. Demirdeki bu yaklaşık on üç katlık fark, olgunluktan çok işlemle ilgili bir ipucu verir.
 
-Kayıt farkın kaynağını açıklamaz. Ancak IOC standardı, oksidasyonla karartılmış zeytinde rengi sabit tutmak için demir glukonat ve demir laktat katkısına (kilogramda toplam demir olarak en fazla 0,15 g) izin verir. Kayıttaki yüksek demir değerini [doğal salamurada olgunlaşan siyah zeytine](/siyah-salamura-zeytin) genellemek doğru olmaz. Ambalajdaki içindekiler listesi, katkı kullanılıp kullanılmadığını gösterir.
+Kayıt farkın kaynağını açıklamaz. Ancak IOC standardı, oksidasyonla karartılmış zeytinde rengi sabit tutmak için demir glukonat ve demir laktat katkısına (kilogramda toplam demir olarak en fazla 0,15 g) izin verir. Kayıttaki yüksek demir değerini [doğal salamurada olgunlaşan siyah zeytine](/siyah-salamura-zeytin) genellemek doğru olmaz.
 
 ## 5. Sodyum
 
@@ -57,7 +57,7 @@ Sofralık Zeytin Tebliği ise ambalajlı zeytinde izin verilen en yüksek tuz or
 
 Salamura, zeytinin yenebilir hale gelmesi ve korunması için hazırlanan belirli yoğunlukta tuzlu sudur. Sofralık Zeytin Tebliği, doğal zeytini alkali kullanılmadan tam ya da kısmi fermantasyonla kuru tuzda veya salamurada hazırlanan zeytin olarak tanımlar. Doğal yöntemle hazırlanan [yeşil çizik zeytin](/yesil-cizik-zeytin) ve doğal siyah salamura zeytin bu gruba girer. IOC standardı da dökme halde salamurada bekleyen fermente zeytinde laktik asit bakterileri ve mayaların bulunabileceğini kaydeder.
 
-Fermantasyon, zeytinin acılığını gideren biyolojik süreçlerden biridir. "Fermente gıda" olmak ise tek başına bir sağlık etkisi kanıtı sayılmaz. Isıl işlemle sterilize edilen zeytin, örneğin oksidasyonla karartılmış zeytin, aynı standarda göre Clostridium botulinum sporlarını yok edecek sürede ve sıcaklıkta işlenir. Evde zeytin kurmanın aşamaları [yeşil çizik ve siyah salamura tarifinde](/blog/icerik/evde-zeytin-nasil-kurulur-yesil-cizik-siyah-salamura) adım adım yer alıyor.
+IOC standardı sofra zeytinini, acılığı giderilmiş ve doğal fermantasyonla ya da ısıl işlemle korunmuş meyve olarak tanımlar. "Fermente gıda" olmak ise tek başına bir sağlık etkisi kanıtı sayılmaz. Isıl işlemle sterilize edilen zeytin, örneğin oksidasyonla karartılmış zeytin, aynı standarda göre Clostridium botulinum sporlarını yok edecek sürede ve sıcaklıkta işlenir. Evde zeytin kurmanın aşamaları [yeşil çizik ve siyah salamura tarifinde](/blog/icerik/evde-zeytin-nasil-kurulur-yesil-cizik-siyah-salamura) adım adım yer alıyor.
 
 ## Siyah mı Yeşil mi Daha Sağlıklı?
 
@@ -87,7 +87,7 @@ Günde kaç zeytin yenmesi gerektiği kişiye ve ürüne göre değişir. DSÖ'n
 
 İlki ve en belirleyicisi sodyumdur. Tebliğin irilik tablosuna göre L boy zeytinin kilogramında 231-260 tane bulunur, yani 100 g kabaca 23-26 tane eder. USDA'daki yeşil zeytin kaydıyla bu miktar, DSÖ'nün günlük sodyum sınırının yaklaşık %78'ini karşılar. Daha küçük bir tabakta, L boy on tane yeşil zeytin yaklaşık 38-43 g gelir ve kayıttaki değerle 600-675 mg sodyum taşır, yani günlük sınırın üçte birine yakın.
 
-İkinci etken toplam enerjidir: zeytinin 100 gramı 116-145 kcal arasında değişir. Aynı gün peynir, ekmek, işlenmiş et ve hazır soslar da hem enerji hem sodyum getirir. Üçüncü etken kişinin sağlık durumudur. Yüksek tansiyon ya da böbrek hastalığı gibi durumlarda kişiye uygun tuz sınırını hekim belirler.
+İkinci etken toplam enerjidir: zeytinin 100 gramı 116-145 kcal arasında değişir. DSÖ'nün saydığı ekmek, işlenmiş et, atıştırmalıklar ve soslar da aynı gün sodyum getirir. Üçüncü etken kişinin sağlık durumudur. Yüksek tansiyon ya da böbrek hastalığı gibi durumlarda kişiye uygun tuz sınırını hekim belirler.
 
 Zeytinin tuzunu azaltmanın yolları ayrı bir konudur, ilk adım etiketteki 100 g başına tuz değerini okumaktır. Tane sayısı iriliğe göre değiştiği için aynı ağırlık iri boyda daha az taneye denk gelir. Bu yüzden hesap tane yerine gramla yapıldığında daha doğru sonuç verir. Kilogramdaki tane sayısı [iri boy zeytin](/iri-boy-zeytin) çeşitlerinde düşer, küçük tanelerde yükselir.
 
@@ -98,13 +98,13 @@ Zeytinin tuzunu azaltmanın yolları ayrı bir konudur, ilk adım etiketteki 100
 
 Zeytinin besin katkısını tuz yükünden ayırmanın yolu etiketi ve günün geri kalanını birlikte okumaktır. Aşağıdaki sekiz madde etiket okunurken sırayla kontrol edilebilir.
 
-- **100 g başına tuz:** Etiketteki tuz ya da sodyum değeri, rengi ve çeşidi aynı olan iki ürünü bile birbirinden ayırır.
+- **100 g başına tuz:** Karşılaştırma renk yerine etiketteki tuz ya da sodyum değeriyle yapılır.
 - **"Az tuzlu" ibaresi:** Tebliğe göre bu ifade, tuzu 100 g'da 4 g'a kadar olan zeytinde kullanılabilir.
-- **İşleme şekli:** Doğal salamura, sele, işlem görmüş ve oksidasyonla karartılmış zeytin farklı besin değerleri gösterir.
-- **İçindekiler listesi:** Demir glukonat veya demir laktat, karartılmış zeytinde renk sabitleyici olarak yer alabilir.
-- **Günün öteki tuzlu besinleri:** Peynir, ekmek, işlenmiş et ve hazır soslar aynı sodyum sınırını paylaşır.
+- **İşleme şekli:** Tebliğ doğal salamura, sele, işlem görmüş ve oksidasyonla karartılmış zeytini ayrı sınıflar.
+- **Katkı maddeleri:** IOC standardı karartılmış zeytinde demir glukonat ve demir laktatı renk sabitleyici olarak kabul eder.
+- **Günün öteki tuzlu besinleri:** Ekmek, işlenmiş et, atıştırmalıklar ve soslar aynı sodyum sınırını paylaşır.
 - **Enerji:** Zeytinin 100 gramı yağ oranına göre 116-145 kcal getirir.
-- **Tane iriliği:** Kilogramdaki tane sayısı, aynı ağırlığın kaç taneye denk geldiğini gösterir.
+- **Tane iriliği:** Tebliğe göre zeytin irileştikçe kilogramdaki tane sayısı azalır, bu yüzden hesap gramla yapılır.
 - **Sağlık durumu:** Tuz kısıtlaması gerektiren durumlarda miktar hekimle belirlenir.
 
 ## Kahvaltı Tabağı İçin Zeytin
@@ -125,7 +125,7 @@ Diri dokusuyla kahvaltıda, salatalarda ve kahvaltılık baharatla tatlandırıl
 
 ### Zeytin kilo aldırır mı?
 
-Değişir. USDA kayıtlarına göre zeytinin 100 gramı 116-145 kcal enerji verir ve bu enerjinin büyük kısmı yağdan gelir. Kilo değişimini günlük toplam enerji alımı ve harcaması belirler. Zeytin, kahvaltı tabağının toplam enerjisi içinde değerlendirilmelidir.
+Değişir. USDA kayıtlarına göre zeytinin 100 gramı 116-145 kcal enerji verir ve bu enerjinin büyük kısmı yağdan gelir. Zeytin, kahvaltı tabağının ve günün toplam enerjisi içinde değerlendirilmelidir.
 
 ### Siyah zeytin mi yeşil zeytin mi daha tuzlu?
 
@@ -133,7 +133,7 @@ Değişir. USDA kayıtlarında yeşil zeytin 100 g'da 1.556 mg, konserve siyah z
 
 ### Zeytin fermente bir gıda mıdır?
 
-Çoğu zaman evet. Sofralık Zeytin Tebliği, doğal zeytini alkali kullanılmadan tam ya da kısmi fermantasyonla hazırlanan zeytin olarak tanımlar. Oksidasyonla karartılmış zeytin ise fermente edilerek ya da edilmeden üretilebilir ve ısıl işlemle sterilize edilir.
+Değişir. Sofralık Zeytin Tebliği, doğal zeytini alkali kullanılmadan tam ya da kısmi fermantasyonla hazırlanan zeytin olarak tanımlar. Oksidasyonla karartılmış zeytin ise fermente edilerek ya da edilmeden üretilebilir ve IOC standardına göre ısıl işlemle sterilize edilir.
 
 ### Tansiyonu olan zeytin yiyebilir mi?
 
@@ -181,7 +181,7 @@ Zeytinin faydaları,Zeytin faydaları,Siyah zeytin,Yeşil zeytin,Zeytin besin de
 | Dış kaynaklar | 4 adet, aşağıdaki tabloda |
 | S.S.S. tasarım kaynağı | marka-profili.md Bölüm 6.8 (H3'te `font-weight:700` ve `line-height:1.4` profildeki not gereği). Diğer bileşenler 6.1-6.7 |
 | Etiketler | Zeytinin faydaları,Zeytin faydaları,Siyah zeytin,Yeşil zeytin,Zeytin besin değeri,Günde kaç zeytin,Zeytinde tuz,Salamura zeytin,Sofralık zeytin (9 etiket; sitede mevcut etiket listesi iletilmedi, hepsi yeni sayılmalı) |
-| Kelime sayısı | **1.935** kelime (tablolar ve tablo altı kaynak notu hariç, H2'den Etiketler'e kadar; betikle sayıldı). Kaynaklar ve Etiketler hariç **1.857** kelime. Brief aralığı 1.800-2.200 |
+| Kelime sayısı | **1.911** kelime (tablolar ve tablo altı kaynak notu hariç, H2'den Etiketler'e kadar; betikle sayıldı). Kaynaklar ve Etiketler hariç **1.833** kelime. Brief aralığı 1.800-2.200 |
 
 ### İç bağlantılar (sitemap kontrolü)
 
@@ -277,7 +277,7 @@ Not: 169094 ABD tipi konserve siyah zeytindir; Türkiye'deki doğal salamura/sel
 | En az bir tablo ve bir kontrol listesi | ✓ | Karşılaştırma tablosu + 8 maddelik kontrol listesi |
 | Sonuç N maddeyi tek cümlede sayıyor, CTA ile bitiyor | ✓ | İlk cümle altı başlığı sayıyor, son cümle /zeytin + marka kalıbı |
 | Kaynaklar'dan sonra 8-10 etiket | ✓ | 9 etiket, virgüllü boşluksuz (profil Bölüm 3) |
-| S.S.S. cevapları tek kelimelik hükümle | ✓ | Değişir. / Değişir. / Çoğu zaman evet. / Kişiye göre değişir. / Hayır. (iki hüküm iki-üç kelime) |
+| S.S.S. cevapları tek kelimelik hükümle | ✓ | Değişir. / Değişir. / Değişir. / Kişiye göre değişir. / Hayır. |
 | Garanti / kişisel veri sorusu gerekiyorsa | ✓ | Konu gereği yok |
 | sss.html değerleri iletilen koddan | ✓ | Profil 6.8 |
 | HTML soru-cevaplar belgeyle birebir, FAQPage bir kez | ✓ | Aynı kaynaktan betikle üretildi |
