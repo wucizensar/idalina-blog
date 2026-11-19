@@ -1,4 +1,4 @@
-# İdalina Beceren — Marka Profili ve Şablon Uyarlamaları
+# İdalina Beceren: Marka Profili ve Şablon Uyarlamaları
 
 Bu dosya `blog-sablonu-v3.md` Bölüm 1'in doldurulmuş halidir ve şablonun bu siteye uyarlanmış kurallarını içerir. **Çakışma olursa bu dosya önceliklidir.**
 Son güncelleme: 19 Kasım 2026 (değerler canlı siteden ve sitemap'ten alınmıştır).
@@ -17,7 +17,7 @@ Son güncelleme: 19 Kasım 2026 (değerler canlı siteden ve sitemap'ten alınm�
 | Ürün sayfaları | Kök dizinde, ör. `/5l-erken-hasat-zeytinyagi` | Sitemap |
 | Kategori sayfaları | Kök dizinde, ör. `/erken-hasat-zeytinyagi` | Sitemap |
 | Yayın dili / hedef ülke | Türkçe / Türkiye | Kullanıcı |
-| Veri koruma mevzuatı | KVKK / Kişisel Verileri Koruma Kurumu (yalnızca konu gerektirirse) | — |
+| Veri koruma mevzuatı | KVKK / Kişisel Verileri Koruma Kurumu (yalnızca konu gerektirirse) | - |
 | Gıda mevzuatı (konu gerektirirse) | Türk Gıda Kodeksi (Zeytinyağı ve Prina Yağı Tebliği; Beslenme ve Sağlık Beyanları Yönetmeliği), Tarım ve Orman Bakanlığı, TÜRKPATENT coğrafi işaret kayıtları, Uluslararası Zeytin Konseyi (IOC) | Kullanılmadan önce resmi kaynaktan açılarak doğrulanır |
 | Otomatik şema | Ticimax her yazıya **BlogPosting** ve **BreadcrumbList** şemasını kendisi ekliyor. Ayrıca Article şeması **eklenmez**. Sitede FAQPage şeması **yok**, yazı ile birlikte verilir. | Canlı sayfa kaynağı |
 
@@ -40,24 +40,42 @@ Son güncelleme: 19 Kasım 2026 (değerler canlı siteden ve sitemap'ten alınm�
 - Hasat yılı ifadesi ürün adında nasıl geçiyorsa öyle yazılır (ör. "2026-2027 Hasadı", "Yeni Hasat 2026").
 - Etiketler sitedeki biçimle yazılır: **virgülle, boşluksuz**, ör. `Fava tarifi,Kuru bakla,Ege mezeleri,Zeytinyağlı tarifler`. İlk harf büyük, gerisi cümle düzeninde. (Şablondaki " · " biçimi bu site için geçersizdir.)
 
+## 3A. Doğal Türkçe yazım skill'i ve öncelik sırası (kullanıcı onaylı)
+
+Yazarlar `.claude/skills/turkce-dogal-yazim/SKILL.md` skill'ini kullanır. Çakışmada öncelik: **marka profili > şablon (v3) > doğal yazım skill'i.** Şablon, skill'in "kullanıcı açıkça bir biçim isterse" istisnası sayılır. Aşağıdaki çözümler bağlayıcıdır:
+
+| # | Konu | Uygulanacak kural |
+| :-: | :-- | :-- |
+| 1 | Giriş P2 yol haritası | İçerik korunur (N sayısı + neyin anlatılacağı), **"Bu yazıda … ele alınmıştır." kalıbı kullanılmaz.** Doğal, bilgi taşıyan bir cümle yazılır. Ör. "Erken hasadı olgun hasattan ayıran beş fark var: hasat zamanı, renk, tat, polifenol ve kullanım alanı." Şablon Bölüm 3 (#3) ve Bölüm 10'daki ilgili madde bu şekilde okunur |
+| 2 | Köprü cümlesi | Her maddede zorunlu değil. En fazla iki maddede bir, her biri farklı yapıda |
+| 3 | Çatı | Gövdede etken çatı ve geniş zaman ("Erken hasat yağ daha acıdır."). Edilgen yalnızca marka geçiş kalıbında ("…incelenebilir") ve gerçekten öznesiz yerlerde. Gündelik anlatımda -mAktAdIr kullanılmaz |
+| 4 | H1 ve title | "Etiket: Alt başlık" kalıbı serbest (sitedeki kullanım ve anahtar kelimenin başta olması için). Skill'in başlık yasağı H1/title'a uygulanmaz. Başlıkta "ve, ile, mı" küçük harf kuralı geçerlidir |
+| 5 | Kalın yazı | Yapısal kalınlar muaf: özet liste etiketleri, tablo satır başlıkları, kutu başlıkları, ürün adları. Düz paragraf içinde en fazla 1-2 kalın |
+| 6 | Kişisel yargı / hitap | Uygulanmaz. Üçüncü şahıs, "biz" yok, "siz" çok nadir ve tutarlı |
+| 7 | Skill kontrol maddesi 11 ("somut ayrıntı yoksa ekle") | **Değiştirildi:** Somut ayrıntı (sayı, ad, tarih, örnek) yalnızca doğrulanmış kaynaktan veya bu profildeki bilgiden eklenir. Yoksa uydurulmaz, Editör Notları'na "somut veri eksik" diye yazılır |
+| 8 | İhtiyat dili | Sağlık ve beslenme cümlelerinde temkinli dil korunur. Skill'in "-Abil yığılması" kuralı bu cümlelere uygulanmaz |
+| 9 | Uzun çizgi (—) ve şapkalı harf | Metinde hiç kullanılmaz. İstisna: ürün adları sitede nasıl yazılıyorsa öyle kalır (ör. "Bebek Zeytinyağı – Natürel Sızma…"). Aralıklarda kısa çizgi: "Kasım sonu-Aralık", "1.200-1.600" |
+
+Teslimden önce iki kontrol listesi birlikte uygulanır: şablon Bölüm 10 (1. maddeye göre okunmuş hali) ve skill'in 12 maddelik listesi (7. maddeye göre değiştirilmiş hali).
+
 ## 4. Tarif yazısı iskeleti
 
-Tahmini uzunluk: **1.200–1.600 kelime** (tablolar ve malzeme listesi hariç).
+Tahmini uzunluk: **1.200-1.600 kelime** (tablolar ve malzeme listesi hariç).
 
 | # | Bölüm | Not |
 | :-: | :-- | :-- |
 | 1 | H1 | "[Yemek] Tarifi: [ayırt edici özellik]" (ör. sitedeki fava/humus başlıkları) |
 | 2 | Giriş P1: tanım | "[Yemek], … -dır/-dir." |
-| 3 | Giriş P2: yol haritası | "Bu yazıda … ele alınmıştır." (N püf noktası sayısı geçer) |
+| 3 | Giriş P2: yol haritası | N püf noktası sayısı geçer, kalıp yok (Bölüm 3A #1) |
 | 4 | H2: Malzemeler | Porsiyon bilgisi + madde listesi. Ölçüler tarifin kendi değeridir; sağlık/kalori iddiası yok |
 | 5 | H2: Yapılışı | Numaralı adım listesi (`<ol>`) |
-| 6 | H2: N püf noktası (özet liste) + H2 × N | Şablonun numaralı çerçevesi; madde başı 80–120 kelime |
+| 6 | H2: N püf noktası (özet liste) + H2 × N | Şablonun numaralı çerçevesi; madde başı 80-120 kelime |
 | 7 | H2: Tablo | ör. "Hangi aşamada hangi zeytinyağı?" (Aşama / Önerilen yağ türü / Neden) |
-| 8 | H2: Kontrol listesi | "… Yaparken Nelere Dikkat Edilmeli?" 6–8 madde |
-| 9 | H2: Ürün kutuları | "[Yemek] tabağınız için" + 2–3 ürün kutusu (Bölüm 6.6) |
-| 10 | H2: S.S.S. | 3–5 soru |
+| 8 | H2: Kontrol listesi | "… Yaparken Nelere Dikkat Edilmeli?" 6-8 madde |
+| 9 | H2: Ürün kutuları | "[Yemek] tabağınız için" + 2-3 ürün kutusu (Bölüm 6.6) |
+| 10 | H2: S.S.S. | 3-5 soru |
 | 11 | H2: Sonuç | Özet + CTA |
-| 12 | H2: Kaynaklar | 1–3 resmi kaynak (tarifte zorunlu değil, gıda güvenliği/mevzuat varsa zorunlu) |
+| 12 | H2: Kaynaklar | 1-3 resmi kaynak (tarifte zorunlu değil, gıda güvenliği/mevzuat varsa zorunlu) |
 | 13 | Etiketler | Virgüllü tek satır |
 
 Rehber yazılarında şablonun Bölüm 3 iskeleti aynen kullanılır, sonuçtan önce Bölüm 9'daki ürün kutusu bölümü eklenir.
@@ -155,7 +173,7 @@ Sarı kampanya kutusu (`#FBF7EA` / `#C9A227`) kullanılmaz.
   <p><a href="/[ürün-adresi]" style="background-color:#3F6B3A;border-radius:6px;color:#fff;display:inline-block;font-size:14px;padding:10px 20px;text-decoration:none;"><strong>Ürünü İncele →</strong></a></p>
 </div>
 ```
-Bir yazıda 2–3 kutu, "[Konu] için" başlıklı tek H2 altında. Ürün kutusu bağlantıları iç bağlantı sayısına (6–9) dahil edilmez, Editör Notları'nda ayrıca listelenir.
+Bir yazıda 2-3 kutu, "[Konu] için" başlıklı tek H2 altında. Ürün kutusu bağlantıları iç bağlantı sayısına (6-9) dahil edilmez, Editör Notları'nda ayrıca listelenir.
 
 ### 6.7 Tablo
 ```html

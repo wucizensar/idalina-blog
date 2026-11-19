@@ -1,4 +1,4 @@
-# İdalina Beceren Blog — Yazar Talimatı
+# İdalina Beceren Blog: Yazar Talimatı
 
 Bu depo https://idalinabeceren.com blogu için yazı üretim alanıdır. Her yazı ayrı bir oturumda, blog yönetmeninden (ana oturum) gelen brief ile yazılır.
 
@@ -6,7 +6,8 @@ Bu depo https://idalinabeceren.com blogu için yazı üretim alanıdır. Her yaz
 1. `_kaynak/marka-profili.md`: Marka profili, e-ticaret uyarlamaları, bağlanabilir ürün listesi, tasarım bileşenleri. **Şablonla çakışırsa bu dosya geçerlidir.**
 2. `_kaynak/blog-sablonu-v3.md`: Yazım şablonu (iskelet, dil, SEO, bağlantı, S.S.S., kontrol listesi).
 3. `_kaynak/sitemap.xml`: İç bağlantıların **tek** kaynağı.
-4. `_kaynak/ornekler/`: Yayındaki iki yazının gövde HTML'i (biçim referansı; dilini değil yapısını örnek alın, eski yazılarda "biz" dili var, yeni yazılarda yok).
+4. `.claude/skills/turkce-dogal-yazim/SKILL.md`: Doğal Türkçe yazım skill'i. **Yazmaya başlamadan önce yükle.** Şablonla çakıştığı yerlerde marka-profili Bölüm 3A geçerlidir.
+5. `_kaynak/ornekler/`: Yayındaki iki yazının gövde HTML'i (biçim referansı; dilini değil yapısını örnek alın, eski yazılarda "biz" dili var, yeni yazılarda yok).
 
 ## Teslim
 Klasör: `yazilar/<slug>/`
@@ -23,6 +24,7 @@ Klasör: `yazilar/<slug>/`
 - Dış kaynak: yalnızca resmi/birincil kaynak; her adresi WebFetch (veya web-fetch alt ajanı) ile açarak doğrula. Açılamayanı kullanma ya da "doğrulanamadı" diye işaretle. Hafızadan adres yazma.
 - Title/meta karakter sayılarını betikle say (Python `len`), tahmin yazma.
 - Kelime sayısını betikle say ve Editör Notları'na yaz (tablolar hariç).
-- Bitirmeden önce şablon Bölüm 10 kontrol listesini tek tek uygula ve sonucu Editör Notları'nın sonuna "Kontrol listesi" olarak ekle (her madde ✓ / ✗ + açıklama).
+- Bitirmeden önce iki kontrol listesini tek tek uygula: şablon Bölüm 10 ve doğal yazım skill'inin 12 maddesi (ikisi de marka-profili Bölüm 3A'ya göre okunur). Sonucu Editör Notları'nın sonuna "Kontrol listesi" olarak ekle (her madde ✓ / ✗ + açıklama).
+- Metinde uzun çizgi (—), şapkalı harf (â, î, û) ve "Bu yazıda … ele alınmıştır" kalıbı olmadığını betikle kontrol et.
 - `_kaynak/` klasörünü değiştirme.
-- Commit mesajı: `yazi: <slug>` (revizyonlarda `revize: <slug> – <kısa not>`). Brief'te verilen dala push et.
+- Commit mesajı: `yazi: <slug>` (revizyonlarda `revize: <slug> - <kısa not>`). Brief'te verilen dala push et.
